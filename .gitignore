@@ -1,2 +1,6 @@
 __pycache__/
 *.py[cod]
+
+# Agent worktrees live inside the repo but are not part of it. Working inside one
+# also keeps Entire checkpoints off the working branch, so all work happens on main.
+.claude/worktrees/
