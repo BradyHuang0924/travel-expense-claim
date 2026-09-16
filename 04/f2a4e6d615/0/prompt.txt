@@ -1,0 +1,50 @@
+前段是問題，中段是你的兩條約束（空白處用你自己的話），後段是工作。
+
+先回答兩題：
+
+1. 先前分析的「已付事實 12,134.15 EUR」與現在的 net paid 11,539.15 EUR 差 595.00。
+   逐筆說明差額來自哪裡——是 confirmed refund 抵扣，還是有事件未被 admit？
+
+2. 95 筆 closed-reimbursed，請對每一筆斷言五個條件同時成立：
+   當前版本核准完整、授權義務等於當前 supported 行總和、net paid 精確等於該義務、
+   所有必要的 Finance resolution 到位、該 claim 無未結 issue。
+   把這條加進 verify，並告訴我有沒有任何一筆是靠寬鬆比對通過的。
+
+接著是我的第三、第四條約束，從現在起生效：
+
+約束 3 —— 我接受的財務完成條件與交付範圍
+
+［你的話：一筆 claim 只有在下列全部成立時才記為 closed-reimbursed：
+  當前核准完整、授權義務、net paid 精確相符、必要 resolution 到位、無未結 issue］
+
+［明確不算完成的兩種情況，依據我剛看到的實際結果：
+  - 部分結算不算完成——那 2 筆 partial-pending 維持 pending
+  - 負餘額不算完成——C20 的 −1000 cents 是溢付，需要 Finance resolution，
+    所以是 held 並指名 FIN-01，不是 closed］
+
+［交付範圍：這一輪交付 95 筆完成，其餘據實列出負責人與所需證據，
+  不強行推到終態。我接受在這個 run 裡無法完成的包括：GBP 付款日匯率在 FX 表中缺失、
+  BE lodging 在 Caps 表中無適用上限、entertainment 類別不被政策認可、
+  缺少 settled merchant transaction 的成本、以及 TC121/TC018
+  這些是被回報，不是被解決。］
+
+［這條約束不授權的事：不得為了讓數字看起來完整而結案，不得虛構 Finance resolution。］
+
+約束 4 —— 修補佇列的組織方式與部分回應約束
+
+［組織單位：一筆 entry 對應一個（主體、版本、缺失事實），不是一筆 claim 一個 entry。
+  依據是那 21 筆 held 實際分解成不同性質的缺口、負責人也不同
+  （ADMIN-01 缺審核、FIN-01 缺匯率/上限/例外、EMP-01 與 EMP-03 缺證據、
+  SUP-01 待確認取消）。一筆 claim 一個 entry 會把它們壓平並且
+  每筆 entry 要能追到主體、版本、來源、缺失事實或退回理由、負責人、下一步動作。］
+
+［部分回應約束：部分回應只解決它明確指名的 entry，永不連帶關閉同一 claim 的其他 entry，
+  也永不讓 claim 升級狀態。依據是我剛看到的部分結算行為——parti
+  同一原則套用到證據補件。］
+
+［後續批次是固定輸入，不是我的 draft 造成的事件；佇列永不改動來源資料。］
+
+確認之後，接著做：
+batch 3 與 batch 4 的 sealed snapshot、修補佇列、完整 replay
+（未變更的 replay 必須產出位元組相同的輸出），以及 report.md 初稿。
+做完停下來給我看。
