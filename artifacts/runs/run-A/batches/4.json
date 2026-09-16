@@ -4,11 +4,11 @@
   "batch_id": "4",
   "predecessor": {
     "path": "batches/3.json",
-    "sha256": "2cddc4f1f6678786a3cc9486eab79577457e6360e862a4456157942de9f69acb"
+    "sha256": "656b11a4eba1d1916e67896224bf8c3d744229ffa15d4302783a6a1ae23984c0"
   },
   "source_binding": {
     "path": "sources.json",
-    "sha256": "d52e640cb9544603082d728e3f4fc3e90e96d88cbd20e45a3dc035807c23b499"
+    "sha256": "442e0f14e79544865aad9d9a0a1c6656f3ed7af7198122c6a2293426e04ca838"
   },
   "claims": [
     {

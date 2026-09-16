@@ -66,12 +66,14 @@ def main(argv=None) -> int:
 
     predecessor = None
     snapshots = []
+    snapshot_hashes: dict[str, str] = {}
     entries: list[dict] = []
     for batch_str in args.batches.split(","):
         batch = int(batch_str.strip())
         predecessor, snap, issue_objs = _process_batch(
             batch, root, run_id, reg, docs, receipts, source_binding, predecessor)
         snapshots.append(snap)
+        snapshot_hashes[snap["batch_id"]] = predecessor["sha256"]
         claims_by_id = {c["claim_id"]: c for c in snap["claims"]}
         entries = repair.carry_forward(
             entries, repair.build(issue_objs, claims_by_id, str(batch)))
@@ -85,7 +87,8 @@ def main(argv=None) -> int:
                       last_batch), encoding="utf-8")
     sources_doc = json.loads((root / "sources.json").read_text(encoding="utf-8"))
     (root / "report.md").write_text(
-        report.render(run_id, snapshots, entries, sources_doc), encoding="utf-8")
+        report.render(run_id, snapshots, entries, sources_doc, snapshot_hashes),
+        encoding="utf-8")
     print(f"\n[deliverables] repair-queue.md ({len(entries)} entries), report.md, "
           f"claims.csv, {len(snapshots)} sealed snapshots")
     return 0
