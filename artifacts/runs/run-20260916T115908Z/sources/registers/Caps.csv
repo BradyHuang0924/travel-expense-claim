@@ -1,0 +1,3 @@
+"Caps Synthetic business records. SRC-D-3. Original currency per night/day. Dates inclusive. Cap reference","Destination","Category","Currency","Effective from","Effective to","Amount per unit"
+"CAP-lodging","NL","lodging","EUR","2026-01-01","2026-12-31","150.00"
+"CAP-meals","NL","meals","EUR","2026-01-01","2026-12-31","40.00"

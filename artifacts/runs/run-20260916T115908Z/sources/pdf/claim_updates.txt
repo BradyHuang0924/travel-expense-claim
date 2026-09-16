@@ -1,0 +1,239 @@
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 1 of 7
+Claim reference: C09
+Revision: 2
+Arrival batch: 3
+Employee: EMP-01
+Trip reference: T09B
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Trip replaced after client rescheduling
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-09B
+R-COST-09B
+2026-09-01
+80.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 2 of 7
+Claim reference: C19
+Revision: 2
+Arrival batch: 3
+Employee: EMP-01
+Trip reference: T19
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Finance approved corrected supported amount
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-19
+R-COST-19
+2026-09-01
+100.00
+EUR
+Finance exception
+Authorizing Finance officer: FIN-01
+Applies to claim: C19
+Applies to revision: 2
+Expense reference: COST-19
+Allowed original amount: 80.00
+Covered issues: None
+Exception reason: Corrected business portion confirmed
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 3 of 7
+Claim reference: C24
+Revision: 1
+Arrival batch: 3
+Employee: EMP-01
+Trip reference: T03
+Trip revision: 1
+Submitted date: 2026-09-08
+Status: submitted
+Claim reason: Additional cost claim retaining prepaid cost linkage
+Related earlier claims: C03
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-03
+R-COST-03
+2026-09-01
+200.00
+EUR
+2
+COST-24
+R-COST-24
+2026-09-08
+50.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 4 of 7
+Claim reference: C18
+Revision: 2
+Arrival batch: 3
+Employee: EMP-01
+Trip reference: T18B
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Trip reassigned while cancellation is awaiting Finance
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-18B
+R-COST-18B
+2026-09-01
+100.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 5 of 7
+Claim reference: C12
+Revision: 2
+Arrival batch: 3
+Employee: EMP-01
+Trip reference: T12
+Trip revision: 1
+Submitted date: 2026-09-02
+Status: submitted
+Claim reason: Finance grants the documented late-filing exception
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-12
+R-COST-12
+2026-09-02
+70.00
+EUR
+Finance exception
+Authorizing Finance officer: FIN-01
+Applies to claim: C12
+Applies to revision: 2
+Expense reference: COST-12
+Allowed original amount: 70.00
+Covered issues: Late filing
+Exception reason: Employee documented delayed access during client emergency
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 6 of 7
+Claim reference: C121
+Revision: 2
+Arrival batch: 3
+Employee: EMP-01
+Trip reference: T121
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Finance confirms supported remaining cost after permit cancellation
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-121
+R-COST-121
+2026-09-01
+30.00
+EUR
+Finance exception
+Authorizing Finance officer: FIN-01
+Applies to claim: C121
+Applies to revision: 2
+Expense reference: COST-121
+Allowed original amount: 20.00
+Covered issues: Travel cancellation
+Travel cancellation reference: TC121
+Exception reason: Confirmed cancellation leaves a supported non-refundable business cost of EUR 20.00
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 7 of 7
+Claim reference: C19
+Revision: 3
+Arrival batch: 4
+Employee: EMP-01
+Trip reference: T19
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Finance confirms retained business cost after trip cancellation
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-19
+R-COST-19
+2026-09-01
+100.00
+EUR
+Finance exception
+Authorizing Finance officer: FIN-01
+Applies to claim: C19
+Applies to revision: 3
+Expense reference: COST-19
+Allowed original amount: 80.00
+Covered issues: Travel cancellation
+Travel cancellation reference: TC019
+Exception reason: Confirmed trip cancellation retains EUR 80.00 of supported business cost; linked EUR 20.00
+refund reconciles prior reimbursement

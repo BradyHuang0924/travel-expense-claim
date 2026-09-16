@@ -1,0 +1,336 @@
+{
+  "run_id": "run-20260916T115908Z",
+  "case_clock": {
+    "date": "2026-11-15",
+    "timezone": "Europe/Amsterdam"
+  },
+  "fetch_policy": "all five sources fetched fresh over the network on every run",
+  "version_convention": "Only the policy carries a version string (POL-2026.2). The four business sources stamp package id SRC-D-3 with no version, so observed_version is the SHA-256 of the retained bytes. No version number is invented.",
+  "sources": [
+    {
+      "source_id": "policy",
+      "url": "https://private-pecorino-70e.notion.site/api/v3/loadPageChunk",
+      "locator": {
+        "kind": "notion_api",
+        "page_id": "3d80b700-541e-81ed-93eb-d386abc1dcb0",
+        "endpoint": "/api/v3/loadPageChunk"
+      },
+      "fetched_at": "2026-09-16T11:59:09Z",
+      "retained_path": "sources/policy/loadPageChunk.json",
+      "observed_version": {
+        "convention": "sha256-of-retained-bytes",
+        "sha256": "eaefc34b6add7c993208211e50ab352b81b0a1f16e18d155cd14e222b921f664",
+        "bytes": 51008,
+        "notion_block_version": 29,
+        "notion_last_edited_time": "2026-09-12T04:41:17Z"
+      },
+      "declared_version": {
+        "package_id": null,
+        "version_string": "POL-2026.2"
+      },
+      "counts": {
+        "content_blocks": 16,
+        "chunks": 1
+      }
+    },
+    {
+      "source_id": "registers.people",
+      "url": "https://docs.google.com/spreadsheets/d/1338nvKD6rgAdLgGRhYCMMlQyDNLK0sE8pvFWrZAaaxg/gviz/tq?tqx=out:csv&sheet=People",
+      "locator": {
+        "kind": "gviz_csv",
+        "spreadsheet_id": "1338nvKD6rgAdLgGRhYCMMlQyDNLK0sE8pvFWrZAaaxg",
+        "tab": "People"
+      },
+      "fetched_at": "2026-09-16T11:59:10Z",
+      "retained_path": "sources/registers/People.csv",
+      "observed_version": {
+        "convention": "sha256-of-retained-bytes",
+        "sha256": "a228b55f381bb764947879721f72617c8acc42dd2ab1ede432cb285ca3a00d2c",
+        "bytes": 1744
+      },
+      "declared_version": {
+        "package_id": "SRC-D-3",
+        "version_string": null
+      },
+      "counts": {
+        "csv_rows": 18
+      }
+    },
+    {
+      "source_id": "registers.trips",
+      "url": "https://docs.google.com/spreadsheets/d/1338nvKD6rgAdLgGRhYCMMlQyDNLK0sE8pvFWrZAaaxg/gviz/tq?tqx=out:csv&sheet=Trips",
+      "locator": {
+        "kind": "gviz_csv",
+        "spreadsheet_id": "1338nvKD6rgAdLgGRhYCMMlQyDNLK0sE8pvFWrZAaaxg",
+        "tab": "Trips"
+      },
+      "fetched_at": "2026-09-16T11:59:10Z",
+      "retained_path": "sources/registers/Trips.csv",
+      "observed_version": {
+        "convention": "sha256-of-retained-bytes",
+        "sha256": "949e7e9737ea42b5716a1028f4b5f4ba32cf781985bd11f1ec30c63397a5a5c5",
+        "bytes": 28276
+      },
+      "declared_version": {
+        "package_id": "SRC-D-3",
+        "version_string": null
+      },
+      "counts": {
+        "csv_rows": 124
+      }
+    },
+    {
+      "source_id": "registers.merchant_payments",
+      "url": "https://docs.google.com/spreadsheets/d/1338nvKD6rgAdLgGRhYCMMlQyDNLK0sE8pvFWrZAaaxg/gviz/tq?tqx=out:csv&sheet=Merchant%20payments",
+      "locator": {
+        "kind": "gviz_csv",
+        "spreadsheet_id": "1338nvKD6rgAdLgGRhYCMMlQyDNLK0sE8pvFWrZAaaxg",
+        "tab": "Merchant payments"
+      },
+      "fetched_at": "2026-09-16T11:59:10Z",
+      "retained_path": "sources/registers/Merchant_payments.csv",
+      "observed_version": {
+        "convention": "sha256-of-retained-bytes",
+        "sha256": "c2c476c7b2f76ae66fc5e2c1eb98f17f5f50b38f01d27958f9cb7dd2dc70dcf7",
+        "bytes": 18778
+      },
+      "declared_version": {
+        "package_id": "SRC-D-3",
+        "version_string": null
+      },
+      "counts": {
+        "csv_rows": 202
+      }
+    },
+    {
+      "source_id": "registers.fx",
+      "url": "https://docs.google.com/spreadsheets/d/1338nvKD6rgAdLgGRhYCMMlQyDNLK0sE8pvFWrZAaaxg/gviz/tq?tqx=out:csv&sheet=FX",
+      "locator": {
+        "kind": "gviz_csv",
+        "spreadsheet_id": "1338nvKD6rgAdLgGRhYCMMlQyDNLK0sE8pvFWrZAaaxg",
+        "tab": "FX"
+      },
+      "fetched_at": "2026-09-16T11:59:11Z",
+      "retained_path": "sources/registers/FX.csv",
+      "observed_version": {
+        "convention": "sha256-of-retained-bytes",
+        "sha256": "63d57b2e0a629b55eef754f792f81a8631ff7a72ccfb0befda74a9ba8aff57f7",
+        "bytes": 218
+      },
+      "declared_version": {
+        "package_id": "SRC-D-3",
+        "version_string": null
+      },
+      "counts": {
+        "csv_rows": 3
+      }
+    },
+    {
+      "source_id": "registers.caps",
+      "url": "https://docs.google.com/spreadsheets/d/1338nvKD6rgAdLgGRhYCMMlQyDNLK0sE8pvFWrZAaaxg/gviz/tq?tqx=out:csv&sheet=Caps",
+      "locator": {
+        "kind": "gviz_csv",
+        "spreadsheet_id": "1338nvKD6rgAdLgGRhYCMMlQyDNLK0sE8pvFWrZAaaxg",
+        "tab": "Caps"
+      },
+      "fetched_at": "2026-09-16T11:59:11Z",
+      "retained_path": "sources/registers/Caps.csv",
+      "observed_version": {
+        "convention": "sha256-of-retained-bytes",
+        "sha256": "a74cb95e3d579992df1626fa497346c1a40fa2a30dcc51dbd8233cef0c71bdd6",
+        "bytes": 328
+      },
+      "declared_version": {
+        "package_id": "SRC-D-3",
+        "version_string": null
+      },
+      "counts": {
+        "csv_rows": 3
+      }
+    },
+    {
+      "source_id": "registers.budget",
+      "url": "https://docs.google.com/spreadsheets/d/1338nvKD6rgAdLgGRhYCMMlQyDNLK0sE8pvFWrZAaaxg/gviz/tq?tqx=out:csv&sheet=Budget",
+      "locator": {
+        "kind": "gviz_csv",
+        "spreadsheet_id": "1338nvKD6rgAdLgGRhYCMMlQyDNLK0sE8pvFWrZAaaxg",
+        "tab": "Budget"
+      },
+      "fetched_at": "2026-09-16T11:59:12Z",
+      "retained_path": "sources/registers/Budget.csv",
+      "observed_version": {
+        "convention": "sha256-of-retained-bytes",
+        "sha256": "01c418150b544f0c2e4ef98527d74f7dba7ac00cc6dd7f512097b00315dca57f",
+        "bytes": 564
+      },
+      "declared_version": {
+        "package_id": "SRC-D-3",
+        "version_string": null
+      },
+      "counts": {
+        "csv_rows": 4
+      }
+    },
+    {
+      "source_id": "registers.review_ledger",
+      "url": "https://docs.google.com/spreadsheets/d/1338nvKD6rgAdLgGRhYCMMlQyDNLK0sE8pvFWrZAaaxg/gviz/tq?tqx=out:csv&sheet=Review%20ledger",
+      "locator": {
+        "kind": "gviz_csv",
+        "spreadsheet_id": "1338nvKD6rgAdLgGRhYCMMlQyDNLK0sE8pvFWrZAaaxg",
+        "tab": "Review ledger"
+      },
+      "fetched_at": "2026-09-16T11:59:12Z",
+      "retained_path": "sources/registers/Review_ledger.csv",
+      "observed_version": {
+        "convention": "sha256-of-retained-bytes",
+        "sha256": "fdc5908547e4e1d3f2eb69ef1b53690a156155b127cdecc4bcba5d16d2f1fcca",
+        "bytes": 70628
+      },
+      "declared_version": {
+        "package_id": "SRC-D-3",
+        "version_string": null
+      },
+      "counts": {
+        "csv_rows": 308
+      }
+    },
+    {
+      "source_id": "registers.review_packets",
+      "url": "https://docs.google.com/spreadsheets/d/1338nvKD6rgAdLgGRhYCMMlQyDNLK0sE8pvFWrZAaaxg/gviz/tq?tqx=out:csv&sheet=Review%20packets",
+      "locator": {
+        "kind": "gviz_csv",
+        "spreadsheet_id": "1338nvKD6rgAdLgGRhYCMMlQyDNLK0sE8pvFWrZAaaxg",
+        "tab": "Review packets"
+      },
+      "fetched_at": "2026-09-16T11:59:13Z",
+      "retained_path": "sources/registers/Review_packets.csv",
+      "observed_version": {
+        "convention": "sha256-of-retained-bytes",
+        "sha256": "534d0abf759b47071bfe0c0352e3e0e9fb792317e1d5836e81840bdbdd31d1a4",
+        "bytes": 83943
+      },
+      "declared_version": {
+        "package_id": "SRC-D-3",
+        "version_string": null
+      },
+      "counts": {
+        "csv_rows": 308
+      }
+    },
+    {
+      "source_id": "registers.finance_activity",
+      "url": "https://docs.google.com/spreadsheets/d/1338nvKD6rgAdLgGRhYCMMlQyDNLK0sE8pvFWrZAaaxg/gviz/tq?tqx=out:csv&sheet=Finance%20activity",
+      "locator": {
+        "kind": "gviz_csv",
+        "spreadsheet_id": "1338nvKD6rgAdLgGRhYCMMlQyDNLK0sE8pvFWrZAaaxg",
+        "tab": "Finance activity"
+      },
+      "fetched_at": "2026-09-16T11:59:13Z",
+      "retained_path": "sources/registers/Finance_activity.csv",
+      "observed_version": {
+        "convention": "sha256-of-retained-bytes",
+        "sha256": "c9cec4208b192c3e094e2bd1a29bcf37fa2f2d0a4f8c9680d53f319f9e76c92f",
+        "bytes": 30548
+      },
+      "declared_version": {
+        "package_id": "SRC-D-3",
+        "version_string": null
+      },
+      "counts": {
+        "csv_rows": 221
+      }
+    },
+    {
+      "source_id": "registers.travel_cancellations",
+      "url": "https://docs.google.com/spreadsheets/d/1338nvKD6rgAdLgGRhYCMMlQyDNLK0sE8pvFWrZAaaxg/gviz/tq?tqx=out:csv&sheet=Travel%20cancellations",
+      "locator": {
+        "kind": "gviz_csv",
+        "spreadsheet_id": "1338nvKD6rgAdLgGRhYCMMlQyDNLK0sE8pvFWrZAaaxg",
+        "tab": "Travel cancellations"
+      },
+      "fetched_at": "2026-09-16T11:59:13Z",
+      "retained_path": "sources/registers/Travel_cancellations.csv",
+      "observed_version": {
+        "convention": "sha256-of-retained-bytes",
+        "sha256": "961de2ba41fe1d489407a73e0bfcd615cbe4b15bfa2a216916d2be56fdebbad1",
+        "bytes": 2188
+      },
+      "declared_version": {
+        "package_id": "SRC-D-3",
+        "version_string": null
+      },
+      "counts": {
+        "csv_rows": 10
+      }
+    },
+    {
+      "source_id": "binder.initial_claims",
+      "url": "https://drive.google.com/uc?export=download&id=13sRj6s_kMeP1hsYGstWWmfkb6SCN1YOS",
+      "locator": {
+        "kind": "drive_uc",
+        "file_id": "13sRj6s_kMeP1hsYGstWWmfkb6SCN1YOS",
+        "label": "Initial claim binder"
+      },
+      "fetched_at": "2026-09-16T11:59:19Z",
+      "retained_path": "sources/pdf/initial_claims.pdf",
+      "observed_version": {
+        "convention": "sha256-of-retained-bytes",
+        "sha256": "b42a28754b1877363e1a25ed4fa1f3865915f44ec9995f7ed15fc9b6eefb08b7",
+        "bytes": 182878
+      },
+      "declared_version": {
+        "package_id": "SRC-D-3",
+        "version_string": null
+      },
+      "counts": {
+        "pages": 120
+      }
+    },
+    {
+      "source_id": "binder.claim_updates",
+      "url": "https://drive.google.com/uc?export=download&id=16829RwrGrMCK9oq5TnWuytFewGk_8xQP",
+      "locator": {
+        "kind": "drive_uc",
+        "file_id": "16829RwrGrMCK9oq5TnWuytFewGk_8xQP",
+        "label": "Claim updates binder"
+      },
+      "fetched_at": "2026-09-16T11:59:21Z",
+      "retained_path": "sources/pdf/claim_updates.pdf",
+      "observed_version": {
+        "convention": "sha256-of-retained-bytes",
+        "sha256": "03c15787d18e2928457cd0164b573dc03a3baade0ed26a391ba79c73a568da3b",
+        "bytes": 12336
+      },
+      "declared_version": {
+        "package_id": "SRC-D-3",
+        "version_string": null
+      },
+      "counts": {
+        "pages": 7
+      }
+    },
+    {
+      "source_id": "binder.receipts",
+      "url": "https://drive.google.com/uc?export=download&id=1Ynn1VLH-faRIy91xy95rOWwCBhy5mjjM",
+      "locator": {
+        "kind": "drive_uc",
+        "file_id": "1Ynn1VLH-faRIy91xy95rOWwCBhy5mjjM",
+        "label": "Receipt binder"
+      },
+      "fetched_at": "2026-09-16T11:59:26Z",
+      "retained_path": "sources/pdf/receipts.pdf",
+      "observed_version": {
+        "convention": "sha256-of-retained-bytes",
+        "sha256": "4c3dc47f187ccc5cdd0112e18afaadd3b6363bbb4d96793205ef8f3d4c06fcc8",
+        "bytes": 166630
+      },
+      "declared_version": {
+        "package_id": "SRC-D-3",
+        "version_string": null
+      },
+      "counts": {
+        "pages": 102
+      }
+    }
+  ]
+}

@@ -1,0 +1,1574 @@
+"Review ledger Synthetic business records. SRC-D-3. Ordered references appear on separate lines. Empty optional entries are blank. Review packets preserve the facts seen at the time. Decision reference","Arrival batch","Subject type","Subject reference","Revision","Review roles","Reviewer","Outcome","Reason","Repair requested","Source revisions","Affected fields","Decision time (UTC)"
+"D-C01-1-claim-administration-1","1","claim","C01","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C01-1-claim-budget_owner-1","1","claim","C01","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C01-1-claim-supervisor-1","1","claim","C01","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C02-1-permit-administration-1","1","permit","P02","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-08-31 12:00:00 UTC"
+"D-C02-1-permit-budget_owner-1","1","permit","P02","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-08-31 12:00:00 UTC"
+"D-C02-1-permit-supervisor-1","1","permit","P02","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-08-31 12:00:00 UTC"
+"D-C02-1-permit-director-1","1","permit","P02","1","director","DIR-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-08-31 12:00:00 UTC"
+"D-C02-1-claim-administration-1","1","claim","C02","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C02-1-claim-budget_owner-1","1","claim","C02","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C02-1-claim-supervisor-1","1","claim","C02","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C03-1-claim-administration-1","1","claim","C03","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C03-1-claim-budget_owner-1","1","claim","C03","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C03-1-claim-supervisor-1","1","claim","C03","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C04-1-claim-administration-1","1","claim","C04","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C04-1-claim-budget_owner-supervisor-1","1","claim","C04","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C05-1-claim-administration-1","1","claim","C05","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C05-1-claim-budget_owner-1","1","claim","C05","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C05-1-claim-supervisor-1","1","claim","C05","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C06-1-claim-administration-1","1","claim","C06","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C06-1-claim-budget_owner-1","1","claim","C06","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C06-1-claim-supervisor-1","1","claim","C06","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C06-1-claim-director-1","1","claim","C06","1","director","DIR-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C07-1-claim-administration-1","1","claim","C07","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C07-1-claim-budget_owner-1","1","claim","C07","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C07-1-claim-supervisor-1","1","claim","C07","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C09-1-claim-administration-1","1","claim","C09","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C09-1-claim-budget_owner-1","1","claim","C09","1","budget_owner","LEAD-01","return","Please supply the revised trip evidence.","Provide revised trip evidence.","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C10-1-permit-administration-1","1","permit","P10","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-02 12:00:00 UTC"
+"D-C10-1-permit-budget_owner-1","1","permit","P10","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-02 12:00:00 UTC"
+"D-C10-1-permit-supervisor-1","1","permit","P10","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-02 12:00:00 UTC"
+"D-C11-1-claim-administration-1","1","claim","C11","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C11-1-claim-budget_owner-1","1","claim","C11","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C11-1-claim-supervisor-1","1","claim","C11","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C14-1-claim-administration-1","1","claim","C14","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C14-1-claim-budget_owner-1","1","claim","C14","1","budget_owner","LEAD-01","reject","Client work was cancelled.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C16-1-claim-administration-1","1","claim","C16","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C16-1-claim-budget_owner-1","1","claim","C16","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C16-1-claim-supervisor-1","1","claim","C16","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C17-1-claim-administration-1","1","claim","C17","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C17-1-claim-budget_owner-1","1","claim","C17","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C17-1-claim-supervisor-1","1","claim","C17","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C18-1-claim-administration-1","1","claim","C18","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C18-1-claim-budget_owner-1","1","claim","C18","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C18-1-claim-supervisor-1","1","claim","C18","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C19-1-claim-administration-1","1","claim","C19","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C19-1-claim-budget_owner-1","1","claim","C19","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C19-1-claim-supervisor-1","1","claim","C19","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C20-1-claim-administration-1","1","claim","C20","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C20-1-claim-budget_owner-1","1","claim","C20","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C20-1-claim-supervisor-1","1","claim","C20","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C21-1-claim-administration-1","1","claim","C21","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C21-1-claim-budget_owner-1","1","claim","C21","1","budget_owner","LEAD-01","return","Budget owner requests a funding review before committing.","Obtain funding decision.","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C09-2-claim-administration-3","3","claim","C09","2","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C09-2-claim-budget_owner-3","3","claim","C09","2","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C09-2-claim-supervisor-3","3","claim","C09","2","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C19-2-claim-administration-3","3","claim","C19","2","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C19-2-claim-budget_owner-3","3","claim","C19","2","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C19-2-claim-supervisor-3","3","claim","C19","2","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C24-1-claim-administration-3","3","claim","C24","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-09 12:00:00 UTC"
+"D-C24-1-claim-budget_owner-3","3","claim","C24","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-09 12:00:00 UTC"
+"D-C24-1-claim-supervisor-3","3","claim","C24","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-09 12:00:00 UTC"
+"D-C12-2-claim-administration-3","3","claim","C12","2","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-09 12:00:00 UTC"
+"D-C12-2-claim-budget_owner-3","3","claim","C12","2","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-09 12:00:00 UTC"
+"D-C12-2-claim-supervisor-3","3","claim","C12","2","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-09 12:00:00 UTC"
+"D-C27-1-claim-administration-1","1","claim","C27","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C27-1-claim-budget_owner-1","1","claim","C27","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C27-1-claim-supervisor-1","1","claim","C27","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C28-1-claim-administration-1","1","claim","C28","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C28-1-claim-budget_owner-1","1","claim","C28","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C28-1-claim-supervisor-1","1","claim","C28","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C29-1-claim-administration-1","1","claim","C29","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C29-1-claim-budget_owner-1","1","claim","C29","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C29-1-claim-supervisor-1","1","claim","C29","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C30-1-claim-administration-1","1","claim","C30","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C30-1-claim-budget_owner-1","1","claim","C30","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C30-1-claim-supervisor-1","1","claim","C30","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C31-1-claim-administration-1","1","claim","C31","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C31-1-claim-budget_owner-1","1","claim","C31","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C31-1-claim-supervisor-1","1","claim","C31","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C32-1-claim-administration-1","1","claim","C32","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C32-1-claim-budget_owner-1","1","claim","C32","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C32-1-claim-supervisor-1","1","claim","C32","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C33-1-claim-administration-1","1","claim","C33","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C33-1-claim-budget_owner-supervisor-1","1","claim","C33","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C34-1-claim-administration-1","1","claim","C34","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C34-1-claim-budget_owner-supervisor-1","1","claim","C34","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C35-1-claim-administration-1","1","claim","C35","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C35-1-claim-budget_owner-supervisor-1","1","claim","C35","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C36-1-claim-administration-1","1","claim","C36","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C36-1-claim-budget_owner-supervisor-1","1","claim","C36","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C37-1-claim-administration-1","1","claim","C37","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C37-1-claim-budget_owner-supervisor-1","1","claim","C37","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C38-1-claim-administration-1","1","claim","C38","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C38-1-claim-budget_owner-supervisor-1","1","claim","C38","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C39-1-claim-administration-1","1","claim","C39","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C39-1-claim-budget_owner-1","1","claim","C39","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C39-1-claim-supervisor-1","1","claim","C39","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C40-1-claim-administration-1","1","claim","C40","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C40-1-claim-budget_owner-1","1","claim","C40","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C40-1-claim-supervisor-1","1","claim","C40","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C41-1-claim-administration-1","1","claim","C41","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C41-1-claim-budget_owner-1","1","claim","C41","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C41-1-claim-supervisor-1","1","claim","C41","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C42-1-claim-administration-1","1","claim","C42","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C42-1-claim-budget_owner-1","1","claim","C42","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C42-1-claim-supervisor-1","1","claim","C42","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C43-1-claim-administration-1","1","claim","C43","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C43-1-claim-budget_owner-1","1","claim","C43","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C43-1-claim-supervisor-1","1","claim","C43","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C44-1-claim-administration-1","1","claim","C44","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C44-1-claim-budget_owner-1","1","claim","C44","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C44-1-claim-supervisor-1","1","claim","C44","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C45-1-claim-administration-1","1","claim","C45","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C45-1-claim-budget_owner-supervisor-1","1","claim","C45","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C46-1-claim-administration-1","1","claim","C46","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C46-1-claim-budget_owner-supervisor-1","1","claim","C46","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C47-1-claim-administration-1","1","claim","C47","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C47-1-claim-budget_owner-supervisor-1","1","claim","C47","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C48-1-claim-administration-1","1","claim","C48","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C48-1-claim-budget_owner-supervisor-1","1","claim","C48","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C49-1-claim-administration-1","1","claim","C49","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C49-1-claim-budget_owner-supervisor-1","1","claim","C49","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C50-1-claim-administration-1","1","claim","C50","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C50-1-claim-budget_owner-supervisor-1","1","claim","C50","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C51-1-claim-administration-1","1","claim","C51","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C51-1-claim-budget_owner-1","1","claim","C51","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C51-1-claim-supervisor-1","1","claim","C51","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C52-1-claim-administration-1","1","claim","C52","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C52-1-claim-budget_owner-1","1","claim","C52","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C52-1-claim-supervisor-1","1","claim","C52","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C53-1-claim-administration-1","1","claim","C53","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C53-1-claim-budget_owner-1","1","claim","C53","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C53-1-claim-supervisor-1","1","claim","C53","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C54-1-claim-administration-1","1","claim","C54","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C54-1-claim-budget_owner-1","1","claim","C54","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C54-1-claim-supervisor-1","1","claim","C54","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C55-1-claim-administration-1","1","claim","C55","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C55-1-claim-budget_owner-1","1","claim","C55","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C55-1-claim-supervisor-1","1","claim","C55","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C56-1-claim-administration-1","1","claim","C56","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C56-1-claim-budget_owner-1","1","claim","C56","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C56-1-claim-supervisor-1","1","claim","C56","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C57-1-claim-administration-1","1","claim","C57","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C57-1-claim-budget_owner-supervisor-1","1","claim","C57","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C58-1-claim-administration-1","1","claim","C58","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C58-1-claim-budget_owner-supervisor-1","1","claim","C58","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C59-1-claim-administration-1","1","claim","C59","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C59-1-claim-budget_owner-supervisor-1","1","claim","C59","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C60-1-claim-administration-1","1","claim","C60","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C60-1-claim-budget_owner-supervisor-1","1","claim","C60","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C61-1-claim-administration-1","1","claim","C61","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C61-1-claim-budget_owner-supervisor-1","1","claim","C61","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C62-1-claim-administration-1","1","claim","C62","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C62-1-claim-budget_owner-supervisor-1","1","claim","C62","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C63-1-claim-administration-1","1","claim","C63","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C63-1-claim-budget_owner-1","1","claim","C63","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C63-1-claim-supervisor-1","1","claim","C63","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C64-1-claim-administration-1","1","claim","C64","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C64-1-claim-budget_owner-1","1","claim","C64","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C64-1-claim-supervisor-1","1","claim","C64","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C65-1-claim-administration-1","1","claim","C65","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C65-1-claim-budget_owner-1","1","claim","C65","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C65-1-claim-supervisor-1","1","claim","C65","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C66-1-claim-administration-1","1","claim","C66","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C66-1-claim-budget_owner-1","1","claim","C66","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C66-1-claim-supervisor-1","1","claim","C66","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C67-1-claim-administration-1","1","claim","C67","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C67-1-claim-budget_owner-1","1","claim","C67","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C67-1-claim-supervisor-1","1","claim","C67","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C68-1-claim-administration-1","1","claim","C68","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C68-1-claim-budget_owner-1","1","claim","C68","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C68-1-claim-supervisor-1","1","claim","C68","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C69-1-claim-administration-1","1","claim","C69","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C69-1-claim-budget_owner-supervisor-1","1","claim","C69","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C70-1-claim-administration-1","1","claim","C70","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C70-1-claim-budget_owner-supervisor-1","1","claim","C70","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C71-1-claim-administration-1","1","claim","C71","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C71-1-claim-budget_owner-supervisor-1","1","claim","C71","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C72-1-claim-administration-1","1","claim","C72","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C72-1-claim-budget_owner-supervisor-1","1","claim","C72","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C73-1-claim-administration-1","1","claim","C73","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C73-1-claim-budget_owner-supervisor-1","1","claim","C73","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C74-1-claim-administration-1","1","claim","C74","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C74-1-claim-budget_owner-supervisor-1","1","claim","C74","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C75-1-claim-administration-1","1","claim","C75","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C75-1-claim-budget_owner-1","1","claim","C75","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C75-1-claim-supervisor-1","1","claim","C75","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C76-1-claim-administration-1","1","claim","C76","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C76-1-claim-budget_owner-1","1","claim","C76","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C76-1-claim-supervisor-1","1","claim","C76","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C77-1-claim-administration-1","1","claim","C77","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C77-1-claim-budget_owner-1","1","claim","C77","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C77-1-claim-supervisor-1","1","claim","C77","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C78-1-claim-administration-1","1","claim","C78","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C78-1-claim-budget_owner-1","1","claim","C78","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C78-1-claim-supervisor-1","1","claim","C78","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C79-1-claim-administration-1","1","claim","C79","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C79-1-claim-budget_owner-1","1","claim","C79","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C79-1-claim-supervisor-1","1","claim","C79","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C80-1-claim-administration-1","1","claim","C80","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C80-1-claim-budget_owner-1","1","claim","C80","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C80-1-claim-supervisor-1","1","claim","C80","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C81-1-claim-administration-1","1","claim","C81","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C81-1-claim-budget_owner-supervisor-1","1","claim","C81","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C82-1-claim-administration-1","1","claim","C82","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C82-1-claim-budget_owner-supervisor-1","1","claim","C82","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C83-1-claim-administration-1","1","claim","C83","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C83-1-claim-budget_owner-supervisor-1","1","claim","C83","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C84-1-claim-administration-1","1","claim","C84","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C84-1-claim-budget_owner-supervisor-1","1","claim","C84","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C85-1-claim-administration-1","1","claim","C85","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C85-1-claim-budget_owner-supervisor-1","1","claim","C85","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C86-1-claim-administration-1","1","claim","C86","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C86-1-claim-budget_owner-supervisor-1","1","claim","C86","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C87-1-claim-administration-1","1","claim","C87","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C87-1-claim-budget_owner-1","1","claim","C87","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C87-1-claim-supervisor-1","1","claim","C87","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C88-1-claim-administration-1","1","claim","C88","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C88-1-claim-budget_owner-1","1","claim","C88","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C88-1-claim-supervisor-1","1","claim","C88","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C89-1-claim-administration-1","1","claim","C89","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C89-1-claim-budget_owner-1","1","claim","C89","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C89-1-claim-supervisor-1","1","claim","C89","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C90-1-claim-administration-1","1","claim","C90","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C90-1-claim-budget_owner-1","1","claim","C90","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C90-1-claim-supervisor-1","1","claim","C90","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C91-1-claim-administration-1","1","claim","C91","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C91-1-claim-budget_owner-1","1","claim","C91","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C91-1-claim-supervisor-1","1","claim","C91","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C92-1-claim-administration-1","1","claim","C92","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C92-1-claim-budget_owner-1","1","claim","C92","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C92-1-claim-supervisor-1","1","claim","C92","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C93-1-claim-administration-1","1","claim","C93","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C93-1-claim-budget_owner-supervisor-1","1","claim","C93","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C94-1-claim-administration-1","1","claim","C94","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C94-1-claim-budget_owner-supervisor-1","1","claim","C94","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C95-1-claim-administration-1","1","claim","C95","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C95-1-claim-budget_owner-supervisor-1","1","claim","C95","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C96-1-claim-administration-1","1","claim","C96","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C96-1-claim-budget_owner-supervisor-1","1","claim","C96","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C97-1-claim-administration-1","1","claim","C97","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C97-1-claim-budget_owner-supervisor-1","1","claim","C97","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C98-1-claim-administration-1","1","claim","C98","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C98-1-claim-budget_owner-supervisor-1","1","claim","C98","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C99-1-claim-administration-1","1","claim","C99","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C99-1-claim-budget_owner-1","1","claim","C99","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C99-1-claim-supervisor-1","1","claim","C99","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C100-1-claim-administration-1","1","claim","C100","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C100-1-claim-budget_owner-1","1","claim","C100","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C100-1-claim-supervisor-1","1","claim","C100","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C101-1-claim-administration-1","1","claim","C101","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C101-1-claim-budget_owner-1","1","claim","C101","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C101-1-claim-supervisor-1","1","claim","C101","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C101-1-claim-director-1","1","claim","C101","1","director","DIR-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C102-1-claim-administration-1","1","claim","C102","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C102-1-claim-budget_owner-1","1","claim","C102","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C102-1-claim-supervisor-1","1","claim","C102","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C103-1-claim-administration-1","1","claim","C103","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C103-1-claim-budget_owner-1","1","claim","C103","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C103-1-claim-supervisor-1","1","claim","C103","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C104-1-claim-administration-1","1","claim","C104","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C104-1-claim-budget_owner-1","1","claim","C104","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C104-1-claim-supervisor-1","1","claim","C104","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C105-1-claim-administration-1","1","claim","C105","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C105-1-claim-budget_owner-1","1","claim","C105","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C105-1-claim-supervisor-1","1","claim","C105","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C106-1-claim-administration-1","1","claim","C106","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C106-1-claim-budget_owner-1","1","claim","C106","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C106-1-claim-supervisor-1","1","claim","C106","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C107-1-claim-administration-1","1","claim","C107","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C107-1-claim-budget_owner-1","1","claim","C107","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C107-1-claim-supervisor-1","1","claim","C107","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C108-1-claim-administration-1","1","claim","C108","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C108-1-claim-budget_owner-1","1","claim","C108","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C108-1-claim-supervisor-1","1","claim","C108","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C109-1-claim-administration-1","1","claim","C109","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C109-1-claim-budget_owner-1","1","claim","C109","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C109-1-claim-supervisor-1","1","claim","C109","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C110-1-claim-administration-1","1","claim","C110","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C110-1-claim-budget_owner-1","1","claim","C110","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C110-1-claim-supervisor-1","1","claim","C110","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C111-1-claim-administration-1","1","claim","C111","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C111-1-claim-budget_owner-1","1","claim","C111","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C111-1-claim-supervisor-1","1","claim","C111","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C115-1-claim-administration-1","1","claim","C115","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C115-1-claim-budget_owner-1","1","claim","C115","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C115-1-claim-supervisor-1","1","claim","C115","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C119-1-claim-administration-1","1","claim","C119","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C119-1-claim-budget_owner-1","1","claim","C119","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C119-1-claim-supervisor-1","1","claim","C119","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C120-1-claim-administration-1","1","claim","C120","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C120-1-claim-budget_owner-supervisor-1","1","claim","C120","1","budget_owner
+supervisor","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C121-1-permit-administration-1","1","permit","P121","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-08-31 12:00:00 UTC"
+"D-C121-1-permit-budget_owner-1","1","permit","P121","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-08-31 12:00:00 UTC"
+"D-C121-1-permit-supervisor-1","1","permit","P121","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-08-31 12:00:00 UTC"
+"D-C122-1-permit-administration-1","1","permit","P122","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-08-31 12:00:00 UTC"
+"D-C122-1-permit-budget_owner-1","1","permit","P122","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-08-31 12:00:00 UTC"
+"D-C122-1-permit-supervisor-1","1","permit","P122","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-08-31 12:00:00 UTC"
+"D-C121-1-claim-administration-1","1","claim","C121","1","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C121-1-claim-budget_owner-1","1","claim","C121","1","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C121-1-claim-supervisor-1","1","claim","C121","1","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-03 12:00:00 UTC"
+"D-C121-2-claim-administration-3","3","claim","C121","2","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-13 10:00:00 UTC"
+"D-C121-2-claim-budget_owner-3","3","claim","C121","2","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-13 10:00:00 UTC"
+"D-C121-2-claim-supervisor-3","3","claim","C121","2","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-13 10:00:00 UTC"
+"D-C19-3-claim-administration-4","4","claim","C19","3","administration","ADMIN-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-14 10:00:00 UTC"
+"D-C19-3-claim-budget_owner-4","4","claim","C19","3","budget_owner","LEAD-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-14 10:00:00 UTC"
+"D-C19-3-claim-supervisor-4","4","claim","C19","3","supervisor","SUP-01","approve","Business purpose, evidence and review packet accepted.","","DW-D-2
+POL-2026.2
+SRC-D-3","trip
+amount
+evidence","2026-09-14 10:00:00 UTC"

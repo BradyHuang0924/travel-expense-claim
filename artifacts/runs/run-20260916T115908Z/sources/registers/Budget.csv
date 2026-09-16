@@ -1,0 +1,4 @@
+"Budget Synthetic business records. SRC-D-3. Dates are local calendar dates. Amounts follow the stated currency. Empty optional entries are blank. Ledger reference","Department","Project","Budget period","Entry type","Obligation reference","Allocation or commitment (EUR)","Settled (EUR)","Refunded (EUR)"
+"B-ALLOC","Consulting","Client-A","2026","allocation","","20,000.00","0.00","0.00"
+"B-OLD1","Consulting","Client-A","2026","obligation","OLD-1","3,000.00","2,000.00","0.00"
+"B-OLD2","Consulting","Client-A","2026","obligation","OLD-2","2,000.00","0.00","0.00"

@@ -1,0 +1,1116 @@
+"Review packets Synthetic business records. SRC-D-3. Ordered references appear on separate lines. Empty optional entries are blank. Review packets preserve the facts seen at the time. Decision reference","Employee ID","Trip reference","Business purpose","Client","Schedule coverage","Alternatives considered","Permit reference","Expense references","Policy revision","Budget record references","Reviewed estimate (EUR)","Budget owner position","Trip revision","Permit revision","Travel cancellation references"
+"D-C01-1-claim-administration-1","EMP-01","T01","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-01","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C01-1-claim-budget_owner-1","EMP-01","T01","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-01","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C01-1-claim-supervisor-1","EMP-01","T01","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-01","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C02-1-permit-administration-1","EMP-01","T02","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","P02","COST-02","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","1,100.00","Approved","1","1",""
+"D-C02-1-permit-budget_owner-1","EMP-01","T02","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","P02","COST-02","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","1,100.00","Approved","1","1",""
+"D-C02-1-permit-supervisor-1","EMP-01","T02","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","P02","COST-02","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","1,100.00","Approved","1","1",""
+"D-C02-1-permit-director-1","EMP-01","T02","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","P02","COST-02","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","1,100.00","Approved","1","1",""
+"D-C02-1-claim-administration-1","EMP-01","T02","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","P02","COST-02","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","1",""
+"D-C02-1-claim-budget_owner-1","EMP-01","T02","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","P02","COST-02","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","1",""
+"D-C02-1-claim-supervisor-1","EMP-01","T02","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","P02","COST-02","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","1",""
+"D-C03-1-claim-administration-1","EMP-01","T03","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-03","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C03-1-claim-budget_owner-1","EMP-01","T03","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-03","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C03-1-claim-supervisor-1","EMP-01","T03","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-03","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C04-1-claim-administration-1","EMP-02","T04","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-04","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C04-1-claim-budget_owner-supervisor-1","EMP-02","T04","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-04","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C05-1-claim-administration-1","EMP-01","T05","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-05","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C05-1-claim-budget_owner-1","EMP-01","T05","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-05","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C05-1-claim-supervisor-1","EMP-01","T05","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-05","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C06-1-claim-administration-1","EMP-01","T06","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-06","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C06-1-claim-budget_owner-1","EMP-01","T06","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-06","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C06-1-claim-supervisor-1","EMP-01","T06","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-06","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C06-1-claim-director-1","EMP-01","T06","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-06","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C07-1-claim-administration-1","EMP-01","T07","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-07","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C07-1-claim-budget_owner-1","EMP-01","T07","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-07","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C07-1-claim-supervisor-1","EMP-01","T07","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-07","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C09-1-claim-administration-1","EMP-01","T09","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-09","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C09-1-claim-budget_owner-1","EMP-01","T09","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-09","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Please supply the revised trip evidence.","1","",""
+"D-C10-1-permit-administration-1","EMP-01","T10","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","P10","COST-10","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","100.00","Approved","1","1",""
+"D-C10-1-permit-budget_owner-1","EMP-01","T10","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","P10","COST-10","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","100.00","Approved","1","1",""
+"D-C10-1-permit-supervisor-1","EMP-01","T10","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","P10","COST-10","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","100.00","Approved","1","1",""
+"D-C11-1-claim-administration-1","EMP-01","T11","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-11","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C11-1-claim-budget_owner-1","EMP-01","T11","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-11","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C11-1-claim-supervisor-1","EMP-01","T11","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-11","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C14-1-claim-administration-1","EMP-01","T14","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-14","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C14-1-claim-budget_owner-1","EMP-01","T14","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-14","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Client work was cancelled.","1","",""
+"D-C16-1-claim-administration-1","EMP-01","T16","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-16","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C16-1-claim-budget_owner-1","EMP-01","T16","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-16","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C16-1-claim-supervisor-1","EMP-01","T16","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-16","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C17-1-claim-administration-1","EMP-01","T17","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-17","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C17-1-claim-budget_owner-1","EMP-01","T17","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-17","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C17-1-claim-supervisor-1","EMP-01","T17","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-17","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C18-1-claim-administration-1","EMP-01","T18","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-18","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C18-1-claim-budget_owner-1","EMP-01","T18","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-18","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C18-1-claim-supervisor-1","EMP-01","T18","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-18","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C19-1-claim-administration-1","EMP-01","T19","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-19","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C19-1-claim-budget_owner-1","EMP-01","T19","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-19","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C19-1-claim-supervisor-1","EMP-01","T19","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-19","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C20-1-claim-administration-1","EMP-01","T20","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-20","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C20-1-claim-budget_owner-1","EMP-01","T20","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-20","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C20-1-claim-supervisor-1","EMP-01","T20","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-20","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C21-1-claim-administration-1","EMP-01","T21","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-21","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C21-1-claim-budget_owner-1","EMP-01","T21","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-21","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Budget owner requests a funding review before committing.","1","",""
+"D-C09-2-claim-administration-3","EMP-01","T09B","Replacement client workshop","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-09B","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C09-2-claim-budget_owner-3","EMP-01","T09B","Replacement client workshop","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-09B","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C09-2-claim-supervisor-3","EMP-01","T09B","Replacement client workshop","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-09B","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C19-2-claim-administration-3","EMP-01","T19","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-19","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C19-2-claim-budget_owner-3","EMP-01","T19","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-19","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C19-2-claim-supervisor-3","EMP-01","T19","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-19","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C24-1-claim-administration-3","EMP-01","T03","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-03
+COST-24","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C24-1-claim-budget_owner-3","EMP-01","T03","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-03
+COST-24","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C24-1-claim-supervisor-3","EMP-01","T03","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-03
+COST-24","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C12-2-claim-administration-3","EMP-01","T12","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-12","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C12-2-claim-budget_owner-3","EMP-01","T12","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-12","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C12-2-claim-supervisor-3","EMP-01","T12","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-12","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C27-1-claim-administration-1","EMP-03","T27","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-27-1
+COST-27-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C27-1-claim-budget_owner-1","EMP-03","T27","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-27-1
+COST-27-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C27-1-claim-supervisor-1","EMP-03","T27","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-27-1
+COST-27-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C28-1-claim-administration-1","EMP-03","T28","Requirements meeting","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-28-1
+COST-28-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C28-1-claim-budget_owner-1","EMP-03","T28","Requirements meeting","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-28-1
+COST-28-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C28-1-claim-supervisor-1","EMP-03","T28","Requirements meeting","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-28-1
+COST-28-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C29-1-claim-administration-1","EMP-03","T29","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-29-1
+COST-29-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C29-1-claim-budget_owner-1","EMP-03","T29","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-29-1
+COST-29-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C29-1-claim-supervisor-1","EMP-03","T29","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-29-1
+COST-29-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C30-1-claim-administration-1","EMP-03","T30","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-30-1
+COST-30-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C30-1-claim-budget_owner-1","EMP-03","T30","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-30-1
+COST-30-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C30-1-claim-supervisor-1","EMP-03","T30","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-30-1
+COST-30-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C31-1-claim-administration-1","EMP-03","T31","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-31-1
+COST-31-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C31-1-claim-budget_owner-1","EMP-03","T31","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-31-1
+COST-31-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C31-1-claim-supervisor-1","EMP-03","T31","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-31-1
+COST-31-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C32-1-claim-administration-1","EMP-03","T32","Implementation planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-32-1
+COST-32-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C32-1-claim-budget_owner-1","EMP-03","T32","Implementation planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-32-1
+COST-32-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C32-1-claim-supervisor-1","EMP-03","T32","Implementation planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-32-1
+COST-32-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C33-1-claim-administration-1","EMP-04","T33","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-33-1
+COST-33-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C33-1-claim-budget_owner-supervisor-1","EMP-04","T33","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-33-1
+COST-33-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C34-1-claim-administration-1","EMP-04","T34","Requirements meeting","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-34-1
+COST-34-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C34-1-claim-budget_owner-supervisor-1","EMP-04","T34","Requirements meeting","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-34-1
+COST-34-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C35-1-claim-administration-1","EMP-04","T35","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-35-1
+COST-35-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C35-1-claim-budget_owner-supervisor-1","EMP-04","T35","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-35-1
+COST-35-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C36-1-claim-administration-1","EMP-04","T36","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-36-1
+COST-36-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C36-1-claim-budget_owner-supervisor-1","EMP-04","T36","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-36-1
+COST-36-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C37-1-claim-administration-1","EMP-04","T37","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-37-1
+COST-37-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C37-1-claim-budget_owner-supervisor-1","EMP-04","T37","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-37-1
+COST-37-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C38-1-claim-administration-1","EMP-04","T38","Implementation planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-38-1
+COST-38-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C38-1-claim-budget_owner-supervisor-1","EMP-04","T38","Implementation planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-38-1
+COST-38-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C39-1-claim-administration-1","EMP-05","T39","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-39-1
+COST-39-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C39-1-claim-budget_owner-1","EMP-05","T39","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-39-1
+COST-39-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C39-1-claim-supervisor-1","EMP-05","T39","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-39-1
+COST-39-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C40-1-claim-administration-1","EMP-05","T40","Requirements meeting","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-40-1
+COST-40-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C40-1-claim-budget_owner-1","EMP-05","T40","Requirements meeting","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-40-1
+COST-40-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C40-1-claim-supervisor-1","EMP-05","T40","Requirements meeting","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-40-1
+COST-40-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C41-1-claim-administration-1","EMP-05","T41","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-41-1
+COST-41-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C41-1-claim-budget_owner-1","EMP-05","T41","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-41-1
+COST-41-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C41-1-claim-supervisor-1","EMP-05","T41","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-41-1
+COST-41-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C42-1-claim-administration-1","EMP-05","T42","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-42-1
+COST-42-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C42-1-claim-budget_owner-1","EMP-05","T42","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-42-1
+COST-42-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C42-1-claim-supervisor-1","EMP-05","T42","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-42-1
+COST-42-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C43-1-claim-administration-1","EMP-05","T43","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-43-1
+COST-43-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C43-1-claim-budget_owner-1","EMP-05","T43","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-43-1
+COST-43-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C43-1-claim-supervisor-1","EMP-05","T43","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-43-1
+COST-43-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C44-1-claim-administration-1","EMP-05","T44","Implementation planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-44-1
+COST-44-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C44-1-claim-budget_owner-1","EMP-05","T44","Implementation planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-44-1
+COST-44-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C44-1-claim-supervisor-1","EMP-05","T44","Implementation planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-44-1
+COST-44-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C45-1-claim-administration-1","EMP-06","T45","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-45-1
+COST-45-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C45-1-claim-budget_owner-supervisor-1","EMP-06","T45","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-45-1
+COST-45-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C46-1-claim-administration-1","EMP-06","T46","Requirements meeting","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-46-1
+COST-46-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C46-1-claim-budget_owner-supervisor-1","EMP-06","T46","Requirements meeting","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-46-1
+COST-46-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C47-1-claim-administration-1","EMP-06","T47","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-47-1
+COST-47-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C47-1-claim-budget_owner-supervisor-1","EMP-06","T47","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-47-1
+COST-47-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C48-1-claim-administration-1","EMP-06","T48","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-48-1
+COST-48-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C48-1-claim-budget_owner-supervisor-1","EMP-06","T48","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-48-1
+COST-48-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C49-1-claim-administration-1","EMP-06","T49","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-49-1
+COST-49-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C49-1-claim-budget_owner-supervisor-1","EMP-06","T49","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-49-1
+COST-49-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C50-1-claim-administration-1","EMP-06","T50","Implementation planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-50-1
+COST-50-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C50-1-claim-budget_owner-supervisor-1","EMP-06","T50","Implementation planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-50-1
+COST-50-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C51-1-claim-administration-1","EMP-07","T51","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-51-1
+COST-51-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C51-1-claim-budget_owner-1","EMP-07","T51","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-51-1
+COST-51-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C51-1-claim-supervisor-1","EMP-07","T51","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-51-1
+COST-51-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C52-1-claim-administration-1","EMP-07","T52","Requirements meeting","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-52-1
+COST-52-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C52-1-claim-budget_owner-1","EMP-07","T52","Requirements meeting","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-52-1
+COST-52-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C52-1-claim-supervisor-1","EMP-07","T52","Requirements meeting","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-52-1
+COST-52-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C53-1-claim-administration-1","EMP-07","T53","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-53-1
+COST-53-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C53-1-claim-budget_owner-1","EMP-07","T53","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-53-1
+COST-53-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C53-1-claim-supervisor-1","EMP-07","T53","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-53-1
+COST-53-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C54-1-claim-administration-1","EMP-07","T54","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-54-1
+COST-54-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C54-1-claim-budget_owner-1","EMP-07","T54","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-54-1
+COST-54-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C54-1-claim-supervisor-1","EMP-07","T54","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-54-1
+COST-54-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C55-1-claim-administration-1","EMP-07","T55","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-55-1
+COST-55-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C55-1-claim-budget_owner-1","EMP-07","T55","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-55-1
+COST-55-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C55-1-claim-supervisor-1","EMP-07","T55","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-55-1
+COST-55-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C56-1-claim-administration-1","EMP-07","T56","Implementation planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-56-1
+COST-56-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C56-1-claim-budget_owner-1","EMP-07","T56","Implementation planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-56-1
+COST-56-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C56-1-claim-supervisor-1","EMP-07","T56","Implementation planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-56-1
+COST-56-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C57-1-claim-administration-1","EMP-08","T57","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-57-1
+COST-57-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C57-1-claim-budget_owner-supervisor-1","EMP-08","T57","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-57-1
+COST-57-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C58-1-claim-administration-1","EMP-08","T58","Requirements meeting","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-58-1
+COST-58-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C58-1-claim-budget_owner-supervisor-1","EMP-08","T58","Requirements meeting","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-58-1
+COST-58-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C59-1-claim-administration-1","EMP-08","T59","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-59-1
+COST-59-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C59-1-claim-budget_owner-supervisor-1","EMP-08","T59","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-59-1
+COST-59-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C60-1-claim-administration-1","EMP-08","T60","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-60-1
+COST-60-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C60-1-claim-budget_owner-supervisor-1","EMP-08","T60","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-60-1
+COST-60-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C61-1-claim-administration-1","EMP-08","T61","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-61-1
+COST-61-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C61-1-claim-budget_owner-supervisor-1","EMP-08","T61","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-61-1
+COST-61-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C62-1-claim-administration-1","EMP-08","T62","Implementation planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-62-1
+COST-62-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C62-1-claim-budget_owner-supervisor-1","EMP-08","T62","Implementation planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-62-1
+COST-62-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C63-1-claim-administration-1","EMP-09","T63","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-63-1
+COST-63-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C63-1-claim-budget_owner-1","EMP-09","T63","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-63-1
+COST-63-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C63-1-claim-supervisor-1","EMP-09","T63","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-63-1
+COST-63-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C64-1-claim-administration-1","EMP-09","T64","Requirements meeting","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-64-1
+COST-64-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C64-1-claim-budget_owner-1","EMP-09","T64","Requirements meeting","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-64-1
+COST-64-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C64-1-claim-supervisor-1","EMP-09","T64","Requirements meeting","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-64-1
+COST-64-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C65-1-claim-administration-1","EMP-09","T65","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-65-1
+COST-65-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C65-1-claim-budget_owner-1","EMP-09","T65","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-65-1
+COST-65-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C65-1-claim-supervisor-1","EMP-09","T65","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-65-1
+COST-65-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C66-1-claim-administration-1","EMP-09","T66","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-66-1
+COST-66-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C66-1-claim-budget_owner-1","EMP-09","T66","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-66-1
+COST-66-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C66-1-claim-supervisor-1","EMP-09","T66","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-66-1
+COST-66-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C67-1-claim-administration-1","EMP-09","T67","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-67-1
+COST-67-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C67-1-claim-budget_owner-1","EMP-09","T67","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-67-1
+COST-67-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C67-1-claim-supervisor-1","EMP-09","T67","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-67-1
+COST-67-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C68-1-claim-administration-1","EMP-09","T68","Implementation planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-68-1
+COST-68-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C68-1-claim-budget_owner-1","EMP-09","T68","Implementation planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-68-1
+COST-68-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C68-1-claim-supervisor-1","EMP-09","T68","Implementation planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-68-1
+COST-68-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C69-1-claim-administration-1","EMP-10","T69","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-69-1
+COST-69-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C69-1-claim-budget_owner-supervisor-1","EMP-10","T69","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-69-1
+COST-69-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C70-1-claim-administration-1","EMP-10","T70","Requirements meeting","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-70-1
+COST-70-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C70-1-claim-budget_owner-supervisor-1","EMP-10","T70","Requirements meeting","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-70-1
+COST-70-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C71-1-claim-administration-1","EMP-10","T71","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-71-1
+COST-71-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C71-1-claim-budget_owner-supervisor-1","EMP-10","T71","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-71-1
+COST-71-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C72-1-claim-administration-1","EMP-10","T72","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-72-1
+COST-72-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C72-1-claim-budget_owner-supervisor-1","EMP-10","T72","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-72-1
+COST-72-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C73-1-claim-administration-1","EMP-10","T73","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-73-1
+COST-73-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C73-1-claim-budget_owner-supervisor-1","EMP-10","T73","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-73-1
+COST-73-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C74-1-claim-administration-1","EMP-10","T74","Implementation planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-74-1
+COST-74-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C74-1-claim-budget_owner-supervisor-1","EMP-10","T74","Implementation planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-74-1
+COST-74-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C75-1-claim-administration-1","EMP-11","T75","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-75-1
+COST-75-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C75-1-claim-budget_owner-1","EMP-11","T75","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-75-1
+COST-75-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C75-1-claim-supervisor-1","EMP-11","T75","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-75-1
+COST-75-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C76-1-claim-administration-1","EMP-11","T76","Requirements meeting","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-76-1
+COST-76-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C76-1-claim-budget_owner-1","EMP-11","T76","Requirements meeting","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-76-1
+COST-76-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C76-1-claim-supervisor-1","EMP-11","T76","Requirements meeting","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-76-1
+COST-76-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C77-1-claim-administration-1","EMP-11","T77","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-77-1
+COST-77-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C77-1-claim-budget_owner-1","EMP-11","T77","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-77-1
+COST-77-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C77-1-claim-supervisor-1","EMP-11","T77","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-77-1
+COST-77-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C78-1-claim-administration-1","EMP-11","T78","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-78-1
+COST-78-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C78-1-claim-budget_owner-1","EMP-11","T78","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-78-1
+COST-78-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C78-1-claim-supervisor-1","EMP-11","T78","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-78-1
+COST-78-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C79-1-claim-administration-1","EMP-11","T79","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-79-1
+COST-79-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C79-1-claim-budget_owner-1","EMP-11","T79","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-79-1
+COST-79-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C79-1-claim-supervisor-1","EMP-11","T79","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-79-1
+COST-79-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C80-1-claim-administration-1","EMP-11","T80","Implementation planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-80-1
+COST-80-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C80-1-claim-budget_owner-1","EMP-11","T80","Implementation planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-80-1
+COST-80-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C80-1-claim-supervisor-1","EMP-11","T80","Implementation planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-80-1
+COST-80-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C81-1-claim-administration-1","EMP-12","T81","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-81-1
+COST-81-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C81-1-claim-budget_owner-supervisor-1","EMP-12","T81","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-81-1
+COST-81-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C82-1-claim-administration-1","EMP-12","T82","Requirements meeting","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-82-1
+COST-82-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C82-1-claim-budget_owner-supervisor-1","EMP-12","T82","Requirements meeting","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-82-1
+COST-82-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C83-1-claim-administration-1","EMP-12","T83","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-83-1
+COST-83-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C83-1-claim-budget_owner-supervisor-1","EMP-12","T83","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-83-1
+COST-83-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C84-1-claim-administration-1","EMP-12","T84","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-84-1
+COST-84-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C84-1-claim-budget_owner-supervisor-1","EMP-12","T84","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-84-1
+COST-84-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C85-1-claim-administration-1","EMP-12","T85","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-85-1
+COST-85-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C85-1-claim-budget_owner-supervisor-1","EMP-12","T85","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-85-1
+COST-85-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C86-1-claim-administration-1","EMP-12","T86","Implementation planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-86-1
+COST-86-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C86-1-claim-budget_owner-supervisor-1","EMP-12","T86","Implementation planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-86-1
+COST-86-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C87-1-claim-administration-1","EMP-13","T87","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-87-1
+COST-87-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C87-1-claim-budget_owner-1","EMP-13","T87","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-87-1
+COST-87-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C87-1-claim-supervisor-1","EMP-13","T87","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-87-1
+COST-87-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C88-1-claim-administration-1","EMP-13","T88","Requirements meeting","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-88-1
+COST-88-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C88-1-claim-budget_owner-1","EMP-13","T88","Requirements meeting","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-88-1
+COST-88-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C88-1-claim-supervisor-1","EMP-13","T88","Requirements meeting","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-88-1
+COST-88-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C89-1-claim-administration-1","EMP-13","T89","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-89-1
+COST-89-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C89-1-claim-budget_owner-1","EMP-13","T89","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-89-1
+COST-89-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C89-1-claim-supervisor-1","EMP-13","T89","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-89-1
+COST-89-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C90-1-claim-administration-1","EMP-13","T90","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-90-1
+COST-90-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C90-1-claim-budget_owner-1","EMP-13","T90","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-90-1
+COST-90-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C90-1-claim-supervisor-1","EMP-13","T90","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-90-1
+COST-90-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C91-1-claim-administration-1","EMP-13","T91","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-91-1
+COST-91-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C91-1-claim-budget_owner-1","EMP-13","T91","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-91-1
+COST-91-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C91-1-claim-supervisor-1","EMP-13","T91","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-91-1
+COST-91-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C92-1-claim-administration-1","EMP-13","T92","Implementation planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-92-1
+COST-92-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C92-1-claim-budget_owner-1","EMP-13","T92","Implementation planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-92-1
+COST-92-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C92-1-claim-supervisor-1","EMP-13","T92","Implementation planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-92-1
+COST-92-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C93-1-claim-administration-1","EMP-14","T93","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-93-1
+COST-93-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C93-1-claim-budget_owner-supervisor-1","EMP-14","T93","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-93-1
+COST-93-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C94-1-claim-administration-1","EMP-14","T94","Requirements meeting","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-94-1
+COST-94-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C94-1-claim-budget_owner-supervisor-1","EMP-14","T94","Requirements meeting","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-94-1
+COST-94-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C95-1-claim-administration-1","EMP-14","T95","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-95-1
+COST-95-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C95-1-claim-budget_owner-supervisor-1","EMP-14","T95","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-95-1
+COST-95-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C96-1-claim-administration-1","EMP-14","T96","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-96-1
+COST-96-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C96-1-claim-budget_owner-supervisor-1","EMP-14","T96","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-96-1
+COST-96-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C97-1-claim-administration-1","EMP-14","T97","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-97-1
+COST-97-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C97-1-claim-budget_owner-supervisor-1","EMP-14","T97","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-97-1
+COST-97-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C98-1-claim-administration-1","EMP-14","T98","Implementation planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-98-1
+COST-98-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C98-1-claim-budget_owner-supervisor-1","EMP-14","T98","Implementation planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-98-1
+COST-98-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C99-1-claim-administration-1","EMP-03","T99","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-99-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C99-1-claim-budget_owner-1","EMP-03","T99","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-99-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C99-1-claim-supervisor-1","EMP-03","T99","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-99-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C100-1-claim-administration-1","EMP-03","T100","Requirements meeting","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-100-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C100-1-claim-budget_owner-1","EMP-03","T100","Requirements meeting","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-100-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C100-1-claim-supervisor-1","EMP-03","T100","Requirements meeting","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-100-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C101-1-claim-administration-1","EMP-03","T101","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-101-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C101-1-claim-budget_owner-1","EMP-03","T101","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-101-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C101-1-claim-supervisor-1","EMP-03","T101","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-101-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C101-1-claim-director-1","EMP-03","T101","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-101-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C102-1-claim-administration-1","EMP-03","T102","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-102-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C102-1-claim-budget_owner-1","EMP-03","T102","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-102-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C102-1-claim-supervisor-1","EMP-03","T102","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-102-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C103-1-claim-administration-1","EMP-03","T103","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-103-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C103-1-claim-budget_owner-1","EMP-03","T103","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-103-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C103-1-claim-supervisor-1","EMP-03","T103","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-103-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C104-1-claim-administration-1","EMP-03","T104","Implementation planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-104-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C104-1-claim-budget_owner-1","EMP-03","T104","Implementation planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-104-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C104-1-claim-supervisor-1","EMP-03","T104","Implementation planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-104-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C105-1-claim-administration-1","EMP-03","T105","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-105-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C105-1-claim-budget_owner-1","EMP-03","T105","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-105-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C105-1-claim-supervisor-1","EMP-03","T105","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-105-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C106-1-claim-administration-1","EMP-03","T106","Requirements meeting","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-106-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C106-1-claim-budget_owner-1","EMP-03","T106","Requirements meeting","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-106-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C106-1-claim-supervisor-1","EMP-03","T106","Requirements meeting","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-106-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C107-1-claim-administration-1","EMP-03","T107","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-107-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C107-1-claim-budget_owner-1","EMP-03","T107","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-107-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C107-1-claim-supervisor-1","EMP-03","T107","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-107-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C108-1-claim-administration-1","EMP-03","T108","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-108-1
+COST-108-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C108-1-claim-budget_owner-1","EMP-03","T108","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-108-1
+COST-108-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C108-1-claim-supervisor-1","EMP-03","T108","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-108-1
+COST-108-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C109-1-claim-administration-1","EMP-03","T109","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-109-1
+COST-109-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C109-1-claim-budget_owner-1","EMP-03","T109","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-109-1
+COST-109-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C109-1-claim-supervisor-1","EMP-03","T109","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-109-1
+COST-109-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C110-1-claim-administration-1","EMP-03","T110","Implementation planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-110-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C110-1-claim-budget_owner-1","EMP-03","T110","Implementation planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-110-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C110-1-claim-supervisor-1","EMP-03","T110","Implementation planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-110-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C111-1-claim-administration-1","EMP-03","T111","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-111-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C111-1-claim-budget_owner-1","EMP-03","T111","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-111-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C111-1-claim-supervisor-1","EMP-03","T111","Client workshop delivery","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-111-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C115-1-claim-administration-1","EMP-03","T115","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-115-1
+COST-115-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C115-1-claim-budget_owner-1","EMP-03","T115","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-115-1
+COST-115-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C115-1-claim-supervisor-1","EMP-03","T115","Quarterly delivery review","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-115-1
+COST-115-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C119-1-claim-administration-1","EMP-03","T119","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-119-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C119-1-claim-budget_owner-1","EMP-03","T119","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-119-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C119-1-claim-supervisor-1","EMP-03","T119","Onsite support handover","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-119-1","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C120-1-claim-administration-1","EMP-04","T120","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-120-1
+COST-120-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C120-1-claim-budget_owner-supervisor-1","EMP-04","T120","Customer training","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-120-1
+COST-120-2","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","",""
+"D-C121-1-permit-administration-1","EMP-01","T121","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","P121","COST-121","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","300.00","Approved","1","1",""
+"D-C121-1-permit-budget_owner-1","EMP-01","T121","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","P121","COST-121","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","300.00","Approved","1","1",""
+"D-C121-1-permit-supervisor-1","EMP-01","T121","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","P121","COST-121","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","300.00","Approved","1","1",""
+"D-C122-1-permit-administration-1","EMP-01","T122","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","P122","","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","500.00","Approved","1","1",""
+"D-C122-1-permit-budget_owner-1","EMP-01","T122","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","P122","","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","500.00","Approved","1","1",""
+"D-C122-1-permit-supervisor-1","EMP-01","T122","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","P122","","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","500.00","Approved","1","1",""
+"D-C121-1-claim-administration-1","EMP-01","T121","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","P121","COST-121","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","1",""
+"D-C121-1-claim-budget_owner-1","EMP-01","T121","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","P121","COST-121","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","1",""
+"D-C121-1-claim-supervisor-1","EMP-01","T121","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","P121","COST-121","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","1",""
+"D-C121-2-claim-administration-3","EMP-01","T121","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","P121","COST-121","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","1","TC121"
+"D-C121-2-claim-budget_owner-3","EMP-01","T121","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","P121","COST-121","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","1","TC121"
+"D-C121-2-claim-supervisor-3","EMP-01","T121","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","P121","COST-121","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","1","TC121"
+"D-C19-3-claim-administration-4","EMP-01","T19","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-19","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","","TC019"
+"D-C19-3-claim-budget_owner-4","EMP-01","T19","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-19","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","","TC019"
+"D-C19-3-claim-supervisor-4","EMP-01","T19","Client workshop and delivery planning","Client-A","Team colleague covers routine support","Remote participation considered; onsite workshop requested","","COST-19","POL-2026.2","B-ALLOC
+B-OLD1
+B-OLD2","","Approved","1","","TC019"
