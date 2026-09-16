@@ -1,11 +1,11 @@
 {
   "schema_version": "travel-claim-snapshot/2",
-  "run_id": "run-20260916T124038Z",
+  "run_id": "run-A",
   "batch_id": "1",
   "predecessor": null,
   "source_binding": {
     "path": "sources.json",
-    "sha256": "978d9946bb5b8206180b2cd80a7b6913c04935059fc83fd13cd6befe965b60f0"
+    "sha256": "d52e640cb9544603082d728e3f4fc3e90e96d88cbd20e45a3dc035807c23b499"
   },
   "claims": [
     {
@@ -665,7 +665,7 @@
       "paid_cents": 0,
       "balance_cents": null,
       "decision_ids": [],
-      "next_owner": "ADMIN-01",
+      "next_owner": "FIN-01",
       "reason": "Held on: review_missing, unresolved_line."
     },
     {
@@ -4295,7 +4295,7 @@
       "paid_cents": 0,
       "balance_cents": null,
       "decision_ids": [],
-      "next_owner": "ADMIN-01",
+      "next_owner": "FIN-01",
       "reason": "Held on: review_missing, unresolved_line."
     },
     {
@@ -5997,15 +5997,15 @@
       "resolution_needed": "Supervisor decision on cancellation TC121."
     },
     {
-      "record_id": "ISS-CAP-MISSING-BE-lodging-2026-09-01",
+      "record_id": "ISS-CAP-MISSING-BE-lodging-EUR-2026-09-01",
       "reason": "No applicable lodging cap for destination BE in EUR effective on payment date 2026-09-01.",
-      "owner": "ADMIN-01",
+      "owner": "FIN-01",
       "resolution_needed": "Supply the Caps row: destination BE, category lodging, currency EUR, effective range covering 2026-09-01, and the amount per unit."
     },
     {
-      "record_id": "ISS-CAP-MISSING-NL-lodging-2026-09-01",
+      "record_id": "ISS-CAP-MISSING-NL-lodging-USD-2026-09-01",
       "reason": "No applicable lodging cap for destination NL in USD effective on payment date 2026-09-01.",
-      "owner": "ADMIN-01",
+      "owner": "FIN-01",
       "resolution_needed": "Supply the Caps row: destination NL, category lodging, currency USD, effective range covering 2026-09-01, and the amount per unit."
     },
     {

@@ -1,5 +1,5 @@
 {
-  "run_id": "run-20260916T124038Z",
+  "run_id": "run-A",
   "case_clock": {
     "date": "2026-11-15",
     "timezone": "Europe/Amsterdam"
@@ -15,7 +15,7 @@
         "page_id": "3d80b700-541e-81ed-93eb-d386abc1dcb0",
         "endpoint": "/api/v3/loadPageChunk"
       },
-      "fetched_at": "2026-09-16T12:40:39Z",
+      "fetched_at": "2026-09-16T13:06:16Z",
       "retained_path": "sources/policy/loadPageChunk.json",
       "observed_version": {
         "convention": "sha256-of-retained-bytes",
@@ -41,7 +41,7 @@
         "spreadsheet_id": "1338nvKD6rgAdLgGRhYCMMlQyDNLK0sE8pvFWrZAaaxg",
         "tab": "People"
       },
-      "fetched_at": "2026-09-16T12:40:39Z",
+      "fetched_at": "2026-09-16T13:06:16Z",
       "retained_path": "sources/registers/People.csv",
       "observed_version": {
         "convention": "sha256-of-retained-bytes",
@@ -64,7 +64,7 @@
         "spreadsheet_id": "1338nvKD6rgAdLgGRhYCMMlQyDNLK0sE8pvFWrZAaaxg",
         "tab": "Trips"
       },
-      "fetched_at": "2026-09-16T12:40:40Z",
+      "fetched_at": "2026-09-16T13:06:16Z",
       "retained_path": "sources/registers/Trips.csv",
       "observed_version": {
         "convention": "sha256-of-retained-bytes",
@@ -87,7 +87,7 @@
         "spreadsheet_id": "1338nvKD6rgAdLgGRhYCMMlQyDNLK0sE8pvFWrZAaaxg",
         "tab": "Merchant payments"
       },
-      "fetched_at": "2026-09-16T12:40:40Z",
+      "fetched_at": "2026-09-16T13:06:17Z",
       "retained_path": "sources/registers/Merchant_payments.csv",
       "observed_version": {
         "convention": "sha256-of-retained-bytes",
@@ -110,7 +110,7 @@
         "spreadsheet_id": "1338nvKD6rgAdLgGRhYCMMlQyDNLK0sE8pvFWrZAaaxg",
         "tab": "FX"
       },
-      "fetched_at": "2026-09-16T12:40:40Z",
+      "fetched_at": "2026-09-16T13:06:17Z",
       "retained_path": "sources/registers/FX.csv",
       "observed_version": {
         "convention": "sha256-of-retained-bytes",
@@ -133,7 +133,7 @@
         "spreadsheet_id": "1338nvKD6rgAdLgGRhYCMMlQyDNLK0sE8pvFWrZAaaxg",
         "tab": "Caps"
       },
-      "fetched_at": "2026-09-16T12:40:41Z",
+      "fetched_at": "2026-09-16T13:06:18Z",
       "retained_path": "sources/registers/Caps.csv",
       "observed_version": {
         "convention": "sha256-of-retained-bytes",
@@ -156,7 +156,7 @@
         "spreadsheet_id": "1338nvKD6rgAdLgGRhYCMMlQyDNLK0sE8pvFWrZAaaxg",
         "tab": "Budget"
       },
-      "fetched_at": "2026-09-16T12:40:41Z",
+      "fetched_at": "2026-09-16T13:06:18Z",
       "retained_path": "sources/registers/Budget.csv",
       "observed_version": {
         "convention": "sha256-of-retained-bytes",
@@ -179,7 +179,7 @@
         "spreadsheet_id": "1338nvKD6rgAdLgGRhYCMMlQyDNLK0sE8pvFWrZAaaxg",
         "tab": "Review ledger"
       },
-      "fetched_at": "2026-09-16T12:40:42Z",
+      "fetched_at": "2026-09-16T13:06:19Z",
       "retained_path": "sources/registers/Review_ledger.csv",
       "observed_version": {
         "convention": "sha256-of-retained-bytes",
@@ -202,7 +202,7 @@
         "spreadsheet_id": "1338nvKD6rgAdLgGRhYCMMlQyDNLK0sE8pvFWrZAaaxg",
         "tab": "Review packets"
       },
-      "fetched_at": "2026-09-16T12:40:42Z",
+      "fetched_at": "2026-09-16T13:06:19Z",
       "retained_path": "sources/registers/Review_packets.csv",
       "observed_version": {
         "convention": "sha256-of-retained-bytes",
@@ -225,7 +225,7 @@
         "spreadsheet_id": "1338nvKD6rgAdLgGRhYCMMlQyDNLK0sE8pvFWrZAaaxg",
         "tab": "Finance activity"
       },
-      "fetched_at": "2026-09-16T12:40:42Z",
+      "fetched_at": "2026-09-16T13:06:19Z",
       "retained_path": "sources/registers/Finance_activity.csv",
       "observed_version": {
         "convention": "sha256-of-retained-bytes",
@@ -248,7 +248,7 @@
         "spreadsheet_id": "1338nvKD6rgAdLgGRhYCMMlQyDNLK0sE8pvFWrZAaaxg",
         "tab": "Travel cancellations"
       },
-      "fetched_at": "2026-09-16T12:40:43Z",
+      "fetched_at": "2026-09-16T13:06:20Z",
       "retained_path": "sources/registers/Travel_cancellations.csv",
       "observed_version": {
         "convention": "sha256-of-retained-bytes",
@@ -271,7 +271,7 @@
         "file_id": "13sRj6s_kMeP1hsYGstWWmfkb6SCN1YOS",
         "label": "Initial claim binder"
       },
-      "fetched_at": "2026-09-16T12:40:49Z",
+      "fetched_at": "2026-09-16T13:06:27Z",
       "retained_path": "sources/pdf/initial_claims.pdf",
       "observed_version": {
         "convention": "sha256-of-retained-bytes",
@@ -294,7 +294,7 @@
         "file_id": "16829RwrGrMCK9oq5TnWuytFewGk_8xQP",
         "label": "Claim updates binder"
       },
-      "fetched_at": "2026-09-16T12:40:51Z",
+      "fetched_at": "2026-09-16T13:06:29Z",
       "retained_path": "sources/pdf/claim_updates.pdf",
       "observed_version": {
         "convention": "sha256-of-retained-bytes",
@@ -317,7 +317,7 @@
         "file_id": "1Ynn1VLH-faRIy91xy95rOWwCBhy5mjjM",
         "label": "Receipt binder"
       },
-      "fetched_at": "2026-09-16T12:40:55Z",
+      "fetched_at": "2026-09-16T13:06:34Z",
       "retained_path": "sources/pdf/receipts.pdf",
       "observed_version": {
         "convention": "sha256-of-retained-bytes",

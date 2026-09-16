@@ -66,7 +66,7 @@ def evaluate_claim(doc, reg: Registers, receipts: dict, money_map, upto_batch: i
     line_results: list[LineResult] = []
     for line in doc.lines:
         res = evaluate_line(line, receipts.get(line.cost_id), reg, trip,
-                            doc.exception, prior_links)
+                            doc.exception, prior_links, doc.claim_id, doc.revision)
         line_results.append(res)
         issues.extend(res.issues)
     if any(r.status == "unresolved" for r in line_results):
@@ -81,7 +81,10 @@ def evaluate_claim(doc, reg: Registers, receipts: dict, money_map, upto_batch: i
         issues.append(Issue(f"ISS-TRIP-MISSING-{doc.trip_id}",
                             f"Claim {doc.claim_id} references trip {doc.trip_id}, which "
                             f"is absent from the Trips register.", "ADMIN-01",
-                            "Supply the trip record for this reference."))
+                            "Supply the trip record for this reference.",
+                            subject_type="source", subject_ref="registers.trips",
+                            source_refs=[doc.trip_id], blocks=[doc.claim_id],
+                            kind="trip_missing"))
 
     # ---- filing deadline (block 4) -----------------------------------------
     if trip is not None:
@@ -95,7 +98,10 @@ def evaluate_claim(doc, reg: Registers, receipts: dict, money_map, upto_batch: i
                 f"{trip['End date']}.",
                 "FIN-01",
                 "Supply an explicit Finance exception covering late_filing, or the claim "
-                "remains held."))
+                "remains held.",
+                subject_ref=doc.claim_id, subject_revision=doc.revision,
+                source_refs=[doc.claim_id, trip["Trip reference"]],
+                blocks=[doc.claim_id], kind="late_filing"))
 
     # ---- permit for international travel (block 3) --------------------------
     if trip is not None and trip.get("International") == "TRUE":
@@ -121,7 +127,11 @@ def evaluate_claim(doc, reg: Registers, receipts: dict, money_map, upto_batch: i
                     f"{', '.join(sorted(need - got))}.",
                     "ADMIN-01",
                     "Supply the missing permit review responses, or an explicit Finance "
-                    "exception covering permit_unapproved."))
+                    "exception covering permit_unapproved.",
+                    subject_type="permit", subject_ref=permit_id or doc.trip_id,
+                    subject_revision=int(permit_rev),
+                    source_refs=[doc.trip_id] + ([permit_id] if permit_id else []),
+                    blocks=[doc.claim_id], kind="permit_unapproved"))
 
     # ---- travel cancellation (blocks 13 and 14) -----------------------------
     for proc in cancel_index.get(doc.trip_id, []):
@@ -133,7 +143,11 @@ def evaluate_claim(doc, reg: Registers, receipts: dict, money_map, upto_batch: i
                 f"directory supervisor; payment readiness on {doc.claim_id} is paused. "
                 f"This is not a confirmed cancellation and changes no money.",
                 proc.next_owner or "ADMIN-01",
-                f"Supervisor decision on cancellation {proc.cancellation_id}."))
+                f"Supervisor decision on cancellation {proc.cancellation_id}.",
+                subject_type="travel_cancellation",
+                subject_ref=proc.cancellation_id, subject_revision=proc.trip_revision,
+                source_refs=proc.admitted_cancellation_event_ids(),
+                blocks=[doc.claim_id], kind="cancellation_requested_pause"))
             continue
         # Confirmed. block 14: the covering exception must itself carry the exact id.
         resolves = ("travel_cancellation" in covered
@@ -152,7 +166,11 @@ def evaluate_claim(doc, reg: Registers, receipts: dict, money_map, upto_batch: i
                 f"An explicit Finance exception that itself states the exact "
                 f"travel_cancellation_id {proc.cancellation_id}, bound actor, "
                 f"claim/revision, expense, replacement allowed original amount and "
-                f"reason. The link is not inferred from review packets or elsewhere."))
+                f"reason. The link is not inferred from review packets or elsewhere.",
+                subject_type="travel_cancellation",
+                subject_ref=proc.cancellation_id, subject_revision=proc.trip_revision,
+                source_refs=proc.admitted_cancellation_event_ids() + [doc.claim_id],
+                blocks=[doc.claim_id], kind="travel_cancellation"))
 
     # ---- claim review (block 3) --------------------------------------------
     rows = reg.decisions_for("claim", doc.claim_id, doc.revision, upto_batch)
@@ -174,7 +192,9 @@ def evaluate_claim(doc, reg: Registers, receipts: dict, money_map, upto_batch: i
             f"{doc.claim_id} rev {doc.revision} was returned by "
             f"{', '.join(sorted(returned))} with a repair request.",
             people_row.get("Administration reviewer", "ADMIN-01"),
-            "Supply the repaired claim revision addressing the recorded repair request."))
+            "Supply the repaired claim revision addressing the recorded repair request.",
+            subject_ref=doc.claim_id, subject_revision=doc.revision,
+            source_refs=decision_ids, blocks=[doc.claim_id], kind="review_returned"))
     elif missing:
         findings.append("review_missing")
         owner_map = {"administration": people_row.get("Administration reviewer"),
@@ -187,16 +207,52 @@ def evaluate_claim(doc, reg: Registers, receipts: dict, money_map, upto_batch: i
             f"{doc.claim_id} rev {doc.revision} has no reply for required role(s) "
             f"{', '.join(who)}.",
             owner_map.get(who[0]) or "ADMIN-01",
-            f"Supply the review response for {', '.join(who)} on this claim revision."))
+            f"Supply the review response for {', '.join(who)} on this claim revision.",
+            subject_ref=doc.claim_id, subject_revision=doc.revision,
+            source_refs=decision_ids or [doc.claim_id], blocks=[doc.claim_id],
+            kind="review_missing"))
 
     # ---- Finance state (blocks 9 and 10) ------------------------------------
     m = money_map.get(doc.claim_id, finance.ClaimMoney())
-    for flag, name in ((m.failed, "finance_failed"),
-                       (m.cancel_pending, "finance_cancel_pending"),
-                       (m.cancelled, "finance_cancelled"),
-                       (m.adjustment, "finance_adjustment")):
-        if flag:
-            findings.append(name)
+    # A Finance state holds the claim only while the fact that clears it is absent.
+    # block 9: "Failed attempts do not change paid amount; a new attempt requires
+    # Finance authorization." block 10: "Cancellation or a previously closed state never
+    # stops observation: a later transfer reopens reconciliation."
+    if m.failed and not m.retry_authorized:
+        findings.append("finance_failed_unauthorized_retry")
+        issues.append(Issue(
+            f"ISS-FINANCE-FAILED-{doc.claim_id}",
+            f"Finance reported a failed attempt on "
+            f"{finance.request_id_for(doc.claim_id)} and no retry has been authorized. "
+            f"A failed attempt does not change the paid amount.",
+            "FIN-01", "Supply Finance authorization for a new attempt, or a resolution.",
+            subject_ref=doc.claim_id, subject_revision=doc.revision,
+            source_refs=m.event_ids, blocks=[doc.claim_id],
+            kind="finance_failed_unauthorized_retry"))
+    if m.cancel_pending and not (m.cancelled or m.resolution):
+        findings.append("finance_cancel_pending")
+        issues.append(Issue(
+            f"ISS-FINANCE-CANCEL-PENDING-{doc.claim_id}",
+            f"Finance recorded a cancellation request on "
+            f"{finance.request_id_for(doc.claim_id)} with no cancellation or resolution "
+            f"yet. Pending cancellation is not confirmed cancellation.",
+            "FIN-01", "Supply the Finance cancellation outcome or a resolution.",
+            subject_ref=doc.claim_id, subject_revision=doc.revision,
+            source_refs=m.event_ids, blocks=[doc.claim_id],
+            kind="finance_cancel_pending"))
+    if m.cancelled and m.settled_cents > 0 and not m.resolution:
+        findings.append("transfer_after_cancellation")
+        issues.append(Issue(
+            f"ISS-TRANSFER-AFTER-CANCELLATION-{doc.claim_id}",
+            f"Finance cancelled {finance.request_id_for(doc.claim_id)} and a confirmed "
+            f"transfer of {m.settled_cents} cents is nonetheless admitted. A later "
+            f"transfer reopens reconciliation and closure needs explicit resolution.",
+            "FIN-01",
+            "Supply the Finance resolution reconciling the cancelled request with the "
+            "admitted transfer.",
+            subject_ref=doc.claim_id, subject_revision=doc.revision,
+            source_refs=m.event_ids, blocks=[doc.claim_id],
+            kind="transfer_after_cancellation"))
     if m.unlinked_refunds:
         findings.append("finance_unlinked_refund")
         issues.append(Issue(
@@ -205,7 +261,24 @@ def evaluate_claim(doc, reg: Registers, receipts: dict, money_map, upto_batch: i
             f"settled transfer with sufficient unrecovered amount.",
             "FIN-01",
             "Supply the refund naming its prior settled transfer, within its "
-            "unrecovered amount."))
+            "unrecovered amount.",
+            subject_ref=doc.claim_id, subject_revision=doc.revision,
+            source_refs=m.unlinked_refunds, blocks=[doc.claim_id],
+            kind="finance_unlinked_refund"))
+
+    # block 10: "A correction or cancellation that occurs after Finance has accepted or
+    # dispatched the affected reimbursement request requires explicit Finance resolution
+    # before closure. A post-payment adjustment also requires that resolution, even if
+    # net paid happens to match."
+    # block 15 carves out the other order: a business cancellation confirmed BEFORE any
+    # request was accepted needs no separate resolution event, because the bound cost
+    # disposition and the fresh cancellation-aware reviews already set the new basis.
+    post_acceptance_cancellation = any(
+        proc.status == "confirmed"
+        and m.accepted_batch is not None
+        and proc.confirmed_batch is not None
+        and proc.confirmed_batch > m.accepted_batch
+        for proc in cancel_index.get(doc.trip_id, []))
 
     paid_cents = m.net_paid_cents
     balance_cents = None if allowed_cents is None else allowed_cents - paid_cents
@@ -215,7 +288,33 @@ def evaluate_claim(doc, reg: Registers, receipts: dict, money_map, upto_batch: i
             f"ISS-OVERPAYMENT-{doc.claim_id}",
             f"Net paid {paid_cents} cents exceeds the current authorized obligation "
             f"{allowed_cents} cents.", "FIN-01",
-            "Supply Finance resolution for the overpayment."))
+            "Supply Finance resolution for the overpayment.",
+            subject_ref=doc.claim_id, subject_revision=doc.revision,
+            source_refs=m.event_ids, blocks=[doc.claim_id], kind="overpayment"))
+
+    needs_resolution = (m.adjustment or m.refunded_cents > 0
+                        or (balance_cents is not None and balance_cents < 0)
+                        or post_acceptance_cancellation)
+    if needs_resolution and not m.resolution:
+        findings.append("finance_resolution_required")
+        why = []
+        if m.adjustment:
+            why.append("a Finance adjustment was admitted")
+        if m.refunded_cents > 0:
+            why.append("a confirmed refund was admitted")
+        if balance_cents is not None and balance_cents < 0:
+            why.append("net paid exceeds the obligation")
+        if post_acceptance_cancellation:
+            why.append("a cancellation was confirmed after Finance accepted the request")
+        issues.append(Issue(
+            f"ISS-RESOLUTION-REQUIRED-{doc.claim_id}",
+            f"{doc.claim_id} cannot close without an explicit Finance resolution: "
+            f"{'; '.join(why)}. Net paid matching the obligation is not sufficient.",
+            "FIN-01",
+            "Supply the Finance resolution event for this obligation.",
+            subject_ref=doc.claim_id, subject_revision=doc.revision,
+            source_refs=m.event_ids, blocks=[doc.claim_id],
+            kind="finance_resolution_required"))
 
     # ---- status -------------------------------------------------------------
     status, reason, next_owner = _status(doc, findings, issues, allowed_cents,
@@ -297,7 +396,10 @@ def build_request(result: ClaimResult, m: finance.ClaimMoney, reg: Registers):
             f"the request is held; it is not treated as authorized.",
             "ADMIN-01",
             f"Supply the missing review response(s) for {', '.join(result.missing_roles)} "
-            f"on this claim revision, or Finance direction on the accepted commitment."))
+            f"on this claim revision, or Finance direction on the accepted commitment.",
+            subject_ref=doc.claim_id, subject_revision=doc.revision,
+            source_refs=[finance.request_id_for(doc.claim_id)], blocks=[doc.claim_id],
+            kind="request_unauthorized"))
         status = "held"
     elif m.cancelled:
         status = "cancelled"

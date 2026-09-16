@@ -34,6 +34,10 @@ class Process:
     next_owner: str | None
     reason: str
     issue_record_ids: list[str]
+    confirmed_batch: int | None = None
+
+    def admitted_cancellation_event_ids(self) -> list[str]:
+        return list(self.event_ids)
 
     def as_record(self) -> dict:
         return {
@@ -69,6 +73,7 @@ def build(rows: list[dict], upto_batch: int, reg, claims_by_trip: dict[str, list
     admitted: dict[str, dict] = {}
     order: list[str] = []
     replays: list[str] = []
+    batch_of: dict[str, int] = {}
 
     for row in rows:
         if int(row["Arrival batch"]) > upto_batch:
@@ -83,10 +88,14 @@ def build(rows: list[dict], upto_batch: int, reg, claims_by_trip: dict[str, list
                     f"ISS-CANCEL-CONFLICTING-REPLAY-{ref}",
                     f"Cancellation event {ref} was redelivered with a different payload.",
                     "ADMIN-01",
-                    "Supply the authoritative payload for this cancellation event."))
+                    "Supply the authoritative payload for this cancellation event.",
+                    subject_type="travel_cancellation",
+                    subject_ref=row.get("Cancellation reference", ref),
+                    source_refs=[ref], kind="cancel_conflicting_replay"))
             continue
         admitted[ref] = payload
         order.append(ref)
+        batch_of[ref] = int(row["Arrival batch"])
 
     grouped: dict[str, list[dict]] = {}
     for ref in order:
@@ -104,7 +113,10 @@ def build(rows: list[dict], upto_batch: int, reg, claims_by_trip: dict[str, list
                 f"Cancellation process {cid} has more than one initiation or "
                 f"confirmation; one process has one of each.",
                 "ADMIN-01",
-                "Supply which initiation and confirmation are authoritative."))
+                "Supply which initiation and confirmation are authoritative.",
+                subject_type="travel_cancellation", subject_ref=cid,
+                source_refs=[r["Cancellation activity reference"] for r in group],
+                kind="cancel_multiple_actions"))
 
         if not requests:
             # block 13: a confirmation whose request has not arrived is an unresolved
@@ -114,7 +126,10 @@ def build(rows: list[dict], upto_batch: int, reg, claims_by_trip: dict[str, list
                 f"Confirmation for {cid} arrived with no matching initiation; sheet row "
                 f"order is not authority.",
                 "ADMIN-01",
-                "Deliver the initiating request event, or withdraw the confirmation."))
+                "Deliver the initiating request event, or withdraw the confirmation.",
+                subject_type="travel_cancellation", subject_ref=cid,
+                source_refs=[r["Cancellation activity reference"] for r in group],
+                kind="cancel_orphan_confirmation"))
             continue
 
         req = requests[0]
@@ -130,6 +145,7 @@ def build(rows: list[dict], upto_batch: int, reg, claims_by_trip: dict[str, list
         process_issue_ids: list[str] = []
 
         conf = confirms[0] if confirms else None
+        confirmed_batch = None
         if conf is not None:
             ok = True
             # block 12: only the directory supervisor for that employee may confirm.
@@ -140,7 +156,9 @@ def build(rows: list[dict], upto_batch: int, reg, claims_by_trip: dict[str, list
                     f"{cid} confirmed by {conf['Acting employee or supervisor']}, who is "
                     f"not the directory supervisor ({supervisor}) for {employee}.",
                     "ADMIN-01",
-                    "Supply a confirmation from the directory supervisor.")
+                    "Supply a confirmation from the directory supervisor.",
+                    subject_type="travel_cancellation", subject_ref=cid,
+                    source_refs=event_ids, kind="cancel_wrong_actor")
                 issues.append(iss)
                 process_issue_ids.append(iss.record_id)
             # block 13: the confirmation names the exact matching request.
@@ -150,7 +168,9 @@ def build(rows: list[dict], upto_batch: int, reg, claims_by_trip: dict[str, list
                     f"ISS-CANCEL-UNMATCHED-INITIATION-{cid}",
                     f"{cid} confirmation does not name its matching initiation event.",
                     "ADMIN-01",
-                    "Supply a confirmation naming the exact initiating event reference.")
+                    "Supply a confirmation naming the exact initiating event reference.",
+                    subject_type="travel_cancellation", subject_ref=cid,
+                    source_refs=event_ids, kind="cancel_unmatched_initiation")
                 issues.append(iss)
                 process_issue_ids.append(iss.record_id)
             # block 12: occurs strictly later, effective at its own occurrence time.
@@ -162,7 +182,9 @@ def build(rows: list[dict], upto_batch: int, reg, claims_by_trip: dict[str, list
                 iss = Issue(
                     f"ISS-CANCEL-NOT-LATER-{cid}",
                     f"{cid} confirmation does not occur strictly later than its request.",
-                    "ADMIN-01", "Supply a confirmation with a valid later occurrence time.")
+                    "ADMIN-01", "Supply a confirmation with a valid later occurrence time.",
+                    subject_type="travel_cancellation", subject_ref=cid,
+                    source_refs=event_ids, kind="cancel_not_later")
                 issues.append(iss)
                 process_issue_ids.append(iss.record_id)
             if t_eff is not None and t_conf is not None and t_eff != t_conf:
@@ -171,10 +193,14 @@ def build(rows: list[dict], upto_batch: int, reg, claims_by_trip: dict[str, list
                     f"ISS-CANCEL-SCHEDULED-EFFECT-{cid}",
                     f"{cid} effective time differs from its occurrence time; scheduled "
                     f"or backdated effective times are not supported.",
-                    "ADMIN-01", "Supply a confirmation effective at its occurrence time.")
+                    "ADMIN-01", "Supply a confirmation effective at its occurrence time.",
+                    subject_type="travel_cancellation", subject_ref=cid,
+                    source_refs=event_ids, kind="cancel_scheduled_effect")
                 issues.append(iss)
                 process_issue_ids.append(iss.record_id)
             if ok:
+                confirmed_batch = batch_of.get(
+                    conf["Cancellation activity reference"])
                 status = "confirmed"
                 confirmed_at = t_conf
                 effective_at = t_conf
@@ -195,7 +221,11 @@ def build(rows: list[dict], upto_batch: int, reg, claims_by_trip: dict[str, list
                 "FIN-01",
                 f"Supply an explicit Finance exception that itself states the exact "
                 f"travel_cancellation_id {cid}, bound actor, claim/revision, expense, "
-                f"replacement allowed original amount and reason.")
+                f"replacement allowed original amount and reason.",
+                subject_type="travel_cancellation", subject_ref=cid,
+                subject_revision=int(req["Trip revision"]),
+                source_refs=event_ids, blocks=affected,
+                kind="cancel_no_bound_disposition")
             issues.append(iss)
             process_issue_ids.append(iss.record_id)
 
@@ -219,6 +249,7 @@ def build(rows: list[dict], upto_batch: int, reg, claims_by_trip: dict[str, list
             next_owner=next_owner,
             reason=reason,
             issue_record_ids=process_issue_ids,
+            confirmed_batch=confirmed_batch,
         ))
     return processes, issues, order
 

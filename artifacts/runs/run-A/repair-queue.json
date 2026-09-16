@@ -1,0 +1,501 @@
+[
+  {
+    "entry_id": "ISS-REVIEW-MISSING-C08-1",
+    "subject_type": "claim",
+    "subject_ref": "C08",
+    "subject_revision": 1,
+    "kind": "review_missing",
+    "missing_fact": "C08 rev 1 has no reply for required role(s) administration, budget_owner, supervisor.",
+    "owner": "ADMIN-01",
+    "next_action": "Supply the review response for administration, budget_owner, supervisor on this claim revision.",
+    "source_refs": [
+      "C08"
+    ],
+    "blocks_claims": [
+      "C08"
+    ],
+    "first_seen_batch": "1"
+  },
+  {
+    "entry_id": "ISS-REVIEW-MISSING-C10-1",
+    "subject_type": "claim",
+    "subject_ref": "C10",
+    "subject_revision": 1,
+    "kind": "review_missing",
+    "missing_fact": "C10 rev 1 has no reply for required role(s) administration, budget_owner, supervisor.",
+    "owner": "ADMIN-01",
+    "next_action": "Supply the review response for administration, budget_owner, supervisor on this claim revision.",
+    "source_refs": [
+      "C10"
+    ],
+    "blocks_claims": [
+      "C10"
+    ],
+    "first_seen_batch": "1"
+  },
+  {
+    "entry_id": "ISS-REVIEW-MISSING-C112-1",
+    "subject_type": "claim",
+    "subject_ref": "C112",
+    "subject_revision": 1,
+    "kind": "review_missing",
+    "missing_fact": "C112 rev 1 has no reply for required role(s) administration, budget_owner, supervisor.",
+    "owner": "ADMIN-01",
+    "next_action": "Supply the review response for administration, budget_owner, supervisor on this claim revision.",
+    "source_refs": [
+      "C112"
+    ],
+    "blocks_claims": [
+      "C112"
+    ],
+    "first_seen_batch": "1"
+  },
+  {
+    "entry_id": "ISS-REVIEW-MISSING-C113-1",
+    "subject_type": "claim",
+    "subject_ref": "C113",
+    "subject_revision": 1,
+    "kind": "review_missing",
+    "missing_fact": "C113 rev 1 has no reply for required role(s) administration, budget_owner, supervisor.",
+    "owner": "ADMIN-01",
+    "next_action": "Supply the review response for administration, budget_owner, supervisor on this claim revision.",
+    "source_refs": [
+      "C113"
+    ],
+    "blocks_claims": [
+      "C113"
+    ],
+    "first_seen_batch": "1"
+  },
+  {
+    "entry_id": "ISS-REVIEW-MISSING-C114-1",
+    "subject_type": "claim",
+    "subject_ref": "C114",
+    "subject_revision": 1,
+    "kind": "review_missing",
+    "missing_fact": "C114 rev 1 has no reply for required role(s) administration, budget_owner, supervisor.",
+    "owner": "ADMIN-01",
+    "next_action": "Supply the review response for administration, budget_owner, supervisor on this claim revision.",
+    "source_refs": [
+      "C114"
+    ],
+    "blocks_claims": [
+      "C114"
+    ],
+    "first_seen_batch": "1"
+  },
+  {
+    "entry_id": "ISS-REVIEW-MISSING-C116-1",
+    "subject_type": "claim",
+    "subject_ref": "C116",
+    "subject_revision": 1,
+    "kind": "review_missing",
+    "missing_fact": "C116 rev 1 has no reply for required role(s) administration, budget_owner, supervisor.",
+    "owner": "ADMIN-01",
+    "next_action": "Supply the review response for administration, budget_owner, supervisor on this claim revision.",
+    "source_refs": [
+      "C116"
+    ],
+    "blocks_claims": [
+      "C116"
+    ],
+    "first_seen_batch": "1"
+  },
+  {
+    "entry_id": "ISS-CATEGORY-UNRECOGNISED-COST-117-1",
+    "subject_type": "claim",
+    "subject_ref": "C117",
+    "subject_revision": 1,
+    "kind": "category_unrecognised",
+    "missing_fact": "Category 'entertainment' on COST-117-1 is not a policy-recognised category and no cap exists for it.",
+    "owner": "ADMIN-01",
+    "next_action": "Either a policy revision recognising this category with an applicable cap, or an explicit Finance exception supplying a replacement allowed original amount.",
+    "source_refs": [
+      "COST-117-1",
+      "M-COST-117-1",
+      "R-COST-117-1"
+    ],
+    "blocks_claims": [
+      "C117"
+    ],
+    "first_seen_batch": "1"
+  },
+  {
+    "entry_id": "ISS-REVIEW-MISSING-C117-1",
+    "subject_type": "claim",
+    "subject_ref": "C117",
+    "subject_revision": 1,
+    "kind": "review_missing",
+    "missing_fact": "C117 rev 1 has no reply for required role(s) administration, budget_owner, supervisor.",
+    "owner": "ADMIN-01",
+    "next_action": "Supply the review response for administration, budget_owner, supervisor on this claim revision.",
+    "source_refs": [
+      "C117"
+    ],
+    "blocks_claims": [
+      "C117"
+    ],
+    "first_seen_batch": "1"
+  },
+  {
+    "entry_id": "ISS-REVIEW-MISSING-C118-1",
+    "subject_type": "claim",
+    "subject_ref": "C118",
+    "subject_revision": 1,
+    "kind": "review_missing",
+    "missing_fact": "C118 rev 1 has no reply for required role(s) administration, budget_owner, supervisor.",
+    "owner": "ADMIN-01",
+    "next_action": "Supply the review response for administration, budget_owner, supervisor on this claim revision.",
+    "source_refs": [
+      "C118"
+    ],
+    "blocks_claims": [
+      "C118"
+    ],
+    "first_seen_batch": "1"
+  },
+  {
+    "entry_id": "ISS-REVIEW-MISSING-C13-1",
+    "subject_type": "claim",
+    "subject_ref": "C13",
+    "subject_revision": 1,
+    "kind": "review_missing",
+    "missing_fact": "C13 rev 1 has no reply for required role(s) administration, budget_owner, supervisor.",
+    "owner": "ADMIN-01",
+    "next_action": "Supply the review response for administration, budget_owner, supervisor on this claim revision.",
+    "source_refs": [
+      "C13"
+    ],
+    "blocks_claims": [
+      "C13"
+    ],
+    "first_seen_batch": "1"
+  },
+  {
+    "entry_id": "ISS-REVIEW-MISSING-C15-1",
+    "subject_type": "claim",
+    "subject_ref": "C15",
+    "subject_revision": 1,
+    "kind": "review_missing",
+    "missing_fact": "C15 rev 1 has no reply for required role(s) administration, budget_owner, supervisor.",
+    "owner": "ADMIN-01",
+    "next_action": "Supply the review response for administration, budget_owner, supervisor on this claim revision.",
+    "source_refs": [
+      "C15"
+    ],
+    "blocks_claims": [
+      "C15"
+    ],
+    "first_seen_batch": "1"
+  },
+  {
+    "entry_id": "ISS-REQUEST-UNAUTHORIZED-C18-2",
+    "subject_type": "claim",
+    "subject_ref": "C18",
+    "subject_revision": 2,
+    "kind": "request_unauthorized",
+    "missing_fact": "Finance has acted on REQ-C18 but C18 rev 2 is missing required approval(s) administration, budget_owner, supervisor. The accepted commitment is retained and the request is held; it is not treated as authorized.",
+    "owner": "ADMIN-01",
+    "next_action": "Supply the missing review response(s) for administration, budget_owner, supervisor on this claim revision, or Finance direction on the accepted commitment.",
+    "source_refs": [
+      "REQ-C18"
+    ],
+    "blocks_claims": [
+      "C18"
+    ],
+    "first_seen_batch": "3"
+  },
+  {
+    "entry_id": "ISS-REVIEW-MISSING-C18-2",
+    "subject_type": "claim",
+    "subject_ref": "C18",
+    "subject_revision": 2,
+    "kind": "review_missing",
+    "missing_fact": "C18 rev 2 has no reply for required role(s) administration, budget_owner, supervisor.",
+    "owner": "ADMIN-01",
+    "next_action": "Supply the review response for administration, budget_owner, supervisor on this claim revision.",
+    "source_refs": [
+      "C18"
+    ],
+    "blocks_claims": [
+      "C18"
+    ],
+    "first_seen_batch": "3"
+  },
+  {
+    "entry_id": "ISS-REVIEW-RETURNED-C21-1",
+    "subject_type": "claim",
+    "subject_ref": "C21",
+    "subject_revision": 1,
+    "kind": "review_returned",
+    "missing_fact": "C21 rev 1 was returned by budget_owner with a repair request.",
+    "owner": "ADMIN-01",
+    "next_action": "Supply the repaired claim revision addressing the recorded repair request.",
+    "source_refs": [
+      "D-C21-1-claim-administration-1",
+      "D-C21-1-claim-budget_owner-1"
+    ],
+    "blocks_claims": [
+      "C21"
+    ],
+    "first_seen_batch": "1"
+  },
+  {
+    "entry_id": "ISS-REVIEW-MISSING-C22-1",
+    "subject_type": "claim",
+    "subject_ref": "C22",
+    "subject_revision": 1,
+    "kind": "review_missing",
+    "missing_fact": "C22 rev 1 has no reply for required role(s) administration, budget_owner, supervisor.",
+    "owner": "ADMIN-01",
+    "next_action": "Supply the review response for administration, budget_owner, supervisor on this claim revision.",
+    "source_refs": [
+      "C22"
+    ],
+    "blocks_claims": [
+      "C22"
+    ],
+    "first_seen_batch": "1"
+  },
+  {
+    "entry_id": "ISS-REVIEW-MISSING-C23-1",
+    "subject_type": "claim",
+    "subject_ref": "C23",
+    "subject_revision": 1,
+    "kind": "review_missing",
+    "missing_fact": "C23 rev 1 has no reply for required role(s) administration, budget_owner, supervisor.",
+    "owner": "ADMIN-01",
+    "next_action": "Supply the review response for administration, budget_owner, supervisor on this claim revision.",
+    "source_refs": [
+      "C23"
+    ],
+    "blocks_claims": [
+      "C23"
+    ],
+    "first_seen_batch": "1"
+  },
+  {
+    "entry_id": "ISS-REVIEW-MISSING-C25-1",
+    "subject_type": "claim",
+    "subject_ref": "C25",
+    "subject_revision": 1,
+    "kind": "review_missing",
+    "missing_fact": "C25 rev 1 has no reply for required role(s) administration, budget_owner, supervisor.",
+    "owner": "ADMIN-01",
+    "next_action": "Supply the review response for administration, budget_owner, supervisor on this claim revision.",
+    "source_refs": [
+      "C25"
+    ],
+    "blocks_claims": [
+      "C25"
+    ],
+    "first_seen_batch": "1"
+  },
+  {
+    "entry_id": "ISS-REVIEW-MISSING-C26-1",
+    "subject_type": "claim",
+    "subject_ref": "C26",
+    "subject_revision": 1,
+    "kind": "review_missing",
+    "missing_fact": "C26 rev 1 has no reply for required role(s) administration, budget_owner, supervisor.",
+    "owner": "ADMIN-01",
+    "next_action": "Supply the review response for administration, budget_owner, supervisor on this claim revision.",
+    "source_refs": [
+      "C26"
+    ],
+    "blocks_claims": [
+      "C26"
+    ],
+    "first_seen_batch": "1"
+  },
+  {
+    "entry_id": "ISS-PERMIT-UNAPPROVED-P25",
+    "subject_type": "permit",
+    "subject_ref": "P25",
+    "subject_revision": 1,
+    "kind": "permit_unapproved",
+    "missing_fact": "International trip T25 needs an approved permit before the first arrangement or payment commitment; P25 is missing approvals from administration, budget_owner, supervisor.",
+    "owner": "ADMIN-01",
+    "next_action": "Supply the missing permit review responses, or an explicit Finance exception covering permit_unapproved.",
+    "source_refs": [
+      "P25",
+      "T25"
+    ],
+    "blocks_claims": [
+      "C25"
+    ],
+    "first_seen_batch": "1"
+  },
+  {
+    "entry_id": "ISS-REVIEW-MISSING-C119-1",
+    "subject_type": "claim",
+    "subject_ref": "C119",
+    "subject_revision": 1,
+    "kind": "review_missing",
+    "missing_fact": "C119 rev 1 has no reply for required role(s) director.",
+    "owner": "DIR-01",
+    "next_action": "Supply the review response for director on this claim revision.",
+    "source_refs": [
+      "D-C119-1-claim-administration-1",
+      "D-C119-1-claim-budget_owner-1",
+      "D-C119-1-claim-supervisor-1"
+    ],
+    "blocks_claims": [
+      "C119"
+    ],
+    "first_seen_batch": "1"
+  },
+  {
+    "entry_id": "ISS-EVIDENCE-MISSING-COST-08",
+    "subject_type": "claim",
+    "subject_ref": "C08",
+    "subject_revision": 1,
+    "kind": "evidence_missing_payment",
+    "missing_fact": "COST-08 has a receipt but no settled merchant transaction; a receipt alone does not prove employee payment.",
+    "owner": "EMP-01",
+    "next_action": "Supply the settled merchant transaction matching employee EMP-01, trip T08, cost COST-08, currency EUR and gross 120.00, or withdraw the line.",
+    "source_refs": [
+      "COST-08",
+      "R-COST-08"
+    ],
+    "blocks_claims": [
+      "C08"
+    ],
+    "first_seen_batch": "1"
+  },
+  {
+    "entry_id": "ISS-EVIDENCE-MISSING-COST-114-2",
+    "subject_type": "claim",
+    "subject_ref": "C114",
+    "subject_revision": 1,
+    "kind": "evidence_missing_payment",
+    "missing_fact": "COST-114-2 has a receipt but no settled merchant transaction; a receipt alone does not prove employee payment.",
+    "owner": "EMP-03",
+    "next_action": "Supply the settled merchant transaction matching employee EMP-03, trip T114, cost COST-114-2, currency EUR and gross 15.00, or withdraw the line.",
+    "source_refs": [
+      "COST-114-2",
+      "R-COST-114-2"
+    ],
+    "blocks_claims": [
+      "C114"
+    ],
+    "first_seen_batch": "1"
+  },
+  {
+    "entry_id": "ISS-LATE-FILING-C112-1",
+    "subject_type": "claim",
+    "subject_ref": "C112",
+    "subject_revision": 1,
+    "kind": "late_filing",
+    "missing_fact": "Claim C112 rev 1 was submitted 2026-09-02, after the ordinary filing deadline 2026-09-01 for a trip ending 2026-07-01.",
+    "owner": "FIN-01",
+    "next_action": "Supply an explicit Finance exception covering late_filing, or the claim remains held.",
+    "source_refs": [
+      "C112",
+      "T112"
+    ],
+    "blocks_claims": [
+      "C112"
+    ],
+    "first_seen_batch": "1"
+  },
+  {
+    "entry_id": "ISS-TRANSFER-AFTER-CANCELLATION-C18",
+    "subject_type": "claim",
+    "subject_ref": "C18",
+    "subject_revision": 2,
+    "kind": "transfer_after_cancellation",
+    "missing_fact": "Finance cancelled REQ-C18 and a confirmed transfer of 10000 cents is nonetheless admitted. A later transfer reopens reconciliation and closure needs explicit resolution.",
+    "owner": "FIN-01",
+    "next_action": "Supply the Finance resolution reconciling the cancelled request with the admitted transfer.",
+    "source_refs": [
+      "F-C18-1",
+      "F-C18-2",
+      "F-C18-3",
+      "F-C18-accepted"
+    ],
+    "blocks_claims": [
+      "C18"
+    ],
+    "first_seen_batch": "4"
+  },
+  {
+    "entry_id": "ISS-CAP-MISSING-BE-lodging-EUR-2026-09-01",
+    "subject_type": "source",
+    "subject_ref": "registers.caps",
+    "subject_revision": null,
+    "kind": "cap_missing",
+    "missing_fact": "No applicable lodging cap for destination BE in EUR effective on payment date 2026-09-01.",
+    "owner": "FIN-01",
+    "next_action": "Supply the Caps row: destination BE, category lodging, currency EUR, effective range covering 2026-09-01, and the amount per unit.",
+    "source_refs": [
+      "COST-23",
+      "M-COST-23",
+      "R-COST-23"
+    ],
+    "blocks_claims": [
+      "C23"
+    ],
+    "first_seen_batch": "1"
+  },
+  {
+    "entry_id": "ISS-CAP-MISSING-NL-lodging-USD-2026-09-01",
+    "subject_type": "source",
+    "subject_ref": "registers.caps",
+    "subject_revision": null,
+    "kind": "cap_missing",
+    "missing_fact": "No applicable lodging cap for destination NL in USD effective on payment date 2026-09-01.",
+    "owner": "FIN-01",
+    "next_action": "Supply the Caps row: destination NL, category lodging, currency USD, effective range covering 2026-09-01, and the amount per unit.",
+    "source_refs": [
+      "COST-116-1",
+      "M-COST-116-1",
+      "R-COST-116-1"
+    ],
+    "blocks_claims": [
+      "C116"
+    ],
+    "first_seen_batch": "1"
+  },
+  {
+    "entry_id": "ISS-FX-MISSING-GBP-2026-09-01",
+    "subject_type": "source",
+    "subject_ref": "registers.fx",
+    "subject_revision": null,
+    "kind": "fx_missing",
+    "missing_fact": "No Finance EUR-per-unit rate for GBP on payment date 2026-09-01.",
+    "owner": "FIN-01",
+    "next_action": "Supply the FX row: rate date 2026-09-01, currency GBP, EUR per currency unit.",
+    "source_refs": [
+      "COST-116-2",
+      "COST-22",
+      "M-COST-116-2",
+      "M-COST-22",
+      "R-COST-116-2",
+      "R-COST-22"
+    ],
+    "blocks_claims": [
+      "C116",
+      "C22"
+    ],
+    "first_seen_batch": "1"
+  },
+  {
+    "entry_id": "ISS-CANCEL-NO-BOUND-DISPOSITION-TC018",
+    "subject_type": "travel_cancellation",
+    "subject_ref": "TC018",
+    "subject_revision": 1,
+    "kind": "cancel_no_bound_disposition",
+    "missing_fact": "Confirmed cancellation TC018 affects C18 but no Finance cost disposition names this travel_cancellation_id. The supplied exception does not carry a travel_cancellation_id, and the link is not recovered from any other source.",
+    "owner": "FIN-01",
+    "next_action": "Supply an explicit Finance exception that itself states the exact travel_cancellation_id TC018, bound actor, claim/revision, expense, replacement allowed original amount and reason.",
+    "source_refs": [
+      "TC018-confirmed",
+      "TC018-requested"
+    ],
+    "blocks_claims": [
+      "C18"
+    ],
+    "first_seen_batch": "2"
+  }
+]

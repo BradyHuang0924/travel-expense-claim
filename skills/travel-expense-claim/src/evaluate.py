@@ -32,10 +32,22 @@ def filing_deadline(trip_end: str) -> str:
 
 @dataclass
 class Issue:
+    """One missing fact.
+
+    The four schema fields are what reaches the snapshot. The rest is the repair-queue
+    context: an entry is one (subject, version, missing fact), so the subject and its
+    version are recorded where the finding is raised rather than matched back later.
+    """
     record_id: str
     reason: str
     owner: str
     resolution_needed: str
+    subject_type: str = "claim"          # claim | permit | travel_cancellation | source
+    subject_ref: str = ""
+    subject_revision: int | None = None
+    source_refs: list[str] = field(default_factory=list)
+    blocks: list[str] = field(default_factory=list)
+    kind: str = ""
 
     def as_record(self) -> dict:
         return {
@@ -152,7 +164,8 @@ def approved_roles(rows: list[dict], people_row: dict) -> tuple[set[str], dict[s
 
 
 def evaluate_line(line, receipt, reg: Registers, trip: dict | None,
-                  exception, prior_settled_cost_ids: dict[str, str]) -> LineResult:
+                  exception, prior_settled_cost_ids: dict[str, str],
+                  claim_id: str, revision: int) -> LineResult:
     """Decide one expense line.
 
     Evidence is collected before any decision is taken, so an early return never drops a
@@ -172,6 +185,15 @@ def evaluate_line(line, receipt, reg: Registers, trip: dict | None,
         return LineResult(line.cost_id, status, cents, reason, sorted(set(src)),
                           issues or [])
 
+    def issue(record_id, reason, owner, needed, kind, subject_type="claim",
+              subject_ref=None, subject_revision=None):
+        return Issue(record_id, reason, owner, needed,
+                     subject_type=subject_type,
+                     subject_ref=subject_ref if subject_ref is not None else claim_id,
+                     subject_revision=(subject_revision if subject_ref is not None
+                                       else revision),
+                     source_refs=sorted(set(src)), blocks=[claim_id], kind=kind)
+
     # --- previously settled obligation (block 8) -----------------------------
     if line.cost_id in prior_settled_cost_ids:
         ref = prior_settled_cost_ids[line.cost_id]
@@ -181,12 +203,13 @@ def evaluate_line(line, receipt, reg: Registers, trip: dict | None,
                       f"the cost is not paid twice.")
 
     if receipt is None:
-        iss = Issue(f"ISS-EVIDENCE-NO-RECEIPT-{line.cost_id}",
-                    f"Claim line {line.cost_id} has no receipt record in the receipt "
-                    f"binder.", "ADMIN-01",
-                    "Supply the receipt for this expense reference, or withdraw the line.")
         return result("unresolved", None,
-                      "No receipt record found for this expense reference.", [iss])
+                      "No receipt record found for this expense reference.",
+                      [issue(f"ISS-EVIDENCE-NO-RECEIPT-{line.cost_id}",
+                             f"Claim line {line.cost_id} has no receipt record in the "
+                             f"receipt binder.", "ADMIN-01",
+                             "Supply the receipt for this expense reference, or withdraw "
+                             "the line.", "evidence_no_receipt")])
 
     category = receipt.category
 
@@ -198,16 +221,17 @@ def evaluate_line(line, receipt, reg: Registers, trip: dict | None,
 
     # --- unknown category (block 1) ------------------------------------------
     if category not in policy.REIMBURSABLE_CATEGORIES:
-        iss = Issue(f"ISS-CATEGORY-UNRECOGNISED-{line.cost_id}",
-                    f"Category '{category}' on {line.cost_id} is not a policy-recognised "
-                    f"category and no cap exists for it.",
-                    "ADMIN-01",
-                    "Either a policy revision recognising this category with an "
-                    "applicable cap, or an explicit Finance exception supplying a "
-                    "replacement allowed original amount.")
         return result("unresolved", None,
                       f"Unrecognised category '{category}'; unresolved, never an assumed "
-                      f"zero.", [iss])
+                      f"zero.",
+                      [issue(f"ISS-CATEGORY-UNRECOGNISED-{line.cost_id}",
+                             f"Category '{category}' on {line.cost_id} is not a "
+                             f"policy-recognised category and no cap exists for it.",
+                             "ADMIN-01",
+                             "Either a policy revision recognising this category with an "
+                             "applicable cap, or an explicit Finance exception supplying "
+                             "a replacement allowed original amount.",
+                             "category_unrecognised")])
 
     # --- payment proof (block 1) ---------------------------------------------
     proof_ok = (
@@ -221,16 +245,17 @@ def evaluate_line(line, receipt, reg: Registers, trip: dict | None,
     if not proof_ok:
         detail = ("no settled merchant transaction" if payment is None
                   else "merchant transaction does not match on employee/trip/currency/gross")
-        iss = Issue(f"ISS-EVIDENCE-MISSING-{line.cost_id}",
-                    f"{line.cost_id} has a receipt but {detail}; a receipt alone does "
-                    f"not prove employee payment.",
-                    receipt.employee_id,
-                    f"Supply the settled merchant transaction matching employee "
-                    f"{receipt.employee_id}, trip {receipt.trip_id}, cost {line.cost_id}, "
-                    f"currency {receipt.currency} and gross {receipt.gross}, or withdraw "
-                    f"the line.")
         return result("unresolved", None,
-                      f"Missing proof of payment ({detail}).", [iss])
+                      f"Missing proof of payment ({detail}).",
+                      [issue(f"ISS-EVIDENCE-MISSING-{line.cost_id}",
+                             f"{line.cost_id} has a receipt but {detail}; a receipt alone "
+                             f"does not prove employee payment.",
+                             receipt.employee_id,
+                             f"Supply the settled merchant transaction matching employee "
+                             f"{receipt.employee_id}, trip {receipt.trip_id}, cost "
+                             f"{line.cost_id}, currency {receipt.currency} and gross "
+                             f"{receipt.gross}, or withdraw the line.",
+                             "evidence_missing_payment")])
     paid_on = payment["Paid date"]
 
     # --- applicable cap (block 2) --------------------------------------------
@@ -240,26 +265,31 @@ def evaluate_line(line, receipt, reg: Registers, trip: dict | None,
         cap_row = (reg.cap(destination, category, receipt.currency, paid_on)
                    if destination else None)
         if cap_row is None:
-            iss = Issue(
-                f"ISS-CAP-MISSING-{destination}-{category}-{paid_on}",
-                f"No applicable {category} cap for destination {destination} in "
-                f"{receipt.currency} effective on payment date {paid_on}.",
-                "ADMIN-01",
-                f"Supply the Caps row: destination {destination}, category {category}, "
-                f"currency {receipt.currency}, effective range covering {paid_on}, and "
-                f"the amount per unit.")
             return result("unresolved", None,
                           f"Missing applicable {category} cap for {destination} on "
-                          f"{paid_on}.", [iss])
+                          f"{paid_on}.",
+                          [issue(f"ISS-CAP-MISSING-{destination}-{category}-"
+                                 f"{receipt.currency}-{paid_on}",
+                                 f"No applicable {category} cap for destination "
+                                 f"{destination} in {receipt.currency} effective on "
+                                 f"payment date {paid_on}.",
+                                 "FIN-01",
+                                 f"Supply the Caps row: destination {destination}, "
+                                 f"category {category}, currency {receipt.currency}, "
+                                 f"effective range covering {paid_on}, and the amount "
+                                 f"per unit.",
+                                 "cap_missing", subject_type="source",
+                                 subject_ref="registers.caps")])
         src.append(cap_row["Cap reference"])
         units = receipt.documented_units
         if units < 1:
-            iss = Issue(f"ISS-UNITS-INVALID-{line.cost_id}",
-                        f"Documented units on {line.cost_id} is {units}; units must be a "
-                        f"positive integer.", "ADMIN-01",
-                        "Supply a corrected receipt with positive integer units.")
             return result("unresolved", None,
-                          "Documented units is not a positive integer.", [iss])
+                          "Documented units is not a positive integer.",
+                          [issue(f"ISS-UNITS-INVALID-{line.cost_id}",
+                                 f"Documented units on {line.cost_id} is {units}; units "
+                                 f"must be a positive integer.", "ADMIN-01",
+                                 "Supply a corrected receipt with positive integer units.",
+                                 "units_invalid")])
         cap_amount = Decimal(cap_row["Amount per unit"].replace(",", ""))
         allowed_original = min(receipt.gross, cap_amount * units)
 
@@ -273,16 +303,16 @@ def evaluate_line(line, receipt, reg: Registers, trip: dict | None,
     # --- payment-date rate (block 2) -----------------------------------------
     rate, rate_ref = reg.rate(receipt.currency, paid_on)
     if rate is None:
-        iss = Issue(
-            f"ISS-FX-MISSING-{receipt.currency}-{paid_on}",
-            f"No Finance EUR-per-unit rate for {receipt.currency} on payment date "
-            f"{paid_on}.",
-            "FIN-01",
-            f"Supply the FX row: rate date {paid_on}, currency {receipt.currency}, "
-            f"EUR per currency unit.")
         return result("unresolved", None,
                       f"Missing payment-date rate for {receipt.currency} on {paid_on}.",
-                      [iss])
+                      [issue(f"ISS-FX-MISSING-{receipt.currency}-{paid_on}",
+                             f"No Finance EUR-per-unit rate for {receipt.currency} on "
+                             f"payment date {paid_on}.",
+                             "FIN-01",
+                             f"Supply the FX row: rate date {paid_on}, currency "
+                             f"{receipt.currency}, EUR per currency unit.",
+                             "fx_missing", subject_type="source",
+                             subject_ref="registers.fx")])
     if rate_ref:
         src.append(rate_ref)
 

@@ -1,14 +1,14 @@
 {
   "schema_version": "travel-claim-snapshot/2",
-  "run_id": "run-20260916T124038Z",
-  "batch_id": "2",
+  "run_id": "run-A",
+  "batch_id": "3",
   "predecessor": {
-    "path": "batches/1.json",
-    "sha256": "1e65bfea4e6bf2499751a4226e1a98292edbf0f2966c9a79522519094ac86097"
+    "path": "batches/2.json",
+    "sha256": "9e9abfca4c35184a6de2cb2342b13863b10efdee64524fe0ecdc9523b87e27c6"
   },
   "source_binding": {
     "path": "sources.json",
-    "sha256": "978d9946bb5b8206180b2cd80a7b6913c04935059fc83fd13cd6befe965b60f0"
+    "sha256": "d52e640cb9544603082d728e3f4fc3e90e96d88cbd20e45a3dc035807c23b499"
   },
   "claims": [
     {
@@ -250,17 +250,17 @@
     },
     {
       "claim_id": "C09",
-      "revision": 1,
-      "trip_id": "T09",
+      "revision": 2,
+      "trip_id": "T09B",
       "trip_revision": 1,
-      "status": "held",
+      "status": "pending",
       "lines": [
         {
-          "cost_id": "COST-09",
+          "cost_id": "COST-09B",
           "source_ids": [
-            "COST-09",
-            "M-COST-09",
-            "R-COST-09"
+            "COST-09B",
+            "M-COST-09B",
+            "R-COST-09B"
           ],
           "status": "supported",
           "allowed_cents": 8000,
@@ -271,11 +271,12 @@
       "paid_cents": 0,
       "balance_cents": 8000,
       "decision_ids": [
-        "D-C09-1-claim-administration-1",
-        "D-C09-1-claim-budget_owner-1"
+        "D-C09-2-claim-administration-3",
+        "D-C09-2-claim-budget_owner-3",
+        "D-C09-2-claim-supervisor-3"
       ],
-      "next_owner": "ADMIN-01",
-      "reason": "Held on: review_return."
+      "next_owner": "FIN-01",
+      "reason": "Finance accepted the payment request; awaiting confirmed settlement."
     },
     {
       "claim_id": "C10",
@@ -335,10 +336,10 @@
     },
     {
       "claim_id": "C12",
-      "revision": 1,
+      "revision": 2,
       "trip_id": "T12",
       "trip_revision": 1,
-      "status": "held",
+      "status": "pending",
       "lines": [
         {
           "cost_id": "COST-12",
@@ -349,15 +350,19 @@
           ],
           "status": "supported",
           "allowed_cents": 7000,
-          "reason": "Supported: transport, gross 70.00 EUR paid 2026-09-01, allowed original 70.00, rate 1."
+          "reason": "Supported: transport, gross 70.00 EUR paid 2026-09-01, allowed original 70.00, rate 1. Finance exception by FIN-01 replaces the allowed original amount with 70.00."
         }
       ],
       "allowed_cents": 7000,
       "paid_cents": 0,
       "balance_cents": 7000,
-      "decision_ids": [],
+      "decision_ids": [
+        "D-C12-2-claim-administration-3",
+        "D-C12-2-claim-budget_owner-3",
+        "D-C12-2-claim-supervisor-3"
+      ],
       "next_owner": "FIN-01",
-      "reason": "Held on: late_filing, review_missing."
+      "reason": "Finance accepted the payment request; awaiting confirmed settlement."
     },
     {
       "claim_id": "C13",
@@ -445,7 +450,7 @@
       "revision": 1,
       "trip_id": "T16",
       "trip_revision": 1,
-      "status": "pending",
+      "status": "closed-reimbursed",
       "lines": [
         {
           "cost_id": "COST-16",
@@ -460,22 +465,22 @@
         }
       ],
       "allowed_cents": 10000,
-      "paid_cents": 4000,
-      "balance_cents": 6000,
+      "paid_cents": 10000,
+      "balance_cents": 0,
       "decision_ids": [
         "D-C16-1-claim-administration-1",
         "D-C16-1-claim-budget_owner-1",
         "D-C16-1-claim-supervisor-1"
       ],
-      "next_owner": "FIN-01",
-      "reason": "Partial settlement; the obligation stays pending."
+      "next_owner": null,
+      "reason": "Current approvals, obligation and net paid agree with no issue remaining."
     },
     {
       "claim_id": "C17",
       "revision": 1,
       "trip_id": "T17",
       "trip_revision": 1,
-      "status": "held",
+      "status": "pending",
       "lines": [
         {
           "cost_id": "COST-17",
@@ -497,22 +502,22 @@
         "D-C17-1-claim-budget_owner-1",
         "D-C17-1-claim-supervisor-1"
       ],
-      "next_owner": "ADMIN-01",
-      "reason": "Held on: finance_failed."
+      "next_owner": "FIN-01",
+      "reason": "Finance accepted the payment request; awaiting confirmed settlement."
     },
     {
       "claim_id": "C18",
-      "revision": 1,
-      "trip_id": "T18",
+      "revision": 2,
+      "trip_id": "T18B",
       "trip_revision": 1,
       "status": "held",
       "lines": [
         {
-          "cost_id": "COST-18",
+          "cost_id": "COST-18B",
           "source_ids": [
-            "COST-18",
-            "M-COST-18",
-            "R-COST-18"
+            "COST-18B",
+            "M-COST-18B",
+            "R-COST-18B"
           ],
           "status": "supported",
           "allowed_cents": 10000,
@@ -522,20 +527,16 @@
       "allowed_cents": 10000,
       "paid_cents": 0,
       "balance_cents": 10000,
-      "decision_ids": [
-        "D-C18-1-claim-administration-1",
-        "D-C18-1-claim-budget_owner-1",
-        "D-C18-1-claim-supervisor-1"
-      ],
-      "next_owner": "FIN-01",
-      "reason": "Held on: finance_cancel_pending, travel_cancellation."
+      "decision_ids": [],
+      "next_owner": "ADMIN-01",
+      "reason": "Held on: review_missing."
     },
     {
       "claim_id": "C19",
-      "revision": 1,
+      "revision": 2,
       "trip_id": "T19",
       "trip_revision": 1,
-      "status": "closed-reimbursed",
+      "status": "held",
       "lines": [
         {
           "cost_id": "COST-19",
@@ -545,20 +546,20 @@
             "R-COST-19"
           ],
           "status": "supported",
-          "allowed_cents": 10000,
-          "reason": "Supported: transport, gross 100.00 EUR paid 2026-09-01, allowed original 100.00, rate 1."
+          "allowed_cents": 8000,
+          "reason": "Supported: transport, gross 100.00 EUR paid 2026-09-01, allowed original 80.00, rate 1. Finance exception by FIN-01 replaces the allowed original amount with 80.00."
         }
       ],
-      "allowed_cents": 10000,
+      "allowed_cents": 8000,
       "paid_cents": 10000,
-      "balance_cents": 0,
+      "balance_cents": -2000,
       "decision_ids": [
-        "D-C19-1-claim-administration-1",
-        "D-C19-1-claim-budget_owner-1",
-        "D-C19-1-claim-supervisor-1"
+        "D-C19-2-claim-administration-3",
+        "D-C19-2-claim-budget_owner-3",
+        "D-C19-2-claim-supervisor-3"
       ],
-      "next_owner": null,
-      "reason": "Current approvals, obligation and net paid agree with no issue remaining."
+      "next_owner": "FIN-01",
+      "reason": "Held on: finance_resolution_required, overpayment, travel_cancellation."
     },
     {
       "claim_id": "C20",
@@ -580,15 +581,15 @@
         }
       ],
       "allowed_cents": 10000,
-      "paid_cents": 11000,
-      "balance_cents": -1000,
+      "paid_cents": 10000,
+      "balance_cents": 0,
       "decision_ids": [
         "D-C20-1-claim-administration-1",
         "D-C20-1-claim-budget_owner-1",
         "D-C20-1-claim-supervisor-1"
       ],
       "next_owner": "FIN-01",
-      "reason": "Held on: overpayment."
+      "reason": "Held on: finance_resolution_required."
     },
     {
       "claim_id": "C21",
@@ -668,8 +669,50 @@
       "paid_cents": 0,
       "balance_cents": null,
       "decision_ids": [],
-      "next_owner": "ADMIN-01",
+      "next_owner": "FIN-01",
       "reason": "Held on: review_missing, unresolved_line."
+    },
+    {
+      "claim_id": "C24",
+      "revision": 1,
+      "trip_id": "T03",
+      "trip_revision": 1,
+      "status": "pending",
+      "lines": [
+        {
+          "cost_id": "COST-03",
+          "source_ids": [
+            "COST-03",
+            "M-COST-03",
+            "R-COST-03",
+            "REQ-C03 (F-C03-1)"
+          ],
+          "status": "excluded",
+          "allowed_cents": 0,
+          "reason": "Previously settled obligation on REQ-C03 (F-C03-1); linked and excluded so the cost is not paid twice."
+        },
+        {
+          "cost_id": "COST-24",
+          "source_ids": [
+            "COST-24",
+            "M-COST-24",
+            "R-COST-24"
+          ],
+          "status": "supported",
+          "allowed_cents": 5000,
+          "reason": "Supported: transport, gross 50.00 EUR paid 2026-09-01, allowed original 50.00, rate 1."
+        }
+      ],
+      "allowed_cents": 5000,
+      "paid_cents": 0,
+      "balance_cents": 5000,
+      "decision_ids": [
+        "D-C24-1-claim-administration-3",
+        "D-C24-1-claim-budget_owner-3",
+        "D-C24-1-claim-supervisor-3"
+      ],
+      "next_owner": "FIN-01",
+      "reason": "Finance accepted the payment request; awaiting confirmed settlement."
     },
     {
       "claim_id": "C25",
@@ -4298,7 +4341,7 @@
       "paid_cents": 0,
       "balance_cents": null,
       "decision_ids": [],
-      "next_owner": "ADMIN-01",
+      "next_owner": "FIN-01",
       "reason": "Held on: review_missing, unresolved_line."
     },
     {
@@ -4411,7 +4454,7 @@
       "revision": 1,
       "trip_id": "T120",
       "trip_revision": 1,
-      "status": "pending",
+      "status": "closed-reimbursed",
       "lines": [
         {
           "cost_id": "COST-120-1",
@@ -4438,21 +4481,21 @@
         }
       ],
       "allowed_cents": 7500,
-      "paid_cents": 3000,
-      "balance_cents": 4500,
+      "paid_cents": 7500,
+      "balance_cents": 0,
       "decision_ids": [
         "D-C120-1-claim-administration-1",
         "D-C120-1-claim-budget_owner-supervisor-1"
       ],
-      "next_owner": "FIN-01",
-      "reason": "Partial settlement; the obligation stays pending."
+      "next_owner": null,
+      "reason": "Current approvals, obligation and net paid agree with no issue remaining."
     },
     {
       "claim_id": "C121",
-      "revision": 1,
+      "revision": 2,
       "trip_id": "T121",
       "trip_revision": 1,
-      "status": "held",
+      "status": "pending",
       "lines": [
         {
           "cost_id": "COST-121",
@@ -4462,20 +4505,20 @@
             "R-COST-121"
           ],
           "status": "supported",
-          "allowed_cents": 3000,
-          "reason": "Supported: transport, gross 30.00 EUR paid 2026-09-01, allowed original 30.00, rate 1."
+          "allowed_cents": 2000,
+          "reason": "Supported: transport, gross 30.00 EUR paid 2026-09-01, allowed original 20.00, rate 1. Finance exception by FIN-01 replaces the allowed original amount with 20.00."
         }
       ],
-      "allowed_cents": 3000,
+      "allowed_cents": 2000,
       "paid_cents": 0,
-      "balance_cents": 3000,
+      "balance_cents": 2000,
       "decision_ids": [
-        "D-C121-1-claim-administration-1",
-        "D-C121-1-claim-budget_owner-1",
-        "D-C121-1-claim-supervisor-1"
+        "D-C121-2-claim-administration-3",
+        "D-C121-2-claim-budget_owner-3",
+        "D-C121-2-claim-supervisor-3"
       ],
       "next_owner": "FIN-01",
-      "reason": "Held on: travel_cancellation."
+      "reason": "Finance accepted the payment request; awaiting confirmed settlement."
     }
   ],
   "requests": [
@@ -4578,6 +4621,20 @@
       ]
     },
     {
+      "request_id": "REQ-C09",
+      "claim_id": "C09",
+      "revision": 2,
+      "amount_cents": 8000,
+      "payee": "EMP-01",
+      "currency": "EUR",
+      "status": "accepted",
+      "decision_ids": [
+        "D-C09-2-claim-administration-3",
+        "D-C09-2-claim-budget_owner-3",
+        "D-C09-2-claim-supervisor-3"
+      ]
+    },
+    {
       "request_id": "REQ-C11",
       "claim_id": "C11",
       "revision": 1,
@@ -4592,13 +4649,27 @@
       ]
     },
     {
+      "request_id": "REQ-C12",
+      "claim_id": "C12",
+      "revision": 2,
+      "amount_cents": 7000,
+      "payee": "EMP-01",
+      "currency": "EUR",
+      "status": "accepted",
+      "decision_ids": [
+        "D-C12-2-claim-administration-3",
+        "D-C12-2-claim-budget_owner-3",
+        "D-C12-2-claim-supervisor-3"
+      ]
+    },
+    {
       "request_id": "REQ-C16",
       "claim_id": "C16",
       "revision": 1,
       "amount_cents": 10000,
       "payee": "EMP-01",
       "currency": "EUR",
-      "status": "accepted",
+      "status": "settled",
       "decision_ids": [
         "D-C16-1-claim-administration-1",
         "D-C16-1-claim-budget_owner-1",
@@ -4612,7 +4683,7 @@
       "amount_cents": 10000,
       "payee": "EMP-01",
       "currency": "EUR",
-      "status": "held",
+      "status": "accepted",
       "decision_ids": [
         "D-C17-1-claim-administration-1",
         "D-C17-1-claim-budget_owner-1",
@@ -4622,29 +4693,25 @@
     {
       "request_id": "REQ-C18",
       "claim_id": "C18",
-      "revision": 1,
+      "revision": 2,
       "amount_cents": 10000,
       "payee": "EMP-01",
       "currency": "EUR",
-      "status": "cancel-pending",
-      "decision_ids": [
-        "D-C18-1-claim-administration-1",
-        "D-C18-1-claim-budget_owner-1",
-        "D-C18-1-claim-supervisor-1"
-      ]
+      "status": "held",
+      "decision_ids": []
     },
     {
       "request_id": "REQ-C19",
       "claim_id": "C19",
-      "revision": 1,
-      "amount_cents": 10000,
+      "revision": 2,
+      "amount_cents": 8000,
       "payee": "EMP-01",
       "currency": "EUR",
-      "status": "settled",
+      "status": "held",
       "decision_ids": [
-        "D-C19-1-claim-administration-1",
-        "D-C19-1-claim-budget_owner-1",
-        "D-C19-1-claim-supervisor-1"
+        "D-C19-2-claim-administration-3",
+        "D-C19-2-claim-budget_owner-3",
+        "D-C19-2-claim-supervisor-3"
       ]
     },
     {
@@ -4654,11 +4721,25 @@
       "amount_cents": 10000,
       "payee": "EMP-01",
       "currency": "EUR",
-      "status": "held",
+      "status": "settled",
       "decision_ids": [
         "D-C20-1-claim-administration-1",
         "D-C20-1-claim-budget_owner-1",
         "D-C20-1-claim-supervisor-1"
+      ]
+    },
+    {
+      "request_id": "REQ-C24",
+      "claim_id": "C24",
+      "revision": 1,
+      "amount_cents": 5000,
+      "payee": "EMP-01",
+      "currency": "EUR",
+      "status": "accepted",
+      "decision_ids": [
+        "D-C24-1-claim-administration-3",
+        "D-C24-1-claim-budget_owner-3",
+        "D-C24-1-claim-supervisor-3"
       ]
     },
     {
@@ -5837,10 +5918,24 @@
       "amount_cents": 7500,
       "payee": "EMP-04",
       "currency": "EUR",
-      "status": "accepted",
+      "status": "settled",
       "decision_ids": [
         "D-C120-1-claim-administration-1",
         "D-C120-1-claim-budget_owner-supervisor-1"
+      ]
+    },
+    {
+      "request_id": "REQ-C121",
+      "claim_id": "C121",
+      "revision": 2,
+      "amount_cents": 2000,
+      "payee": "EMP-01",
+      "currency": "EUR",
+      "status": "accepted",
+      "decision_ids": [
+        "D-C121-2-claim-administration-3",
+        "D-C121-2-claim-budget_owner-3",
+        "D-C121-2-claim-supervisor-3"
       ]
     }
   ],
@@ -5885,13 +5980,13 @@
       "affected_claim_ids": [
         "C121"
       ],
-      "original_request_ids": [],
-      "financial_status": "unresolved",
-      "next_owner": "FIN-01",
-      "reason": "Confirmed cancellation affecting C121 with no Finance cost disposition naming this travel_cancellation_id. An amount-only or unrelated exception does not resolve it, and the binding is not inferred from review packets or any other source.",
-      "issue_record_ids": [
-        "ISS-CANCEL-NO-BOUND-DISPOSITION-TC121"
-      ]
+      "original_request_ids": [
+        "REQ-C121"
+      ],
+      "financial_status": "resolved",
+      "next_owner": null,
+      "reason": "Confirmed cancellation with an explicit Finance cost disposition bound to TC121.",
+      "issue_record_ids": []
     },
     {
       "cancellation_id": "TC018",
@@ -5920,6 +6015,34 @@
       "issue_record_ids": [
         "ISS-CANCEL-NO-BOUND-DISPOSITION-TC018"
       ]
+    },
+    {
+      "cancellation_id": "TC019",
+      "target_type": "trip",
+      "trip_id": "T19",
+      "trip_revision": 1,
+      "permit_id": null,
+      "permit_revision": null,
+      "status": "confirmed",
+      "admitted_cancellation_event_ids": [
+        "TC019-requested",
+        "TC019-confirmed"
+      ],
+      "requested_at": "2026-09-13T08:00:00Z",
+      "confirmed_at": "2026-09-13T09:00:00Z",
+      "effective_at": "2026-09-13T09:00:00Z",
+      "affected_claim_ids": [
+        "C19"
+      ],
+      "original_request_ids": [
+        "REQ-C19"
+      ],
+      "financial_status": "unresolved",
+      "next_owner": "FIN-01",
+      "reason": "Confirmed cancellation affecting C19 with no Finance cost disposition naming this travel_cancellation_id. An amount-only or unrelated exception does not resolve it, and the binding is not inferred from review packets or any other source.",
+      "issue_record_ids": [
+        "ISS-CANCEL-NO-BOUND-DISPOSITION-TC019"
+      ]
     }
   ],
   "admitted_event_ids": [
@@ -5932,10 +6055,15 @@
     "F-C07-1",
     "F-C11-1",
     "F-C16-1",
+    "F-C16-2",
     "F-C17-1",
+    "F-C17-2",
     "F-C18-1",
+    "F-C18-2",
     "F-C19-1",
+    "F-C19-2",
     "F-C20-1",
+    "F-C20-2",
     "F-C01-accepted",
     "F-C02-accepted",
     "F-C03-accepted",
@@ -5949,6 +6077,9 @@
     "F-C18-accepted",
     "F-C19-accepted",
     "F-C20-accepted",
+    "F-C09-accepted",
+    "F-C12-accepted",
+    "F-C24-accepted",
     "F-C27-accepted",
     "F-C27-1",
     "F-C28-accepted",
@@ -6122,7 +6253,9 @@
     "F-C115-accepted",
     "F-C115-1",
     "F-C120-accepted",
-    "F-C120-1"
+    "F-C120-1",
+    "F-C120-2",
+    "F-C121-accepted"
   ],
   "issues": [
     {
@@ -6132,21 +6265,21 @@
       "resolution_needed": "Supply an explicit Finance exception that itself states the exact travel_cancellation_id TC018, bound actor, claim/revision, expense, replacement allowed original amount and reason."
     },
     {
-      "record_id": "ISS-CANCEL-NO-BOUND-DISPOSITION-TC121",
-      "reason": "Confirmed cancellation TC121 affects C121 but no Finance cost disposition names this travel_cancellation_id. The supplied exception does not carry a travel_cancellation_id, and the link is not recovered from any other source.",
+      "record_id": "ISS-CANCEL-NO-BOUND-DISPOSITION-TC019",
+      "reason": "Confirmed cancellation TC019 affects C19 but no Finance cost disposition names this travel_cancellation_id. The supplied exception does not carry a travel_cancellation_id, and the link is not recovered from any other source.",
       "owner": "FIN-01",
-      "resolution_needed": "Supply an explicit Finance exception that itself states the exact travel_cancellation_id TC121, bound actor, claim/revision, expense, replacement allowed original amount and reason."
+      "resolution_needed": "Supply an explicit Finance exception that itself states the exact travel_cancellation_id TC019, bound actor, claim/revision, expense, replacement allowed original amount and reason."
     },
     {
-      "record_id": "ISS-CAP-MISSING-BE-lodging-2026-09-01",
+      "record_id": "ISS-CAP-MISSING-BE-lodging-EUR-2026-09-01",
       "reason": "No applicable lodging cap for destination BE in EUR effective on payment date 2026-09-01.",
-      "owner": "ADMIN-01",
+      "owner": "FIN-01",
       "resolution_needed": "Supply the Caps row: destination BE, category lodging, currency EUR, effective range covering 2026-09-01, and the amount per unit."
     },
     {
-      "record_id": "ISS-CAP-MISSING-NL-lodging-2026-09-01",
+      "record_id": "ISS-CAP-MISSING-NL-lodging-USD-2026-09-01",
       "reason": "No applicable lodging cap for destination NL in USD effective on payment date 2026-09-01.",
-      "owner": "ADMIN-01",
+      "owner": "FIN-01",
       "resolution_needed": "Supply the Caps row: destination NL, category lodging, currency USD, effective range covering 2026-09-01, and the amount per unit."
     },
     {
@@ -6180,14 +6313,8 @@
       "resolution_needed": "Supply an explicit Finance exception covering late_filing, or the claim remains held."
     },
     {
-      "record_id": "ISS-LATE-FILING-C12-1",
-      "reason": "Claim C12 rev 1 was submitted 2026-09-02, after the ordinary filing deadline 2026-09-01 for a trip ending 2026-07-01.",
-      "owner": "FIN-01",
-      "resolution_needed": "Supply an explicit Finance exception covering late_filing, or the claim remains held."
-    },
-    {
-      "record_id": "ISS-OVERPAYMENT-C20",
-      "reason": "Net paid 11000 cents exceeds the current authorized obligation 10000 cents.",
+      "record_id": "ISS-OVERPAYMENT-C19",
+      "reason": "Net paid 10000 cents exceeds the current authorized obligation 8000 cents.",
       "owner": "FIN-01",
       "resolution_needed": "Supply Finance resolution for the overpayment."
     },
@@ -6196,6 +6323,24 @@
       "reason": "International trip T25 needs an approved permit before the first arrangement or payment commitment; P25 is missing approvals from administration, budget_owner, supervisor.",
       "owner": "ADMIN-01",
       "resolution_needed": "Supply the missing permit review responses, or an explicit Finance exception covering permit_unapproved."
+    },
+    {
+      "record_id": "ISS-REQUEST-UNAUTHORIZED-C18-2",
+      "reason": "Finance has acted on REQ-C18 but C18 rev 2 is missing required approval(s) administration, budget_owner, supervisor. The accepted commitment is retained and the request is held; it is not treated as authorized.",
+      "owner": "ADMIN-01",
+      "resolution_needed": "Supply the missing review response(s) for administration, budget_owner, supervisor on this claim revision, or Finance direction on the accepted commitment."
+    },
+    {
+      "record_id": "ISS-RESOLUTION-REQUIRED-C19",
+      "reason": "C19 cannot close without an explicit Finance resolution: a Finance adjustment was admitted; net paid exceeds the obligation; a cancellation was confirmed after Finance accepted the request. Net paid matching the obligation is not sufficient.",
+      "owner": "FIN-01",
+      "resolution_needed": "Supply the Finance resolution event for this obligation."
+    },
+    {
+      "record_id": "ISS-RESOLUTION-REQUIRED-C20",
+      "reason": "C20 cannot close without an explicit Finance resolution: a confirmed refund was admitted. Net paid matching the obligation is not sufficient.",
+      "owner": "FIN-01",
+      "resolution_needed": "Supply the Finance resolution event for this obligation."
     },
     {
       "record_id": "ISS-REVIEW-MISSING-C08-1",
@@ -6252,12 +6397,6 @@
       "resolution_needed": "Supply the review response for director on this claim revision."
     },
     {
-      "record_id": "ISS-REVIEW-MISSING-C12-1",
-      "reason": "C12 rev 1 has no reply for required role(s) administration, budget_owner, supervisor.",
-      "owner": "ADMIN-01",
-      "resolution_needed": "Supply the review response for administration, budget_owner, supervisor on this claim revision."
-    },
-    {
       "record_id": "ISS-REVIEW-MISSING-C13-1",
       "reason": "C13 rev 1 has no reply for required role(s) administration, budget_owner, supervisor.",
       "owner": "ADMIN-01",
@@ -6266,6 +6405,12 @@
     {
       "record_id": "ISS-REVIEW-MISSING-C15-1",
       "reason": "C15 rev 1 has no reply for required role(s) administration, budget_owner, supervisor.",
+      "owner": "ADMIN-01",
+      "resolution_needed": "Supply the review response for administration, budget_owner, supervisor on this claim revision."
+    },
+    {
+      "record_id": "ISS-REVIEW-MISSING-C18-2",
+      "reason": "C18 rev 2 has no reply for required role(s) administration, budget_owner, supervisor.",
       "owner": "ADMIN-01",
       "resolution_needed": "Supply the review response for administration, budget_owner, supervisor on this claim revision."
     },
@@ -6294,28 +6439,16 @@
       "resolution_needed": "Supply the review response for administration, budget_owner, supervisor on this claim revision."
     },
     {
-      "record_id": "ISS-REVIEW-RETURNED-C09-1",
-      "reason": "C09 rev 1 was returned by budget_owner with a repair request.",
-      "owner": "ADMIN-01",
-      "resolution_needed": "Supply the repaired claim revision addressing the recorded repair request."
-    },
-    {
       "record_id": "ISS-REVIEW-RETURNED-C21-1",
       "reason": "C21 rev 1 was returned by budget_owner with a repair request.",
       "owner": "ADMIN-01",
       "resolution_needed": "Supply the repaired claim revision addressing the recorded repair request."
     },
     {
-      "record_id": "ISS-TRAVEL-CANCELLATION-TC018-C18",
-      "reason": "Confirmed cancellation TC018 affects C18. No Finance exception covers travel_cancellation for this claim.",
+      "record_id": "ISS-TRAVEL-CANCELLATION-TC019-C19",
+      "reason": "Confirmed cancellation TC019 affects C19. No Finance exception covers travel_cancellation for this claim.",
       "owner": "FIN-01",
-      "resolution_needed": "An explicit Finance exception that itself states the exact travel_cancellation_id TC018, bound actor, claim/revision, expense, replacement allowed original amount and reason. The link is not inferred from review packets or elsewhere."
-    },
-    {
-      "record_id": "ISS-TRAVEL-CANCELLATION-TC121-C121",
-      "reason": "Confirmed cancellation TC121 affects C121. No Finance exception covers travel_cancellation for this claim.",
-      "owner": "FIN-01",
-      "resolution_needed": "An explicit Finance exception that itself states the exact travel_cancellation_id TC121, bound actor, claim/revision, expense, replacement allowed original amount and reason. The link is not inferred from review packets or elsewhere."
+      "resolution_needed": "An explicit Finance exception that itself states the exact travel_cancellation_id TC019, bound actor, claim/revision, expense, replacement allowed original amount and reason. The link is not inferred from review packets or elsewhere."
     }
   ],
   "budget_position": {
@@ -6323,9 +6456,9 @@
     "prior_commitments_cents": 500000,
     "prior_commitments_settled_cents": 200000,
     "prior_commitments_refunded_cents": 0,
-    "accepted_new_commitments_cents": 1183415,
-    "net_settled_this_run_cents": 1153915,
-    "remaining_cents": 316585,
+    "accepted_new_commitments_cents": 1203415,
+    "net_settled_this_run_cents": 1163415,
+    "remaining_cents": 296585,
     "note": "Commitments include their settled portion; the settled figures are reported but never subtracted again. Adequate funds alone are not a budget approval."
   }
 }

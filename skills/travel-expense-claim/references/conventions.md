@@ -73,14 +73,16 @@ packet is not post-cancellation authorization**". Recovering the id by joining R
 packets on (claim, revision) would be automation supplying an authorisation link Finance
 did not give, which block 2 forbids: "neither the employee nor automation invents one".
 
-### Recorded consequence on the supplied package
+### What the supplied package actually carries
 
-No Finance exception block in either claim binder has a `travel_cancellation_id` field at
-all. Exceptions that declare `Covered issues: Travel cancellation` therefore do not
-resolve the finding. They remain valid as amount-only exceptions -- their replacement
-allowed original amount is applied, which is exactly the case block 14 describes when it
-says "an amount-only or unrelated exception does not resolve it". The affected claims stay
-held with an issue owned by Finance.
+An exception that covers `travel_cancellation` states the id on its own face, as a
+`Travel cancellation reference` line inside the exception block. C121 revision 2 names
+`TC121` and C19 revision 3 names `TC019`, so both processes resolve from the exception
+alone. TC018 has no exception at all and stays `unresolved` with Finance named; TC122 is
+confirmed with no claim, cost or obligation and is recorded as no-financial-effect.
+
+An exception whose `Covered issues` is empty is an amount-only exception: its replacement
+allowed original amount still applies, but it resolves no finding. C19 revision 2 is one.
 
 ## Derived facts versus derived authority
 

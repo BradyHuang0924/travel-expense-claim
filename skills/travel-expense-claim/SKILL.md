@@ -16,15 +16,18 @@ request and never moves money.
 
 ## Scope of this revision
 
-Batches 1 and 2, end to end. Batches 3 and 4 reuse the same per-batch path; they are not
-yet wired up.
+All four batches, end to end, with the repair queue and report.
 
 ## Run it
 
 ```
 pip install "jsonschema[format]" rfc3339-validator pypdf
-python -m skills.travel-expense-claim.src.run --batches 1,2
+python -m skills.travel-expense-claim.src.run --batches 1,2,3,4
 python -m skills.travel-expense-claim.src.verify artifacts/runs/<run-id>
+
+# replay: run again into a separate root with the same run id, then compare
+python -m skills.travel-expense-claim.src.run --batches 1,2,3,4     --run-id <run-id> --artifacts artifacts/replay
+python -m skills.travel-expense-claim.src.replay     artifacts/runs/<run-id> artifacts/replay/<run-id>
 ```
 
 Outputs land in `artifacts/runs/<run-id>/`: `sources.json`, `sources/` (the retained
@@ -58,8 +61,9 @@ SHA-256, so a rewritten history breaks the chain visibly.
 
 * It will not recover a missing authorisation link from another source. A Finance
   exception covering `travel_cancellation` must itself carry the exact
-  `travel_cancellation_id`; the id is not taken from Review packets or anywhere else, and
-  the finding stays unresolved with an issue naming Finance
+  `travel_cancellation_id`; the id is never taken from Review packets, which the policy
+  says are not authorization. Where the exception does name it the process resolves;
+  where no exception names it the finding stays unresolved with an issue naming Finance
   (POL-2026.2 block 14, and block 2: "neither the employee nor automation invents one").
 * It will not write `requests[].status = "dispatched"`. No supplied Finance activity type
   denotes dispatch, and the skill does not send requests, so the state has no admissible

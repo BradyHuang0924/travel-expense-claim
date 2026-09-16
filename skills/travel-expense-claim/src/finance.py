@@ -42,6 +42,17 @@ def _payload(row: dict) -> dict:
     return {k: v for k, v in row.items() if k not in _IDENTITY_EXCLUDED}
 
 
+def arrival_batches(rows: list[dict], key: str = "Activity reference") -> dict[str, int]:
+    """First arrival batch per event reference; an exact replay never moves it."""
+    out: dict[str, int] = {}
+    for row in rows:
+        ref = row[key]
+        b = int(row["Arrival batch"])
+        if ref not in out or b < out[ref]:
+            out[ref] = b
+    return out
+
+
 def admit(rows: list[dict], upto_batch: int) -> AdmittedEvents:
     """Admit Finance activity rows delivered in this batch or earlier.
 
@@ -60,7 +71,9 @@ def admit(rows: list[dict], upto_batch: int) -> AdmittedEvents:
                 f"ISS-FINANCE-UNKNOWN-TYPE-{ref}",
                 f"Finance activity {ref} has unrecognised activity type '{kind}'.",
                 row.get("Finance officer") or "FIN-01",
-                "Confirm the intended activity type or withdraw the event."))
+                "Confirm the intended activity type or withdraw the event.",
+                subject_type="source", subject_ref="registers.finance_activity",
+                source_refs=[ref], kind="finance_unknown_type"))
             continue
         payload = _payload(row)
         if ref in out.admitted:
@@ -73,7 +86,10 @@ def admit(rows: list[dict], upto_batch: int) -> AdmittedEvents:
                     f"Finance event {ref} was redelivered with a different payload; "
                     f"admitted money is retained and the case is held.",
                     row.get("Finance officer") or "FIN-01",
-                    "Supply the authoritative payload for this event reference."))
+                    "Supply the authoritative payload for this event reference.",
+                    subject_type="source", subject_ref="registers.finance_activity",
+                    source_refs=[ref], blocks=[row.get("Claim reference", "")],
+                    kind="finance_conflicting_replay"))
             continue
         out.admitted[ref] = payload
         out.order.append(ref)
@@ -91,6 +107,7 @@ class ClaimMoney:
     cancelled: bool = False
     adjustment: bool = False
     resolution: bool = False
+    accepted_batch: int | None = None
     event_ids: list[str] = field(default_factory=list)
     unlinked_refunds: list[str] = field(default_factory=list)
 
@@ -101,9 +118,11 @@ class ClaimMoney:
         return self.settled_cents - self.refunded_cents
 
 
-def money_by_claim(events: AdmittedEvents) -> dict[str, ClaimMoney]:
+def money_by_claim(events: AdmittedEvents,
+                   arrival_batch: dict[str, int] | None = None) -> dict[str, ClaimMoney]:
     out: dict[str, ClaimMoney] = {}
     settled_by_ref: dict[str, int] = {}
+    arrival_batch = arrival_batch or {}
     for ref in events.order:
         row = events.admitted[ref]
         claim_id = row["Claim reference"]
@@ -114,6 +133,9 @@ def money_by_claim(events: AdmittedEvents) -> dict[str, ClaimMoney]:
         cents = to_cents(Decimal(raw)) if raw else 0
         if kind == "accepted":
             m.accepted = True
+            b = arrival_batch.get(ref)
+            if b is not None and (m.accepted_batch is None or b < m.accepted_batch):
+                m.accepted_batch = b
         elif kind == "settled":
             m.settled_cents += cents
             settled_by_ref[ref] = cents
