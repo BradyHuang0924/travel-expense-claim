@@ -2,3 +2,7 @@
 # translation on checkout would change those bytes and break source_binding.sha256,
 # so nothing under artifacts/ is treated as text.
 artifacts/** -text
+
+# The interview export is committed unmodified; line-ending translation would
+# rewrite it, which the Interview rule forbids.
+interviews/** -text
