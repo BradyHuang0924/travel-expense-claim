@@ -1,0 +1,3959 @@
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 1 of 120
+Claim reference: C01
+Revision: 1
+Arrival batch: 1
+Employee: EMP-01
+Trip reference: T01
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Business travel reimbursement
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-01
+R-COST-01
+2026-09-01
+100.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 2 of 120
+Claim reference: C02
+Revision: 1
+Arrival batch: 1
+Employee: EMP-01
+Trip reference: T02
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Business travel reimbursement
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-02
+R-COST-02
+2026-09-01
+600.00
+USD
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 3 of 120
+Claim reference: C03
+Revision: 1
+Arrival batch: 1
+Employee: EMP-01
+Trip reference: T03
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Business travel reimbursement
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-03
+R-COST-03
+2026-09-01
+200.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 4 of 120
+Claim reference: C04
+Revision: 1
+Arrival batch: 1
+Employee: EMP-02
+Trip reference: T04
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Business travel reimbursement
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-04
+R-COST-04
+2026-09-01
+100.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 5 of 120
+Claim reference: C05
+Revision: 1
+Arrival batch: 1
+Employee: EMP-01
+Trip reference: T05
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Business travel reimbursement
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-05
+R-COST-05
+2026-09-01
+1000.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 6 of 120
+Claim reference: C06
+Revision: 1
+Arrival batch: 1
+Employee: EMP-01
+Trip reference: T06
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Business travel reimbursement
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-06
+R-COST-06
+2026-09-01
+1000.01
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 7 of 120
+Claim reference: C07
+Revision: 1
+Arrival batch: 1
+Employee: EMP-01
+Trip reference: T07
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Business travel reimbursement
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-07
+R-COST-07
+2026-09-01
+360.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 8 of 120
+Claim reference: C08
+Revision: 1
+Arrival batch: 1
+Employee: EMP-01
+Trip reference: T08
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Business travel reimbursement
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-08
+R-COST-08
+2026-09-01
+120.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 9 of 120
+Claim reference: C09
+Revision: 1
+Arrival batch: 1
+Employee: EMP-01
+Trip reference: T09
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Business travel reimbursement
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-09
+R-COST-09
+2026-09-01
+80.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 10 of 120
+Claim reference: C10
+Revision: 1
+Arrival batch: 1
+Employee: EMP-01
+Trip reference: T10
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Business travel reimbursement
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-10
+R-COST-10
+2026-09-01
+90.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 11 of 120
+Claim reference: C11
+Revision: 1
+Arrival batch: 1
+Employee: EMP-01
+Trip reference: T11
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Business travel reimbursement
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-11
+R-COST-11
+2026-09-01
+60.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 12 of 120
+Claim reference: C12
+Revision: 1
+Arrival batch: 1
+Employee: EMP-01
+Trip reference: T12
+Trip revision: 1
+Submitted date: 2026-09-02
+Status: submitted
+Claim reason: Business travel reimbursement
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-12
+R-COST-12
+2026-09-02
+70.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 13 of 120
+Claim reference: C13
+Revision: 1
+Arrival batch: 1
+Employee: EMP-01
+Trip reference: T13
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: withdrawn
+Claim reason: Employee withdrew before review.
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-13
+R-COST-13
+2026-09-01
+50.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 14 of 120
+Claim reference: C14
+Revision: 1
+Arrival batch: 1
+Employee: EMP-01
+Trip reference: T14
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Business travel reimbursement
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-14
+R-COST-14
+2026-09-01
+40.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 15 of 120
+Claim reference: C15
+Revision: 1
+Arrival batch: 1
+Employee: EMP-01
+Trip reference: T15
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Business travel reimbursement
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-15
+R-COST-15
+2026-09-01
+30.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 16 of 120
+Claim reference: C16
+Revision: 1
+Arrival batch: 1
+Employee: EMP-01
+Trip reference: T16
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Business travel reimbursement
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-16
+R-COST-16
+2026-09-01
+100.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 17 of 120
+Claim reference: C17
+Revision: 1
+Arrival batch: 1
+Employee: EMP-01
+Trip reference: T17
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Business travel reimbursement
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-17
+R-COST-17
+2026-09-01
+100.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 18 of 120
+Claim reference: C18
+Revision: 1
+Arrival batch: 1
+Employee: EMP-01
+Trip reference: T18
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Business travel reimbursement
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-18
+R-COST-18
+2026-09-01
+100.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 19 of 120
+Claim reference: C19
+Revision: 1
+Arrival batch: 1
+Employee: EMP-01
+Trip reference: T19
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Business travel reimbursement
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-19
+R-COST-19
+2026-09-01
+100.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 20 of 120
+Claim reference: C20
+Revision: 1
+Arrival batch: 1
+Employee: EMP-01
+Trip reference: T20
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Business travel reimbursement
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-20
+R-COST-20
+2026-09-01
+100.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 21 of 120
+Claim reference: C21
+Revision: 1
+Arrival batch: 1
+Employee: EMP-01
+Trip reference: T21
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Business travel reimbursement
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-21
+R-COST-21
+2026-09-01
+80.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 22 of 120
+Claim reference: C22
+Revision: 1
+Arrival batch: 1
+Employee: EMP-01
+Trip reference: T22
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Business travel reimbursement
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-22
+R-COST-22
+2026-09-01
+45.00
+GBP
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 23 of 120
+Claim reference: C23
+Revision: 1
+Arrival batch: 1
+Employee: EMP-01
+Trip reference: T23
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Business travel reimbursement
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-23
+R-COST-23
+2026-09-01
+170.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 24 of 120
+Claim reference: C25
+Revision: 1
+Arrival batch: 1
+Employee: EMP-01
+Trip reference: T25
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Business travel reimbursement
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-25
+R-COST-25
+2026-09-01
+100.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 25 of 120
+Claim reference: C26
+Revision: 1
+Arrival batch: 1
+Employee: EMP-01
+Trip reference: T26
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Business travel reimbursement
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-26
+R-COST-26
+2026-09-01
+100.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 26 of 120
+Claim reference: C27
+Revision: 1
+Arrival batch: 1
+Employee: EMP-03
+Trip reference: T27
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-27-1
+R-COST-27-1
+2026-09-01
+20.00
+EUR
+2
+COST-27-2
+R-COST-27-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 27 of 120
+Claim reference: C28
+Revision: 1
+Arrival batch: 1
+Employee: EMP-03
+Trip reference: T28
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-28-1
+R-COST-28-1
+2026-09-01
+25.00
+EUR
+2
+COST-28-2
+R-COST-28-2
+2026-09-01
+20.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 28 of 120
+Claim reference: C29
+Revision: 1
+Arrival batch: 1
+Employee: EMP-03
+Trip reference: T29
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-29-1
+R-COST-29-1
+2026-09-01
+40.00
+EUR
+2
+COST-29-2
+R-COST-29-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 29 of 120
+Claim reference: C30
+Revision: 1
+Arrival batch: 1
+Employee: EMP-03
+Trip reference: T30
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-30-1
+R-COST-30-1
+2026-09-01
+35.00
+EUR
+2
+COST-30-2
+R-COST-30-2
+2026-09-01
+30.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 30 of 120
+Claim reference: C31
+Revision: 1
+Arrival batch: 1
+Employee: EMP-03
+Trip reference: T31
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-31-1
+R-COST-31-1
+2026-09-01
+60.00
+EUR
+2
+COST-31-2
+R-COST-31-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 31 of 120
+Claim reference: C32
+Revision: 1
+Arrival batch: 1
+Employee: EMP-03
+Trip reference: T32
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-32-1
+R-COST-32-1
+2026-09-01
+50.00
+EUR
+2
+COST-32-2
+R-COST-32-2
+2026-09-01
+35.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 32 of 120
+Claim reference: C33
+Revision: 1
+Arrival batch: 1
+Employee: EMP-04
+Trip reference: T33
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-33-1
+R-COST-33-1
+2026-09-01
+20.00
+EUR
+2
+COST-33-2
+R-COST-33-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 33 of 120
+Claim reference: C34
+Revision: 1
+Arrival batch: 1
+Employee: EMP-04
+Trip reference: T34
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-34-1
+R-COST-34-1
+2026-09-01
+25.00
+EUR
+2
+COST-34-2
+R-COST-34-2
+2026-09-01
+20.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 34 of 120
+Claim reference: C35
+Revision: 1
+Arrival batch: 1
+Employee: EMP-04
+Trip reference: T35
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-35-1
+R-COST-35-1
+2026-09-01
+40.00
+EUR
+2
+COST-35-2
+R-COST-35-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 35 of 120
+Claim reference: C36
+Revision: 1
+Arrival batch: 1
+Employee: EMP-04
+Trip reference: T36
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-36-1
+R-COST-36-1
+2026-09-01
+35.00
+EUR
+2
+COST-36-2
+R-COST-36-2
+2026-09-01
+30.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 36 of 120
+Claim reference: C37
+Revision: 1
+Arrival batch: 1
+Employee: EMP-04
+Trip reference: T37
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-37-1
+R-COST-37-1
+2026-09-01
+60.00
+EUR
+2
+COST-37-2
+R-COST-37-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 37 of 120
+Claim reference: C38
+Revision: 1
+Arrival batch: 1
+Employee: EMP-04
+Trip reference: T38
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-38-1
+R-COST-38-1
+2026-09-01
+50.00
+EUR
+2
+COST-38-2
+R-COST-38-2
+2026-09-01
+35.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 38 of 120
+Claim reference: C39
+Revision: 1
+Arrival batch: 1
+Employee: EMP-05
+Trip reference: T39
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-39-1
+R-COST-39-1
+2026-09-01
+20.00
+EUR
+2
+COST-39-2
+R-COST-39-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 39 of 120
+Claim reference: C40
+Revision: 1
+Arrival batch: 1
+Employee: EMP-05
+Trip reference: T40
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-40-1
+R-COST-40-1
+2026-09-01
+25.00
+EUR
+2
+COST-40-2
+R-COST-40-2
+2026-09-01
+20.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 40 of 120
+Claim reference: C41
+Revision: 1
+Arrival batch: 1
+Employee: EMP-05
+Trip reference: T41
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-41-1
+R-COST-41-1
+2026-09-01
+40.00
+EUR
+2
+COST-41-2
+R-COST-41-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 41 of 120
+Claim reference: C42
+Revision: 1
+Arrival batch: 1
+Employee: EMP-05
+Trip reference: T42
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-42-1
+R-COST-42-1
+2026-09-01
+35.00
+EUR
+2
+COST-42-2
+R-COST-42-2
+2026-09-01
+30.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 42 of 120
+Claim reference: C43
+Revision: 1
+Arrival batch: 1
+Employee: EMP-05
+Trip reference: T43
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-43-1
+R-COST-43-1
+2026-09-01
+60.00
+EUR
+2
+COST-43-2
+R-COST-43-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 43 of 120
+Claim reference: C44
+Revision: 1
+Arrival batch: 1
+Employee: EMP-05
+Trip reference: T44
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-44-1
+R-COST-44-1
+2026-09-01
+50.00
+EUR
+2
+COST-44-2
+R-COST-44-2
+2026-09-01
+35.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 44 of 120
+Claim reference: C45
+Revision: 1
+Arrival batch: 1
+Employee: EMP-06
+Trip reference: T45
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-45-1
+R-COST-45-1
+2026-09-01
+20.00
+EUR
+2
+COST-45-2
+R-COST-45-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 45 of 120
+Claim reference: C46
+Revision: 1
+Arrival batch: 1
+Employee: EMP-06
+Trip reference: T46
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-46-1
+R-COST-46-1
+2026-09-01
+25.00
+EUR
+2
+COST-46-2
+R-COST-46-2
+2026-09-01
+20.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 46 of 120
+Claim reference: C47
+Revision: 1
+Arrival batch: 1
+Employee: EMP-06
+Trip reference: T47
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-47-1
+R-COST-47-1
+2026-09-01
+40.00
+EUR
+2
+COST-47-2
+R-COST-47-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 47 of 120
+Claim reference: C48
+Revision: 1
+Arrival batch: 1
+Employee: EMP-06
+Trip reference: T48
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-48-1
+R-COST-48-1
+2026-09-01
+35.00
+EUR
+2
+COST-48-2
+R-COST-48-2
+2026-09-01
+30.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 48 of 120
+Claim reference: C49
+Revision: 1
+Arrival batch: 1
+Employee: EMP-06
+Trip reference: T49
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-49-1
+R-COST-49-1
+2026-09-01
+60.00
+EUR
+2
+COST-49-2
+R-COST-49-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 49 of 120
+Claim reference: C50
+Revision: 1
+Arrival batch: 1
+Employee: EMP-06
+Trip reference: T50
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-50-1
+R-COST-50-1
+2026-09-01
+50.00
+EUR
+2
+COST-50-2
+R-COST-50-2
+2026-09-01
+35.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 50 of 120
+Claim reference: C51
+Revision: 1
+Arrival batch: 1
+Employee: EMP-07
+Trip reference: T51
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-51-1
+R-COST-51-1
+2026-09-01
+20.00
+EUR
+2
+COST-51-2
+R-COST-51-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 51 of 120
+Claim reference: C52
+Revision: 1
+Arrival batch: 1
+Employee: EMP-07
+Trip reference: T52
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-52-1
+R-COST-52-1
+2026-09-01
+25.00
+EUR
+2
+COST-52-2
+R-COST-52-2
+2026-09-01
+20.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 52 of 120
+Claim reference: C53
+Revision: 1
+Arrival batch: 1
+Employee: EMP-07
+Trip reference: T53
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-53-1
+R-COST-53-1
+2026-09-01
+40.00
+EUR
+2
+COST-53-2
+R-COST-53-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 53 of 120
+Claim reference: C54
+Revision: 1
+Arrival batch: 1
+Employee: EMP-07
+Trip reference: T54
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-54-1
+R-COST-54-1
+2026-09-01
+35.00
+EUR
+2
+COST-54-2
+R-COST-54-2
+2026-09-01
+30.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 54 of 120
+Claim reference: C55
+Revision: 1
+Arrival batch: 1
+Employee: EMP-07
+Trip reference: T55
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-55-1
+R-COST-55-1
+2026-09-01
+60.00
+EUR
+2
+COST-55-2
+R-COST-55-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 55 of 120
+Claim reference: C56
+Revision: 1
+Arrival batch: 1
+Employee: EMP-07
+Trip reference: T56
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-56-1
+R-COST-56-1
+2026-09-01
+50.00
+EUR
+2
+COST-56-2
+R-COST-56-2
+2026-09-01
+35.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 56 of 120
+Claim reference: C57
+Revision: 1
+Arrival batch: 1
+Employee: EMP-08
+Trip reference: T57
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-57-1
+R-COST-57-1
+2026-09-01
+20.00
+EUR
+2
+COST-57-2
+R-COST-57-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 57 of 120
+Claim reference: C58
+Revision: 1
+Arrival batch: 1
+Employee: EMP-08
+Trip reference: T58
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-58-1
+R-COST-58-1
+2026-09-01
+25.00
+EUR
+2
+COST-58-2
+R-COST-58-2
+2026-09-01
+20.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 58 of 120
+Claim reference: C59
+Revision: 1
+Arrival batch: 1
+Employee: EMP-08
+Trip reference: T59
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-59-1
+R-COST-59-1
+2026-09-01
+40.00
+EUR
+2
+COST-59-2
+R-COST-59-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 59 of 120
+Claim reference: C60
+Revision: 1
+Arrival batch: 1
+Employee: EMP-08
+Trip reference: T60
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-60-1
+R-COST-60-1
+2026-09-01
+35.00
+EUR
+2
+COST-60-2
+R-COST-60-2
+2026-09-01
+30.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 60 of 120
+Claim reference: C61
+Revision: 1
+Arrival batch: 1
+Employee: EMP-08
+Trip reference: T61
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-61-1
+R-COST-61-1
+2026-09-01
+60.00
+EUR
+2
+COST-61-2
+R-COST-61-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 61 of 120
+Claim reference: C62
+Revision: 1
+Arrival batch: 1
+Employee: EMP-08
+Trip reference: T62
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-62-1
+R-COST-62-1
+2026-09-01
+50.00
+EUR
+2
+COST-62-2
+R-COST-62-2
+2026-09-01
+35.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 62 of 120
+Claim reference: C63
+Revision: 1
+Arrival batch: 1
+Employee: EMP-09
+Trip reference: T63
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-63-1
+R-COST-63-1
+2026-09-01
+20.00
+EUR
+2
+COST-63-2
+R-COST-63-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 63 of 120
+Claim reference: C64
+Revision: 1
+Arrival batch: 1
+Employee: EMP-09
+Trip reference: T64
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-64-1
+R-COST-64-1
+2026-09-01
+25.00
+EUR
+2
+COST-64-2
+R-COST-64-2
+2026-09-01
+20.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 64 of 120
+Claim reference: C65
+Revision: 1
+Arrival batch: 1
+Employee: EMP-09
+Trip reference: T65
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-65-1
+R-COST-65-1
+2026-09-01
+40.00
+EUR
+2
+COST-65-2
+R-COST-65-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 65 of 120
+Claim reference: C66
+Revision: 1
+Arrival batch: 1
+Employee: EMP-09
+Trip reference: T66
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-66-1
+R-COST-66-1
+2026-09-01
+35.00
+EUR
+2
+COST-66-2
+R-COST-66-2
+2026-09-01
+30.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 66 of 120
+Claim reference: C67
+Revision: 1
+Arrival batch: 1
+Employee: EMP-09
+Trip reference: T67
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-67-1
+R-COST-67-1
+2026-09-01
+60.00
+EUR
+2
+COST-67-2
+R-COST-67-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 67 of 120
+Claim reference: C68
+Revision: 1
+Arrival batch: 1
+Employee: EMP-09
+Trip reference: T68
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-68-1
+R-COST-68-1
+2026-09-01
+50.00
+EUR
+2
+COST-68-2
+R-COST-68-2
+2026-09-01
+35.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 68 of 120
+Claim reference: C69
+Revision: 1
+Arrival batch: 1
+Employee: EMP-10
+Trip reference: T69
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-69-1
+R-COST-69-1
+2026-09-01
+20.00
+EUR
+2
+COST-69-2
+R-COST-69-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 69 of 120
+Claim reference: C70
+Revision: 1
+Arrival batch: 1
+Employee: EMP-10
+Trip reference: T70
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-70-1
+R-COST-70-1
+2026-09-01
+25.00
+EUR
+2
+COST-70-2
+R-COST-70-2
+2026-09-01
+20.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 70 of 120
+Claim reference: C71
+Revision: 1
+Arrival batch: 1
+Employee: EMP-10
+Trip reference: T71
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-71-1
+R-COST-71-1
+2026-09-01
+40.00
+EUR
+2
+COST-71-2
+R-COST-71-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 71 of 120
+Claim reference: C72
+Revision: 1
+Arrival batch: 1
+Employee: EMP-10
+Trip reference: T72
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-72-1
+R-COST-72-1
+2026-09-01
+35.00
+EUR
+2
+COST-72-2
+R-COST-72-2
+2026-09-01
+30.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 72 of 120
+Claim reference: C73
+Revision: 1
+Arrival batch: 1
+Employee: EMP-10
+Trip reference: T73
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-73-1
+R-COST-73-1
+2026-09-01
+60.00
+EUR
+2
+COST-73-2
+R-COST-73-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 73 of 120
+Claim reference: C74
+Revision: 1
+Arrival batch: 1
+Employee: EMP-10
+Trip reference: T74
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-74-1
+R-COST-74-1
+2026-09-01
+50.00
+EUR
+2
+COST-74-2
+R-COST-74-2
+2026-09-01
+35.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 74 of 120
+Claim reference: C75
+Revision: 1
+Arrival batch: 1
+Employee: EMP-11
+Trip reference: T75
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-75-1
+R-COST-75-1
+2026-09-01
+20.00
+EUR
+2
+COST-75-2
+R-COST-75-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 75 of 120
+Claim reference: C76
+Revision: 1
+Arrival batch: 1
+Employee: EMP-11
+Trip reference: T76
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-76-1
+R-COST-76-1
+2026-09-01
+25.00
+EUR
+2
+COST-76-2
+R-COST-76-2
+2026-09-01
+20.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 76 of 120
+Claim reference: C77
+Revision: 1
+Arrival batch: 1
+Employee: EMP-11
+Trip reference: T77
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-77-1
+R-COST-77-1
+2026-09-01
+40.00
+EUR
+2
+COST-77-2
+R-COST-77-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 77 of 120
+Claim reference: C78
+Revision: 1
+Arrival batch: 1
+Employee: EMP-11
+Trip reference: T78
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-78-1
+R-COST-78-1
+2026-09-01
+35.00
+EUR
+2
+COST-78-2
+R-COST-78-2
+2026-09-01
+30.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 78 of 120
+Claim reference: C79
+Revision: 1
+Arrival batch: 1
+Employee: EMP-11
+Trip reference: T79
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-79-1
+R-COST-79-1
+2026-09-01
+60.00
+EUR
+2
+COST-79-2
+R-COST-79-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 79 of 120
+Claim reference: C80
+Revision: 1
+Arrival batch: 1
+Employee: EMP-11
+Trip reference: T80
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-80-1
+R-COST-80-1
+2026-09-01
+50.00
+EUR
+2
+COST-80-2
+R-COST-80-2
+2026-09-01
+35.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 80 of 120
+Claim reference: C81
+Revision: 1
+Arrival batch: 1
+Employee: EMP-12
+Trip reference: T81
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-81-1
+R-COST-81-1
+2026-09-01
+20.00
+EUR
+2
+COST-81-2
+R-COST-81-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 81 of 120
+Claim reference: C82
+Revision: 1
+Arrival batch: 1
+Employee: EMP-12
+Trip reference: T82
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-82-1
+R-COST-82-1
+2026-09-01
+25.00
+EUR
+2
+COST-82-2
+R-COST-82-2
+2026-09-01
+20.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 82 of 120
+Claim reference: C83
+Revision: 1
+Arrival batch: 1
+Employee: EMP-12
+Trip reference: T83
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-83-1
+R-COST-83-1
+2026-09-01
+40.00
+EUR
+2
+COST-83-2
+R-COST-83-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 83 of 120
+Claim reference: C84
+Revision: 1
+Arrival batch: 1
+Employee: EMP-12
+Trip reference: T84
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-84-1
+R-COST-84-1
+2026-09-01
+35.00
+EUR
+2
+COST-84-2
+R-COST-84-2
+2026-09-01
+30.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 84 of 120
+Claim reference: C85
+Revision: 1
+Arrival batch: 1
+Employee: EMP-12
+Trip reference: T85
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-85-1
+R-COST-85-1
+2026-09-01
+60.00
+EUR
+2
+COST-85-2
+R-COST-85-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 85 of 120
+Claim reference: C86
+Revision: 1
+Arrival batch: 1
+Employee: EMP-12
+Trip reference: T86
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-86-1
+R-COST-86-1
+2026-09-01
+50.00
+EUR
+2
+COST-86-2
+R-COST-86-2
+2026-09-01
+35.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 86 of 120
+Claim reference: C87
+Revision: 1
+Arrival batch: 1
+Employee: EMP-13
+Trip reference: T87
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-87-1
+R-COST-87-1
+2026-09-01
+20.00
+EUR
+2
+COST-87-2
+R-COST-87-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 87 of 120
+Claim reference: C88
+Revision: 1
+Arrival batch: 1
+Employee: EMP-13
+Trip reference: T88
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-88-1
+R-COST-88-1
+2026-09-01
+25.00
+EUR
+2
+COST-88-2
+R-COST-88-2
+2026-09-01
+20.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 88 of 120
+Claim reference: C89
+Revision: 1
+Arrival batch: 1
+Employee: EMP-13
+Trip reference: T89
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-89-1
+R-COST-89-1
+2026-09-01
+40.00
+EUR
+2
+COST-89-2
+R-COST-89-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 89 of 120
+Claim reference: C90
+Revision: 1
+Arrival batch: 1
+Employee: EMP-13
+Trip reference: T90
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-90-1
+R-COST-90-1
+2026-09-01
+35.00
+EUR
+2
+COST-90-2
+R-COST-90-2
+2026-09-01
+30.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 90 of 120
+Claim reference: C91
+Revision: 1
+Arrival batch: 1
+Employee: EMP-13
+Trip reference: T91
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-91-1
+R-COST-91-1
+2026-09-01
+60.00
+EUR
+2
+COST-91-2
+R-COST-91-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 91 of 120
+Claim reference: C92
+Revision: 1
+Arrival batch: 1
+Employee: EMP-13
+Trip reference: T92
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-92-1
+R-COST-92-1
+2026-09-01
+50.00
+EUR
+2
+COST-92-2
+R-COST-92-2
+2026-09-01
+35.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 92 of 120
+Claim reference: C93
+Revision: 1
+Arrival batch: 1
+Employee: EMP-14
+Trip reference: T93
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-93-1
+R-COST-93-1
+2026-09-01
+20.00
+EUR
+2
+COST-93-2
+R-COST-93-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 93 of 120
+Claim reference: C94
+Revision: 1
+Arrival batch: 1
+Employee: EMP-14
+Trip reference: T94
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-94-1
+R-COST-94-1
+2026-09-01
+25.00
+EUR
+2
+COST-94-2
+R-COST-94-2
+2026-09-01
+20.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 94 of 120
+Claim reference: C95
+Revision: 1
+Arrival batch: 1
+Employee: EMP-14
+Trip reference: T95
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-95-1
+R-COST-95-1
+2026-09-01
+40.00
+EUR
+2
+COST-95-2
+R-COST-95-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 95 of 120
+Claim reference: C96
+Revision: 1
+Arrival batch: 1
+Employee: EMP-14
+Trip reference: T96
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-96-1
+R-COST-96-1
+2026-09-01
+35.00
+EUR
+2
+COST-96-2
+R-COST-96-2
+2026-09-01
+30.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 96 of 120
+Claim reference: C97
+Revision: 1
+Arrival batch: 1
+Employee: EMP-14
+Trip reference: T97
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-97-1
+R-COST-97-1
+2026-09-01
+60.00
+EUR
+2
+COST-97-2
+R-COST-97-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 97 of 120
+Claim reference: C98
+Revision: 1
+Arrival batch: 1
+Employee: EMP-14
+Trip reference: T98
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-98-1
+R-COST-98-1
+2026-09-01
+50.00
+EUR
+2
+COST-98-2
+R-COST-98-2
+2026-09-01
+35.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 98 of 120
+Claim reference: C99
+Revision: 1
+Arrival batch: 1
+Employee: EMP-03
+Trip reference: T99
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-99-1
+R-COST-99-1
+2026-09-01
+999.99
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 99 of 120
+Claim reference: C100
+Revision: 1
+Arrival batch: 1
+Employee: EMP-03
+Trip reference: T100
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-100-1
+R-COST-100-1
+2026-09-01
+1000.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 100 of 120
+Claim reference: C101
+Revision: 1
+Arrival batch: 1
+Employee: EMP-03
+Trip reference: T101
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-101-1
+R-COST-101-1
+2026-09-01
+1000.01
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 101 of 120
+Claim reference: C102
+Revision: 1
+Arrival batch: 1
+Employee: EMP-03
+Trip reference: T102
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-102-1
+R-COST-102-1
+2026-09-01
+149.99
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 102 of 120
+Claim reference: C103
+Revision: 1
+Arrival batch: 1
+Employee: EMP-03
+Trip reference: T103
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-103-1
+R-COST-103-1
+2026-09-01
+150.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 103 of 120
+Claim reference: C104
+Revision: 1
+Arrival batch: 1
+Employee: EMP-03
+Trip reference: T104
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-104-1
+R-COST-104-1
+2026-09-01
+150.01
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 104 of 120
+Claim reference: C105
+Revision: 1
+Arrival batch: 1
+Employee: EMP-03
+Trip reference: T105
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-105-1
+R-COST-105-1
+2026-09-01
+39.99
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 105 of 120
+Claim reference: C106
+Revision: 1
+Arrival batch: 1
+Employee: EMP-03
+Trip reference: T106
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-106-1
+R-COST-106-1
+2026-09-01
+40.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 106 of 120
+Claim reference: C107
+Revision: 1
+Arrival batch: 1
+Employee: EMP-03
+Trip reference: T107
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-107-1
+R-COST-107-1
+2026-09-01
+40.01
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 107 of 120
+Claim reference: C108
+Revision: 1
+Arrival batch: 1
+Employee: EMP-03
+Trip reference: T108
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-108-1
+R-COST-108-1
+2026-09-01
+1.15
+USD
+2
+COST-108-2
+R-COST-108-2
+2026-09-01
+1.15
+USD
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 108 of 120
+Claim reference: C109
+Revision: 1
+Arrival batch: 1
+Employee: EMP-03
+Trip reference: T109
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-109-1
+R-COST-109-1
+2026-09-01
+1.16
+USD
+2
+COST-109-2
+R-COST-109-2
+2026-09-01
+1.16
+USD
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 109 of 120
+Claim reference: C110
+Revision: 1
+Arrival batch: 1
+Employee: EMP-03
+Trip reference: T110
+Trip revision: 1
+Submitted date: 2026-08-31
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-110-1
+R-COST-110-1
+2026-08-31
+25.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 110 of 120
+Claim reference: C111
+Revision: 1
+Arrival batch: 1
+Employee: EMP-03
+Trip reference: T111
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-111-1
+R-COST-111-1
+2026-09-01
+25.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 111 of 120
+Claim reference: C112
+Revision: 1
+Arrival batch: 1
+Employee: EMP-03
+Trip reference: T112
+Trip revision: 1
+Submitted date: 2026-09-02
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-112-1
+R-COST-112-1
+2026-09-02
+25.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 112 of 120
+Claim reference: C113
+Revision: 1
+Arrival batch: 1
+Employee: EMP-03
+Trip reference: T113
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-113-1
+R-COST-113-1
+2026-09-01
+25.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 113 of 120
+Claim reference: C114
+Revision: 1
+Arrival batch: 1
+Employee: EMP-03
+Trip reference: T114
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-114-1
+R-COST-114-1
+2026-09-01
+20.00
+EUR
+2
+COST-114-2
+R-COST-114-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 114 of 120
+Claim reference: C115
+Revision: 1
+Arrival batch: 1
+Employee: EMP-03
+Trip reference: T115
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-115-1
+R-COST-115-1
+2026-09-01
+10.00
+EUR
+2
+COST-115-2
+R-COST-115-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 115 of 120
+Claim reference: C116
+Revision: 1
+Arrival batch: 1
+Employee: EMP-03
+Trip reference: T116
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-116-1
+R-COST-116-1
+2026-09-01
+50.00
+USD
+2
+COST-116-2
+R-COST-116-2
+2026-09-01
+10.00
+GBP
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 116 of 120
+Claim reference: C117
+Revision: 1
+Arrival batch: 1
+Employee: EMP-03
+Trip reference: T117
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-117-1
+R-COST-117-1
+2026-09-01
+10.00
+EUR
+2
+COST-117-2
+R-COST-117-2
+2026-09-01
+40.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 117 of 120
+Claim reference: C118
+Revision: 1
+Arrival batch: 1
+Employee: EMP-03
+Trip reference: T118
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-118-1
+R-COST-118-1
+2026-09-01
+10.00
+EUR
+2
+COST-118-2
+R-COST-118-2
+2026-09-01
+15.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 118 of 120
+Claim reference: C119
+Revision: 1
+Arrival batch: 1
+Employee: EMP-03
+Trip reference: T119
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-119-1
+R-COST-119-1
+2026-09-01
+1000.01
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 119 of 120
+Claim reference: C120
+Revision: 1
+Arrival batch: 1
+Employee: EMP-04
+Trip reference: T120
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Employee requests reimbursement for the documented trip costs
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-120-1
+R-COST-120-1
+2026-09-01
+50.00
+EUR
+2
+COST-120-2
+R-COST-120-2
+2026-09-01
+25.00
+EUR
+Finance exception: Not supplied
+
+Travel expense claim
+Employee submission and supporting expense references
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 120 of 120
+Claim reference: C121
+Revision: 1
+Arrival batch: 1
+Employee: EMP-01
+Trip reference: T121
+Trip revision: 1
+Submitted date: 2026-09-01
+Status: submitted
+Claim reason: Paid travel booking reimbursement
+Related earlier claims: None
+Expense details
+Line
+Expense reference
+Receipt reference
+First submitted date
+Original amount
+Currency
+1
+COST-121
+R-COST-121
+2026-09-01
+30.00
+EUR
+Finance exception: Not supplied

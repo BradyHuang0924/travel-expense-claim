@@ -1,0 +1,2539 @@
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 1 of 102
+Receipt reference: R-COST-01
+Expense reference: COST-01
+Employee: EMP-01
+Trip reference: T01
+Category: transport
+Currency: EUR
+Gross amount: 100.00
+Documented units: 1
+Description: Travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-02
+Expense reference: COST-02
+Employee: EMP-01
+Trip reference: T02
+Category: transport
+Currency: USD
+Gross amount: 600.00
+Documented units: 1
+Description: Travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 2 of 102
+Receipt reference: R-COST-03
+Expense reference: COST-03
+Employee: EMP-01
+Trip reference: T03
+Category: conference
+Currency: EUR
+Gross amount: 200.00
+Documented units: 1
+Description: Travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-04
+Expense reference: COST-04
+Employee: EMP-02
+Trip reference: T04
+Category: transport
+Currency: EUR
+Gross amount: 100.00
+Documented units: 1
+Description: Travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 3 of 102
+Receipt reference: R-COST-05
+Expense reference: COST-05
+Employee: EMP-01
+Trip reference: T05
+Category: conference
+Currency: EUR
+Gross amount: 1000.00
+Documented units: 1
+Description: Travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-06
+Expense reference: COST-06
+Employee: EMP-01
+Trip reference: T06
+Category: conference
+Currency: EUR
+Gross amount: 1000.01
+Documented units: 1
+Description: Travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 4 of 102
+Receipt reference: R-COST-07
+Expense reference: COST-07
+Employee: EMP-01
+Trip reference: T07
+Category: lodging
+Currency: EUR
+Gross amount: 360.00
+Documented units: 2
+Description: Travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-08
+Expense reference: COST-08
+Employee: EMP-01
+Trip reference: T08
+Category: transport
+Currency: EUR
+Gross amount: 120.00
+Documented units: 1
+Description: Travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 5 of 102
+Receipt reference: R-COST-09
+Expense reference: COST-09
+Employee: EMP-01
+Trip reference: T09
+Category: transport
+Currency: EUR
+Gross amount: 80.00
+Documented units: 1
+Description: Travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-10
+Expense reference: COST-10
+Employee: EMP-01
+Trip reference: T10
+Category: transport
+Currency: EUR
+Gross amount: 90.00
+Documented units: 1
+Description: Travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 6 of 102
+Receipt reference: R-COST-11
+Expense reference: COST-11
+Employee: EMP-01
+Trip reference: T11
+Category: transport
+Currency: EUR
+Gross amount: 60.00
+Documented units: 1
+Description: Travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-12
+Expense reference: COST-12
+Employee: EMP-01
+Trip reference: T12
+Category: transport
+Currency: EUR
+Gross amount: 70.00
+Documented units: 1
+Description: Travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 7 of 102
+Receipt reference: R-COST-13
+Expense reference: COST-13
+Employee: EMP-01
+Trip reference: T13
+Category: transport
+Currency: EUR
+Gross amount: 50.00
+Documented units: 1
+Description: Travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-14
+Expense reference: COST-14
+Employee: EMP-01
+Trip reference: T14
+Category: transport
+Currency: EUR
+Gross amount: 40.00
+Documented units: 1
+Description: Travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 8 of 102
+Receipt reference: R-COST-15
+Expense reference: COST-15
+Employee: EMP-01
+Trip reference: T15
+Category: personal
+Currency: EUR
+Gross amount: 30.00
+Documented units: 1
+Description: Travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-16
+Expense reference: COST-16
+Employee: EMP-01
+Trip reference: T16
+Category: transport
+Currency: EUR
+Gross amount: 100.00
+Documented units: 1
+Description: Travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 9 of 102
+Receipt reference: R-COST-17
+Expense reference: COST-17
+Employee: EMP-01
+Trip reference: T17
+Category: transport
+Currency: EUR
+Gross amount: 100.00
+Documented units: 1
+Description: Travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-18
+Expense reference: COST-18
+Employee: EMP-01
+Trip reference: T18
+Category: transport
+Currency: EUR
+Gross amount: 100.00
+Documented units: 1
+Description: Travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 10 of 102
+Receipt reference: R-COST-19
+Expense reference: COST-19
+Employee: EMP-01
+Trip reference: T19
+Category: transport
+Currency: EUR
+Gross amount: 100.00
+Documented units: 1
+Description: Travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-20
+Expense reference: COST-20
+Employee: EMP-01
+Trip reference: T20
+Category: transport
+Currency: EUR
+Gross amount: 100.00
+Documented units: 1
+Description: Travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 11 of 102
+Receipt reference: R-COST-21
+Expense reference: COST-21
+Employee: EMP-01
+Trip reference: T21
+Category: transport
+Currency: EUR
+Gross amount: 80.00
+Documented units: 1
+Description: Travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-22
+Expense reference: COST-22
+Employee: EMP-01
+Trip reference: T22
+Category: transport
+Currency: GBP
+Gross amount: 45.00
+Documented units: 1
+Description: Travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 12 of 102
+Receipt reference: R-COST-23
+Expense reference: COST-23
+Employee: EMP-01
+Trip reference: T23
+Category: lodging
+Currency: EUR
+Gross amount: 170.00
+Documented units: 1
+Description: Travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-09B
+Expense reference: COST-09B
+Employee: EMP-01
+Trip reference: T09B
+Category: transport
+Currency: EUR
+Gross amount: 80.00
+Documented units: 1
+Description: Travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 13 of 102
+Receipt reference: R-COST-24
+Expense reference: COST-24
+Employee: EMP-01
+Trip reference: T03
+Category: transport
+Currency: EUR
+Gross amount: 50.00
+Documented units: 1
+Description: Additional booked transport
+Issued date: 2026-09-01
+Receipt reference: R-COST-18B
+Expense reference: COST-18B
+Employee: EMP-01
+Trip reference: T18B
+Category: transport
+Currency: EUR
+Gross amount: 100.00
+Documented units: 1
+Description: Travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 14 of 102
+Receipt reference: R-COST-25
+Expense reference: COST-25
+Employee: EMP-01
+Trip reference: T25
+Category: transport
+Currency: EUR
+Gross amount: 100.00
+Documented units: 1
+Description: Travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-26
+Expense reference: COST-26
+Employee: EMP-01
+Trip reference: T26
+Category: transport
+Currency: EUR
+Gross amount: 100.00
+Documented units: 1
+Description: Travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 15 of 102
+Receipt reference: R-COST-27-1
+Expense reference: COST-27-1
+Employee: EMP-03
+Trip reference: T27
+Category: transport
+Currency: EUR
+Gross amount: 20.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-27-2
+Expense reference: COST-27-2
+Employee: EMP-03
+Trip reference: T27
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 16 of 102
+Receipt reference: R-COST-28-1
+Expense reference: COST-28-1
+Employee: EMP-03
+Trip reference: T28
+Category: transport
+Currency: EUR
+Gross amount: 25.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-28-2
+Expense reference: COST-28-2
+Employee: EMP-03
+Trip reference: T28
+Category: conference
+Currency: EUR
+Gross amount: 20.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 17 of 102
+Receipt reference: R-COST-29-1
+Expense reference: COST-29-1
+Employee: EMP-03
+Trip reference: T29
+Category: lodging
+Currency: EUR
+Gross amount: 40.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-29-2
+Expense reference: COST-29-2
+Employee: EMP-03
+Trip reference: T29
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 18 of 102
+Receipt reference: R-COST-30-1
+Expense reference: COST-30-1
+Employee: EMP-03
+Trip reference: T30
+Category: transport
+Currency: EUR
+Gross amount: 35.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-30-2
+Expense reference: COST-30-2
+Employee: EMP-03
+Trip reference: T30
+Category: conference
+Currency: EUR
+Gross amount: 30.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 19 of 102
+Receipt reference: R-COST-31-1
+Expense reference: COST-31-1
+Employee: EMP-03
+Trip reference: T31
+Category: lodging
+Currency: EUR
+Gross amount: 60.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-31-2
+Expense reference: COST-31-2
+Employee: EMP-03
+Trip reference: T31
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 20 of 102
+Receipt reference: R-COST-32-1
+Expense reference: COST-32-1
+Employee: EMP-03
+Trip reference: T32
+Category: transport
+Currency: EUR
+Gross amount: 50.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-32-2
+Expense reference: COST-32-2
+Employee: EMP-03
+Trip reference: T32
+Category: meals
+Currency: EUR
+Gross amount: 35.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 21 of 102
+Receipt reference: R-COST-33-1
+Expense reference: COST-33-1
+Employee: EMP-04
+Trip reference: T33
+Category: transport
+Currency: EUR
+Gross amount: 20.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-33-2
+Expense reference: COST-33-2
+Employee: EMP-04
+Trip reference: T33
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 22 of 102
+Receipt reference: R-COST-34-1
+Expense reference: COST-34-1
+Employee: EMP-04
+Trip reference: T34
+Category: transport
+Currency: EUR
+Gross amount: 25.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-34-2
+Expense reference: COST-34-2
+Employee: EMP-04
+Trip reference: T34
+Category: conference
+Currency: EUR
+Gross amount: 20.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 23 of 102
+Receipt reference: R-COST-35-1
+Expense reference: COST-35-1
+Employee: EMP-04
+Trip reference: T35
+Category: lodging
+Currency: EUR
+Gross amount: 40.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-35-2
+Expense reference: COST-35-2
+Employee: EMP-04
+Trip reference: T35
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 24 of 102
+Receipt reference: R-COST-36-1
+Expense reference: COST-36-1
+Employee: EMP-04
+Trip reference: T36
+Category: transport
+Currency: EUR
+Gross amount: 35.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-36-2
+Expense reference: COST-36-2
+Employee: EMP-04
+Trip reference: T36
+Category: conference
+Currency: EUR
+Gross amount: 30.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 25 of 102
+Receipt reference: R-COST-37-1
+Expense reference: COST-37-1
+Employee: EMP-04
+Trip reference: T37
+Category: lodging
+Currency: EUR
+Gross amount: 60.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-37-2
+Expense reference: COST-37-2
+Employee: EMP-04
+Trip reference: T37
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 26 of 102
+Receipt reference: R-COST-38-1
+Expense reference: COST-38-1
+Employee: EMP-04
+Trip reference: T38
+Category: transport
+Currency: EUR
+Gross amount: 50.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-38-2
+Expense reference: COST-38-2
+Employee: EMP-04
+Trip reference: T38
+Category: meals
+Currency: EUR
+Gross amount: 35.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 27 of 102
+Receipt reference: R-COST-39-1
+Expense reference: COST-39-1
+Employee: EMP-05
+Trip reference: T39
+Category: transport
+Currency: EUR
+Gross amount: 20.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-39-2
+Expense reference: COST-39-2
+Employee: EMP-05
+Trip reference: T39
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 28 of 102
+Receipt reference: R-COST-40-1
+Expense reference: COST-40-1
+Employee: EMP-05
+Trip reference: T40
+Category: transport
+Currency: EUR
+Gross amount: 25.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-40-2
+Expense reference: COST-40-2
+Employee: EMP-05
+Trip reference: T40
+Category: conference
+Currency: EUR
+Gross amount: 20.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 29 of 102
+Receipt reference: R-COST-41-1
+Expense reference: COST-41-1
+Employee: EMP-05
+Trip reference: T41
+Category: lodging
+Currency: EUR
+Gross amount: 40.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-41-2
+Expense reference: COST-41-2
+Employee: EMP-05
+Trip reference: T41
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 30 of 102
+Receipt reference: R-COST-42-1
+Expense reference: COST-42-1
+Employee: EMP-05
+Trip reference: T42
+Category: transport
+Currency: EUR
+Gross amount: 35.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-42-2
+Expense reference: COST-42-2
+Employee: EMP-05
+Trip reference: T42
+Category: conference
+Currency: EUR
+Gross amount: 30.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 31 of 102
+Receipt reference: R-COST-43-1
+Expense reference: COST-43-1
+Employee: EMP-05
+Trip reference: T43
+Category: lodging
+Currency: EUR
+Gross amount: 60.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-43-2
+Expense reference: COST-43-2
+Employee: EMP-05
+Trip reference: T43
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 32 of 102
+Receipt reference: R-COST-44-1
+Expense reference: COST-44-1
+Employee: EMP-05
+Trip reference: T44
+Category: transport
+Currency: EUR
+Gross amount: 50.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-44-2
+Expense reference: COST-44-2
+Employee: EMP-05
+Trip reference: T44
+Category: meals
+Currency: EUR
+Gross amount: 35.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 33 of 102
+Receipt reference: R-COST-45-1
+Expense reference: COST-45-1
+Employee: EMP-06
+Trip reference: T45
+Category: transport
+Currency: EUR
+Gross amount: 20.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-45-2
+Expense reference: COST-45-2
+Employee: EMP-06
+Trip reference: T45
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 34 of 102
+Receipt reference: R-COST-46-1
+Expense reference: COST-46-1
+Employee: EMP-06
+Trip reference: T46
+Category: transport
+Currency: EUR
+Gross amount: 25.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-46-2
+Expense reference: COST-46-2
+Employee: EMP-06
+Trip reference: T46
+Category: conference
+Currency: EUR
+Gross amount: 20.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 35 of 102
+Receipt reference: R-COST-47-1
+Expense reference: COST-47-1
+Employee: EMP-06
+Trip reference: T47
+Category: lodging
+Currency: EUR
+Gross amount: 40.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-47-2
+Expense reference: COST-47-2
+Employee: EMP-06
+Trip reference: T47
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 36 of 102
+Receipt reference: R-COST-48-1
+Expense reference: COST-48-1
+Employee: EMP-06
+Trip reference: T48
+Category: transport
+Currency: EUR
+Gross amount: 35.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-48-2
+Expense reference: COST-48-2
+Employee: EMP-06
+Trip reference: T48
+Category: conference
+Currency: EUR
+Gross amount: 30.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 37 of 102
+Receipt reference: R-COST-49-1
+Expense reference: COST-49-1
+Employee: EMP-06
+Trip reference: T49
+Category: lodging
+Currency: EUR
+Gross amount: 60.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-49-2
+Expense reference: COST-49-2
+Employee: EMP-06
+Trip reference: T49
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 38 of 102
+Receipt reference: R-COST-50-1
+Expense reference: COST-50-1
+Employee: EMP-06
+Trip reference: T50
+Category: transport
+Currency: EUR
+Gross amount: 50.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-50-2
+Expense reference: COST-50-2
+Employee: EMP-06
+Trip reference: T50
+Category: meals
+Currency: EUR
+Gross amount: 35.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 39 of 102
+Receipt reference: R-COST-51-1
+Expense reference: COST-51-1
+Employee: EMP-07
+Trip reference: T51
+Category: transport
+Currency: EUR
+Gross amount: 20.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-51-2
+Expense reference: COST-51-2
+Employee: EMP-07
+Trip reference: T51
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 40 of 102
+Receipt reference: R-COST-52-1
+Expense reference: COST-52-1
+Employee: EMP-07
+Trip reference: T52
+Category: transport
+Currency: EUR
+Gross amount: 25.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-52-2
+Expense reference: COST-52-2
+Employee: EMP-07
+Trip reference: T52
+Category: conference
+Currency: EUR
+Gross amount: 20.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 41 of 102
+Receipt reference: R-COST-53-1
+Expense reference: COST-53-1
+Employee: EMP-07
+Trip reference: T53
+Category: lodging
+Currency: EUR
+Gross amount: 40.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-53-2
+Expense reference: COST-53-2
+Employee: EMP-07
+Trip reference: T53
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 42 of 102
+Receipt reference: R-COST-54-1
+Expense reference: COST-54-1
+Employee: EMP-07
+Trip reference: T54
+Category: transport
+Currency: EUR
+Gross amount: 35.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-54-2
+Expense reference: COST-54-2
+Employee: EMP-07
+Trip reference: T54
+Category: conference
+Currency: EUR
+Gross amount: 30.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 43 of 102
+Receipt reference: R-COST-55-1
+Expense reference: COST-55-1
+Employee: EMP-07
+Trip reference: T55
+Category: lodging
+Currency: EUR
+Gross amount: 60.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-55-2
+Expense reference: COST-55-2
+Employee: EMP-07
+Trip reference: T55
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 44 of 102
+Receipt reference: R-COST-56-1
+Expense reference: COST-56-1
+Employee: EMP-07
+Trip reference: T56
+Category: transport
+Currency: EUR
+Gross amount: 50.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-56-2
+Expense reference: COST-56-2
+Employee: EMP-07
+Trip reference: T56
+Category: meals
+Currency: EUR
+Gross amount: 35.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 45 of 102
+Receipt reference: R-COST-57-1
+Expense reference: COST-57-1
+Employee: EMP-08
+Trip reference: T57
+Category: transport
+Currency: EUR
+Gross amount: 20.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-57-2
+Expense reference: COST-57-2
+Employee: EMP-08
+Trip reference: T57
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 46 of 102
+Receipt reference: R-COST-58-1
+Expense reference: COST-58-1
+Employee: EMP-08
+Trip reference: T58
+Category: transport
+Currency: EUR
+Gross amount: 25.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-58-2
+Expense reference: COST-58-2
+Employee: EMP-08
+Trip reference: T58
+Category: conference
+Currency: EUR
+Gross amount: 20.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 47 of 102
+Receipt reference: R-COST-59-1
+Expense reference: COST-59-1
+Employee: EMP-08
+Trip reference: T59
+Category: lodging
+Currency: EUR
+Gross amount: 40.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-59-2
+Expense reference: COST-59-2
+Employee: EMP-08
+Trip reference: T59
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 48 of 102
+Receipt reference: R-COST-60-1
+Expense reference: COST-60-1
+Employee: EMP-08
+Trip reference: T60
+Category: transport
+Currency: EUR
+Gross amount: 35.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-60-2
+Expense reference: COST-60-2
+Employee: EMP-08
+Trip reference: T60
+Category: conference
+Currency: EUR
+Gross amount: 30.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 49 of 102
+Receipt reference: R-COST-61-1
+Expense reference: COST-61-1
+Employee: EMP-08
+Trip reference: T61
+Category: lodging
+Currency: EUR
+Gross amount: 60.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-61-2
+Expense reference: COST-61-2
+Employee: EMP-08
+Trip reference: T61
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 50 of 102
+Receipt reference: R-COST-62-1
+Expense reference: COST-62-1
+Employee: EMP-08
+Trip reference: T62
+Category: transport
+Currency: EUR
+Gross amount: 50.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-62-2
+Expense reference: COST-62-2
+Employee: EMP-08
+Trip reference: T62
+Category: meals
+Currency: EUR
+Gross amount: 35.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 51 of 102
+Receipt reference: R-COST-63-1
+Expense reference: COST-63-1
+Employee: EMP-09
+Trip reference: T63
+Category: transport
+Currency: EUR
+Gross amount: 20.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-63-2
+Expense reference: COST-63-2
+Employee: EMP-09
+Trip reference: T63
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 52 of 102
+Receipt reference: R-COST-64-1
+Expense reference: COST-64-1
+Employee: EMP-09
+Trip reference: T64
+Category: transport
+Currency: EUR
+Gross amount: 25.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-64-2
+Expense reference: COST-64-2
+Employee: EMP-09
+Trip reference: T64
+Category: conference
+Currency: EUR
+Gross amount: 20.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 53 of 102
+Receipt reference: R-COST-65-1
+Expense reference: COST-65-1
+Employee: EMP-09
+Trip reference: T65
+Category: lodging
+Currency: EUR
+Gross amount: 40.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-65-2
+Expense reference: COST-65-2
+Employee: EMP-09
+Trip reference: T65
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 54 of 102
+Receipt reference: R-COST-66-1
+Expense reference: COST-66-1
+Employee: EMP-09
+Trip reference: T66
+Category: transport
+Currency: EUR
+Gross amount: 35.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-66-2
+Expense reference: COST-66-2
+Employee: EMP-09
+Trip reference: T66
+Category: conference
+Currency: EUR
+Gross amount: 30.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 55 of 102
+Receipt reference: R-COST-67-1
+Expense reference: COST-67-1
+Employee: EMP-09
+Trip reference: T67
+Category: lodging
+Currency: EUR
+Gross amount: 60.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-67-2
+Expense reference: COST-67-2
+Employee: EMP-09
+Trip reference: T67
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 56 of 102
+Receipt reference: R-COST-68-1
+Expense reference: COST-68-1
+Employee: EMP-09
+Trip reference: T68
+Category: transport
+Currency: EUR
+Gross amount: 50.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-68-2
+Expense reference: COST-68-2
+Employee: EMP-09
+Trip reference: T68
+Category: meals
+Currency: EUR
+Gross amount: 35.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 57 of 102
+Receipt reference: R-COST-69-1
+Expense reference: COST-69-1
+Employee: EMP-10
+Trip reference: T69
+Category: transport
+Currency: EUR
+Gross amount: 20.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-69-2
+Expense reference: COST-69-2
+Employee: EMP-10
+Trip reference: T69
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 58 of 102
+Receipt reference: R-COST-70-1
+Expense reference: COST-70-1
+Employee: EMP-10
+Trip reference: T70
+Category: transport
+Currency: EUR
+Gross amount: 25.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-70-2
+Expense reference: COST-70-2
+Employee: EMP-10
+Trip reference: T70
+Category: conference
+Currency: EUR
+Gross amount: 20.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 59 of 102
+Receipt reference: R-COST-71-1
+Expense reference: COST-71-1
+Employee: EMP-10
+Trip reference: T71
+Category: lodging
+Currency: EUR
+Gross amount: 40.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-71-2
+Expense reference: COST-71-2
+Employee: EMP-10
+Trip reference: T71
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 60 of 102
+Receipt reference: R-COST-72-1
+Expense reference: COST-72-1
+Employee: EMP-10
+Trip reference: T72
+Category: transport
+Currency: EUR
+Gross amount: 35.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-72-2
+Expense reference: COST-72-2
+Employee: EMP-10
+Trip reference: T72
+Category: conference
+Currency: EUR
+Gross amount: 30.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 61 of 102
+Receipt reference: R-COST-73-1
+Expense reference: COST-73-1
+Employee: EMP-10
+Trip reference: T73
+Category: lodging
+Currency: EUR
+Gross amount: 60.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-73-2
+Expense reference: COST-73-2
+Employee: EMP-10
+Trip reference: T73
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 62 of 102
+Receipt reference: R-COST-74-1
+Expense reference: COST-74-1
+Employee: EMP-10
+Trip reference: T74
+Category: transport
+Currency: EUR
+Gross amount: 50.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-74-2
+Expense reference: COST-74-2
+Employee: EMP-10
+Trip reference: T74
+Category: meals
+Currency: EUR
+Gross amount: 35.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 63 of 102
+Receipt reference: R-COST-75-1
+Expense reference: COST-75-1
+Employee: EMP-11
+Trip reference: T75
+Category: transport
+Currency: EUR
+Gross amount: 20.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-75-2
+Expense reference: COST-75-2
+Employee: EMP-11
+Trip reference: T75
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 64 of 102
+Receipt reference: R-COST-76-1
+Expense reference: COST-76-1
+Employee: EMP-11
+Trip reference: T76
+Category: transport
+Currency: EUR
+Gross amount: 25.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-76-2
+Expense reference: COST-76-2
+Employee: EMP-11
+Trip reference: T76
+Category: conference
+Currency: EUR
+Gross amount: 20.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 65 of 102
+Receipt reference: R-COST-77-1
+Expense reference: COST-77-1
+Employee: EMP-11
+Trip reference: T77
+Category: lodging
+Currency: EUR
+Gross amount: 40.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-77-2
+Expense reference: COST-77-2
+Employee: EMP-11
+Trip reference: T77
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 66 of 102
+Receipt reference: R-COST-78-1
+Expense reference: COST-78-1
+Employee: EMP-11
+Trip reference: T78
+Category: transport
+Currency: EUR
+Gross amount: 35.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-78-2
+Expense reference: COST-78-2
+Employee: EMP-11
+Trip reference: T78
+Category: conference
+Currency: EUR
+Gross amount: 30.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 67 of 102
+Receipt reference: R-COST-79-1
+Expense reference: COST-79-1
+Employee: EMP-11
+Trip reference: T79
+Category: lodging
+Currency: EUR
+Gross amount: 60.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-79-2
+Expense reference: COST-79-2
+Employee: EMP-11
+Trip reference: T79
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 68 of 102
+Receipt reference: R-COST-80-1
+Expense reference: COST-80-1
+Employee: EMP-11
+Trip reference: T80
+Category: transport
+Currency: EUR
+Gross amount: 50.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-80-2
+Expense reference: COST-80-2
+Employee: EMP-11
+Trip reference: T80
+Category: meals
+Currency: EUR
+Gross amount: 35.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 69 of 102
+Receipt reference: R-COST-81-1
+Expense reference: COST-81-1
+Employee: EMP-12
+Trip reference: T81
+Category: transport
+Currency: EUR
+Gross amount: 20.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-81-2
+Expense reference: COST-81-2
+Employee: EMP-12
+Trip reference: T81
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 70 of 102
+Receipt reference: R-COST-82-1
+Expense reference: COST-82-1
+Employee: EMP-12
+Trip reference: T82
+Category: transport
+Currency: EUR
+Gross amount: 25.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-82-2
+Expense reference: COST-82-2
+Employee: EMP-12
+Trip reference: T82
+Category: conference
+Currency: EUR
+Gross amount: 20.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 71 of 102
+Receipt reference: R-COST-83-1
+Expense reference: COST-83-1
+Employee: EMP-12
+Trip reference: T83
+Category: lodging
+Currency: EUR
+Gross amount: 40.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-83-2
+Expense reference: COST-83-2
+Employee: EMP-12
+Trip reference: T83
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 72 of 102
+Receipt reference: R-COST-84-1
+Expense reference: COST-84-1
+Employee: EMP-12
+Trip reference: T84
+Category: transport
+Currency: EUR
+Gross amount: 35.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-84-2
+Expense reference: COST-84-2
+Employee: EMP-12
+Trip reference: T84
+Category: conference
+Currency: EUR
+Gross amount: 30.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 73 of 102
+Receipt reference: R-COST-85-1
+Expense reference: COST-85-1
+Employee: EMP-12
+Trip reference: T85
+Category: lodging
+Currency: EUR
+Gross amount: 60.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-85-2
+Expense reference: COST-85-2
+Employee: EMP-12
+Trip reference: T85
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 74 of 102
+Receipt reference: R-COST-86-1
+Expense reference: COST-86-1
+Employee: EMP-12
+Trip reference: T86
+Category: transport
+Currency: EUR
+Gross amount: 50.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-86-2
+Expense reference: COST-86-2
+Employee: EMP-12
+Trip reference: T86
+Category: meals
+Currency: EUR
+Gross amount: 35.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 75 of 102
+Receipt reference: R-COST-87-1
+Expense reference: COST-87-1
+Employee: EMP-13
+Trip reference: T87
+Category: transport
+Currency: EUR
+Gross amount: 20.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-87-2
+Expense reference: COST-87-2
+Employee: EMP-13
+Trip reference: T87
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 76 of 102
+Receipt reference: R-COST-88-1
+Expense reference: COST-88-1
+Employee: EMP-13
+Trip reference: T88
+Category: transport
+Currency: EUR
+Gross amount: 25.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-88-2
+Expense reference: COST-88-2
+Employee: EMP-13
+Trip reference: T88
+Category: conference
+Currency: EUR
+Gross amount: 20.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 77 of 102
+Receipt reference: R-COST-89-1
+Expense reference: COST-89-1
+Employee: EMP-13
+Trip reference: T89
+Category: lodging
+Currency: EUR
+Gross amount: 40.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-89-2
+Expense reference: COST-89-2
+Employee: EMP-13
+Trip reference: T89
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 78 of 102
+Receipt reference: R-COST-90-1
+Expense reference: COST-90-1
+Employee: EMP-13
+Trip reference: T90
+Category: transport
+Currency: EUR
+Gross amount: 35.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-90-2
+Expense reference: COST-90-2
+Employee: EMP-13
+Trip reference: T90
+Category: conference
+Currency: EUR
+Gross amount: 30.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 79 of 102
+Receipt reference: R-COST-91-1
+Expense reference: COST-91-1
+Employee: EMP-13
+Trip reference: T91
+Category: lodging
+Currency: EUR
+Gross amount: 60.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-91-2
+Expense reference: COST-91-2
+Employee: EMP-13
+Trip reference: T91
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 80 of 102
+Receipt reference: R-COST-92-1
+Expense reference: COST-92-1
+Employee: EMP-13
+Trip reference: T92
+Category: transport
+Currency: EUR
+Gross amount: 50.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-92-2
+Expense reference: COST-92-2
+Employee: EMP-13
+Trip reference: T92
+Category: meals
+Currency: EUR
+Gross amount: 35.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 81 of 102
+Receipt reference: R-COST-93-1
+Expense reference: COST-93-1
+Employee: EMP-14
+Trip reference: T93
+Category: transport
+Currency: EUR
+Gross amount: 20.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-93-2
+Expense reference: COST-93-2
+Employee: EMP-14
+Trip reference: T93
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 82 of 102
+Receipt reference: R-COST-94-1
+Expense reference: COST-94-1
+Employee: EMP-14
+Trip reference: T94
+Category: transport
+Currency: EUR
+Gross amount: 25.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-94-2
+Expense reference: COST-94-2
+Employee: EMP-14
+Trip reference: T94
+Category: conference
+Currency: EUR
+Gross amount: 20.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 83 of 102
+Receipt reference: R-COST-95-1
+Expense reference: COST-95-1
+Employee: EMP-14
+Trip reference: T95
+Category: lodging
+Currency: EUR
+Gross amount: 40.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-95-2
+Expense reference: COST-95-2
+Employee: EMP-14
+Trip reference: T95
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 84 of 102
+Receipt reference: R-COST-96-1
+Expense reference: COST-96-1
+Employee: EMP-14
+Trip reference: T96
+Category: transport
+Currency: EUR
+Gross amount: 35.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-96-2
+Expense reference: COST-96-2
+Employee: EMP-14
+Trip reference: T96
+Category: conference
+Currency: EUR
+Gross amount: 30.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 85 of 102
+Receipt reference: R-COST-97-1
+Expense reference: COST-97-1
+Employee: EMP-14
+Trip reference: T97
+Category: lodging
+Currency: EUR
+Gross amount: 60.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-97-2
+Expense reference: COST-97-2
+Employee: EMP-14
+Trip reference: T97
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 86 of 102
+Receipt reference: R-COST-98-1
+Expense reference: COST-98-1
+Employee: EMP-14
+Trip reference: T98
+Category: transport
+Currency: EUR
+Gross amount: 50.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-98-2
+Expense reference: COST-98-2
+Employee: EMP-14
+Trip reference: T98
+Category: meals
+Currency: EUR
+Gross amount: 35.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 87 of 102
+Receipt reference: R-COST-99-1
+Expense reference: COST-99-1
+Employee: EMP-03
+Trip reference: T99
+Category: conference
+Currency: EUR
+Gross amount: 999.99
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-100-1
+Expense reference: COST-100-1
+Employee: EMP-03
+Trip reference: T100
+Category: conference
+Currency: EUR
+Gross amount: 1000.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 88 of 102
+Receipt reference: R-COST-101-1
+Expense reference: COST-101-1
+Employee: EMP-03
+Trip reference: T101
+Category: conference
+Currency: EUR
+Gross amount: 1000.01
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-102-1
+Expense reference: COST-102-1
+Employee: EMP-03
+Trip reference: T102
+Category: lodging
+Currency: EUR
+Gross amount: 149.99
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 89 of 102
+Receipt reference: R-COST-103-1
+Expense reference: COST-103-1
+Employee: EMP-03
+Trip reference: T103
+Category: lodging
+Currency: EUR
+Gross amount: 150.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-104-1
+Expense reference: COST-104-1
+Employee: EMP-03
+Trip reference: T104
+Category: lodging
+Currency: EUR
+Gross amount: 150.01
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 90 of 102
+Receipt reference: R-COST-105-1
+Expense reference: COST-105-1
+Employee: EMP-03
+Trip reference: T105
+Category: meals
+Currency: EUR
+Gross amount: 39.99
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-106-1
+Expense reference: COST-106-1
+Employee: EMP-03
+Trip reference: T106
+Category: meals
+Currency: EUR
+Gross amount: 40.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 91 of 102
+Receipt reference: R-COST-107-1
+Expense reference: COST-107-1
+Employee: EMP-03
+Trip reference: T107
+Category: meals
+Currency: EUR
+Gross amount: 40.01
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-108-1
+Expense reference: COST-108-1
+Employee: EMP-03
+Trip reference: T108
+Category: transport
+Currency: USD
+Gross amount: 1.15
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 92 of 102
+Receipt reference: R-COST-108-2
+Expense reference: COST-108-2
+Employee: EMP-03
+Trip reference: T108
+Category: conference
+Currency: USD
+Gross amount: 1.15
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-109-1
+Expense reference: COST-109-1
+Employee: EMP-03
+Trip reference: T109
+Category: transport
+Currency: USD
+Gross amount: 1.16
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 93 of 102
+Receipt reference: R-COST-109-2
+Expense reference: COST-109-2
+Employee: EMP-03
+Trip reference: T109
+Category: conference
+Currency: USD
+Gross amount: 1.16
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-110-1
+Expense reference: COST-110-1
+Employee: EMP-03
+Trip reference: T110
+Category: transport
+Currency: EUR
+Gross amount: 25.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-08-30
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 94 of 102
+Receipt reference: R-COST-111-1
+Expense reference: COST-111-1
+Employee: EMP-03
+Trip reference: T111
+Category: transport
+Currency: EUR
+Gross amount: 25.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-08-30
+Receipt reference: R-COST-112-1
+Expense reference: COST-112-1
+Employee: EMP-03
+Trip reference: T112
+Category: transport
+Currency: EUR
+Gross amount: 25.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-08-30
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 95 of 102
+Receipt reference: R-COST-113-1
+Expense reference: COST-113-1
+Employee: EMP-03
+Trip reference: T113
+Category: transport
+Currency: EUR
+Gross amount: 25.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-02
+Receipt reference: R-COST-114-1
+Expense reference: COST-114-1
+Employee: EMP-03
+Trip reference: T114
+Category: transport
+Currency: EUR
+Gross amount: 20.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 96 of 102
+Receipt reference: R-COST-114-2
+Expense reference: COST-114-2
+Employee: EMP-03
+Trip reference: T114
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-115-1
+Expense reference: COST-115-1
+Employee: EMP-03
+Trip reference: T115
+Category: personal
+Currency: EUR
+Gross amount: 10.00
+Documented units: 1
+Description: Personal purchase included for transparency
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 97 of 102
+Receipt reference: R-COST-115-2
+Expense reference: COST-115-2
+Employee: EMP-03
+Trip reference: T115
+Category: meals
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-116-1
+Expense reference: COST-116-1
+Employee: EMP-03
+Trip reference: T116
+Category: lodging
+Currency: USD
+Gross amount: 50.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 98 of 102
+Receipt reference: R-COST-116-2
+Expense reference: COST-116-2
+Employee: EMP-03
+Trip reference: T116
+Category: transport
+Currency: GBP
+Gross amount: 10.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-117-1
+Expense reference: COST-117-1
+Employee: EMP-03
+Trip reference: T117
+Category: entertainment
+Currency: EUR
+Gross amount: 10.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 99 of 102
+Receipt reference: R-COST-117-2
+Expense reference: COST-117-2
+Employee: EMP-03
+Trip reference: T117
+Category: meals
+Currency: EUR
+Gross amount: 40.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-118-1
+Expense reference: COST-118-1
+Employee: EMP-03
+Trip reference: T118
+Category: personal
+Currency: EUR
+Gross amount: 10.00
+Documented units: 1
+Description: Personal purchase included for transparency
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 100 of 102
+Receipt reference: R-COST-118-2
+Expense reference: COST-118-2
+Employee: EMP-03
+Trip reference: T118
+Category: personal
+Currency: EUR
+Gross amount: 15.00
+Documented units: 1
+Description: Personal purchase included for transparency
+Issued date: 2026-09-01
+Receipt reference: R-COST-119-1
+Expense reference: COST-119-1
+Employee: EMP-03
+Trip reference: T119
+Category: conference
+Currency: EUR
+Gross amount: 1000.01
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 101 of 102
+Receipt reference: R-COST-120-1
+Expense reference: COST-120-1
+Employee: EMP-04
+Trip reference: T120
+Category: transport
+Currency: EUR
+Gross amount: 50.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+Receipt reference: R-COST-120-2
+Expense reference: COST-120-2
+Employee: EMP-04
+Trip reference: T120
+Category: meals
+Currency: EUR
+Gross amount: 25.00
+Documented units: 1
+Description: Business travel purchase
+Issued date: 2026-09-01
+
+Electronic expense receipts
+Purchase records. Merchant payment evidence is supplied separately.
+Alderbridge Consulting - synthetic business exercise - SRC-D-3
+Page 102 of 102
+Receipt reference: R-COST-121
+Expense reference: COST-121
+Employee: EMP-01
+Trip reference: T121
+Category: transport
+Currency: EUR
+Gross amount: 30.00
+Documented units: 1
+Description: Paid booking before permit cancellation
+Issued date: 2026-09-01
