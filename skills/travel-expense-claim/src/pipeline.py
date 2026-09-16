@@ -225,6 +225,7 @@ def evaluate_claim(doc, reg: Registers, receipts: dict, money_map, upto_batch: i
         claim=doc, status=status, lines=line_results, allowed_cents=allowed_cents,
         paid_cents=paid_cents, balance_cents=balance_cents, decision_ids=decision_ids,
         next_owner=next_owner, reason=reason, issues=issues, findings=findings,
+        approvals_complete=not missing, missing_roles=sorted(missing),
     )
 
 
@@ -266,14 +267,39 @@ def _status(doc, findings, issues, allowed_cents, paid_cents, m, rejected):
 
 
 def build_request(result: ClaimResult, m: finance.ClaimMoney, reg: Registers):
-    """block 8: a payment request is a proposal, not a transfer."""
+    """block 8: a payment request is a proposal, not a transfer.
+
+    Authorisation is asserted independently of what Finance has already done. A request
+    is only proposed when every required review response for the current revision has
+    arrived and approves (block 3, and block 5: administration checks the calculated
+    amount before the authorized request is assembled). If Finance has nonetheless
+    accepted a request for a claim whose approvals are incomplete, the row is kept --
+    dropping it would lose an accepted commitment from the shared ledger and break
+    reconciliation -- but it is recorded as held and an issue is raised rather than
+    passing silently.
+    """
     doc = result.claim
     if result.allowed_cents is None:
         return None
-    if not (m.accepted or m.settled_cents or result.status == "ready"):
+    finance_touched = bool(m.accepted or m.settled_cents)
+    if not finance_touched and not result.approvals_complete:
+        return None            # nothing authorized, nothing accepted: no proposal exists
+    if not finance_touched and result.status != "ready":
         return None
+
     people_row = reg.people.get(doc.employee_id, {})
-    if m.cancelled:
+    if finance_touched and not result.approvals_complete:
+        result.issues.append(Issue(
+            f"ISS-REQUEST-UNAUTHORIZED-{doc.claim_id}-{doc.revision}",
+            f"Finance has acted on {finance.request_id_for(doc.claim_id)} but "
+            f"{doc.claim_id} rev {doc.revision} is missing required approval(s) "
+            f"{', '.join(result.missing_roles)}. The accepted commitment is retained and "
+            f"the request is held; it is not treated as authorized.",
+            "ADMIN-01",
+            f"Supply the missing review response(s) for {', '.join(result.missing_roles)} "
+            f"on this claim revision, or Finance direction on the accepted commitment."))
+        status = "held"
+    elif m.cancelled:
         status = "cancelled"
     elif m.cancel_pending:
         status = "cancel-pending"
@@ -281,7 +307,7 @@ def build_request(result: ClaimResult, m: finance.ClaimMoney, reg: Registers):
         status = "settled"
     elif result.status == "held":
         status = "held"
-    elif m.accepted or m.settled_cents:
+    elif finance_touched:
         status = "accepted"
     else:
         status = "proposed"
@@ -296,6 +322,18 @@ def build_request(result: ClaimResult, m: finance.ClaimMoney, reg: Registers):
         "status": status,
         "decision_ids": result.decision_ids,
     }
+
+
+def resolve_original_requests(processes, requests) -> None:
+    """block 15: 'retain affected claim and original request links'.
+
+    Only a request that actually exists can be an original request link. A cancellation
+    process on a claim that never reached a proposal names no request at all.
+    """
+    existing = {r["request_id"] for r in requests}
+    for proc in processes:
+        proc.original_request_ids = sorted(
+            rid for rid in proc.original_request_ids if rid in existing)
 
 
 def snapshot(run_id: str, batch_id: str, predecessor, source_binding,

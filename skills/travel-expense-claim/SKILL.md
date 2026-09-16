@@ -16,14 +16,14 @@ request and never moves money.
 
 ## Scope of this revision
 
-Batch 1 end-to-end. Batches 2-4 reuse the same per-batch path and add the predecessor
-hash chain; they are not yet wired up.
+Batches 1 and 2, end to end. Batches 3 and 4 reuse the same per-batch path; they are not
+yet wired up.
 
 ## Run it
 
 ```
 pip install "jsonschema[format]" rfc3339-validator pypdf
-python -m skills.travel-expense-claim.src.run --batches 1
+python -m skills.travel-expense-claim.src.run --batches 1,2
 python -m skills.travel-expense-claim.src.verify artifacts/runs/<run-id>
 ```
 
@@ -66,6 +66,14 @@ SHA-256, so a rewritten history breaks the chain visibly.
   source. `verify` asserts the value never appears.
 * It will not assume a zero. An unknown category, missing evidence, missing rate or
   missing applicable cap yields `unresolved` with `allowed_cents: null`.
+* It will not treat a claim as authorised because Finance acted on it. Approvals are
+  asserted independently in `pipeline.build_request`; if Finance has accepted a request
+  whose claim is missing a required approval, the row is kept so the commitment stays in
+  the ledger, but it is recorded as `held` with an issue rather than passing silently.
+* It will not name a request that was never proposed. `original_request_ids` is filtered
+  to requests that actually exist in the same snapshot, and `verify` checks it.
+* It will not drop evidence it holds. A line records every source record the run looked
+  up for it, including when the decision short-circuits earlier.
 
 ## Layout
 
